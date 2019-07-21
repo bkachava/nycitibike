@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>CitiBike NYC</title>
+    <title>Citi Bike NYC</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/lux/bootstrap.min.css" media="screen">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
@@ -48,7 +48,13 @@
    	   <div class="col-md-2"><p></p><p></p>
           <h3 class="text-center">2017</h3>
           <hr class="my-6">
-            <p class="text-info text-justify"><strong>xxx.</strong></p>
+             <p class="text-danger text-justify font-weight-bold">For this section, you must take
+			 the results with caution, due to the following reasons:</p>
+            <p></p>
+            <p class="text-info text-justify font-weight-bold">Age was calculated with the Birth Year 
+			given by the user.<br><br>When the Birth Year was missing, the median age for the same gender
+			was used.<br><br> After finishing the calculations, for some cases, the information 
+			is not credible. See the maximum value for age in the graph.</p>
             <p></p>
         </div>
 
@@ -62,12 +68,23 @@
         <div class="col-md">
         </div>
    	   <div class="col-md-2"><p></p><p></p>
-            <p class="text-info text-justify"><strong>yyy</strong></p>
-              <p></p>
+  		    <p class="text-muted text-justify font-weight-bold">Also, in the Citi Bike System Data
+			there is a note stating that data has been processed to remove certain kind of trips,
+			however, there were trips with more than 3 hours of duration and even some lasted a 
+			full week, but to a service station.</p>
+			
+            <p class="text-info text-justify font-weight-bold">For Subscribers, the situation
+			is more manageable because the Citi Bike Program can implement controls to validate
+			the Birth Year and the overall average trip duration was 14 minutes, even considering 
+			the outlier with 127 years old and 82 minutes for trip duration.</p>
+			
+			<p class="text-muted text-justify font-weight-bold">Remember that most of the trips were
+			made by Subscribers, so it is important to notice that the average duration of the trip 
+			did not change by age.</p>
 
         </div>
         <div class="col-md-9">
-		<div class='tableauPlaceholder' id='viz1563603182711' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2017_15635661938330&#47;AgeDur&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='citibike2017_15635661938330&#47;AgeDur' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2017_15635661938330&#47;AgeDur&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1563603182711');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+		<div class='tableauPlaceholder' id='viz1563603182711' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2017_15635661938330&#47;AgeDur&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='citibike2017_15635661938330&#47;AgeDur' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2017_15635661938330&#47;AgeDur&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1563603182711');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.6)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
        </div>   
 	      
     </div>
@@ -78,13 +95,15 @@
    	   <div class="col-md-2"><p></p><p></p>
            <h3 class="text-center">2018</h3>
           <hr class="my-6">
-
-            <p class="text-info text-justify"><strong>yyy</strong></p>
-              <p></p>
+	         <p class="text-info text-justify font-weight-bold">For this year, there was no missing data
+			 for the Birth Year and Age was also calculated with the Birth Year given by the user.
+			 <br> After finishing the calculations, for some cases, the information 
+			is not credible. See the maximum value for age in the graph.</p>
+            <p></p>
 
         </div>
         <div class="col-md-9">
-     <div class='tableauPlaceholder' id='viz1563603134953' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2018_15635704628040&#47;AgeTrips&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='citibike2018_15635704628040&#47;AgeTrips' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2018_15635704628040&#47;AgeTrips&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1563603134953');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+     <div class='tableauPlaceholder' id='viz1563603134953' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2018_15635704628040&#47;AgeTrips&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='citibike2018_15635704628040&#47;AgeTrips' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2018_15635704628040&#47;AgeTrips&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1563603134953');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.6)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
        </div>   
 	      
     </div>
@@ -93,12 +112,13 @@
         <div class="col-md">
         </div>
    	   <div class="col-md-2"><p></p><p></p>
-            <p class="text-info text-justify"><strong>yyy</strong></p>
-              <p></p>
+            <p class="text-muted text-justify font-weight-bold">To discover the real trip duration 
+			for Customers, the Citi Bike Program must exclude trips that were made to service 
+			stations or those trips where faced with technical difficulties.</p>
 
         </div>
         <div class="col-md-9">
-	      <div class='tableauPlaceholder' id='viz1563603220543' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2018_15635704628040&#47;AgeDur&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='citibike2018_15635704628040&#47;AgeDur' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2018_15635704628040&#47;AgeDur&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1563603220543');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+	      <div class='tableauPlaceholder' id='viz1563603220543' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2018_15635704628040&#47;AgeDur&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='citibike2018_15635704628040&#47;AgeDur' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2018_15635704628040&#47;AgeDur&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1563603220543');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.6)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
        </div>   
 	      
     </div>
