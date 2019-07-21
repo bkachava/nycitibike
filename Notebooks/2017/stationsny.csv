@@ -1,0 +1,979 @@
+﻿Número de registros,Número de registros por stations.json,Altitude,Available Bikes,Available Docks,City,Execution Time,Id,Land Mark,Last Communication Time,Latitude,Location,Longitude,Postal Code,stAddress1,stAddress2,stationBeanList Índice (generado),Station Name,Status Key,Status Value,Test Station,Total Docks,Índice Del Documento (Generado)
+1,1,,11,35,,16/07/2019 14:13,168,,16/07/2019 14:09,40.73971301,,-73.99456405,,W 18 St & 6 Ave,,1,W 18 St & 6 Ave,1,In Service,Falso,47,1
+1,1,,25,39,,16/07/2019 14:13,281,,16/07/2019 14:11,40.7643971,,-73.97371465,,Grand Army Plaza & Central Park S,,2,Grand Army Plaza & Central Park S,1,In Service,Falso,66,1
+1,1,,15,38,,16/07/2019 14:13,285,,16/07/2019 14:09,40.73454567,,-73.99074142,,Broadway & E 14 St,,3,Broadway & E 14 St,1,In Service,Falso,53,1
+1,1,,11,24,,16/07/2019 14:13,298,,16/07/2019 14:10,40.68683208,,-73.9796772,,3 Ave & Schermerhorn St,,4,3 Ave & Schermerhorn St,1,In Service,Falso,35,1
+1,1,,9,23,,16/07/2019 14:13,304,,16/07/2019 14:09,40.70463334,,-74.01361706,,Broadway & Battery Pl,,5,Broadway & Battery Pl,1,In Service,Falso,33,1
+1,1,,5,31,,16/07/2019 14:13,337,,16/07/2019 14:11,40.7037992,,-74.00838676,,Old Slip & Front St,,6,Old Slip & Front St,1,In Service,Falso,37,1
+1,1,,16,16,,16/07/2019 14:13,347,,16/07/2019 14:12,40.728846,,-74.008591,,Greenwich St & W Houston St,,7,Greenwich St & W Houston St,1,In Service,Falso,35,1
+1,1,,17,46,,16/07/2019 14:13,359,,16/07/2019 14:11,40.75510267,,-73.97498696,,E 47 St & Park Ave,,8,E 47 St & Park Ave,1,In Service,Falso,64,1
+1,1,,19,25,,16/07/2019 14:13,377,,16/07/2019 14:09,40.72243797,,-74.00566443,,6 Ave & Canal St,,9,6 Ave & Canal St,1,In Service,Falso,47,1
+1,1,,12,23,,16/07/2019 14:13,388,,16/07/2019 14:09,40.74971775,,-74.00295035,,W 26 St & 10 Ave,,10,W 26 St & 10 Ave,1,In Service,Falso,35,1
+1,1,,12,27,,16/07/2019 14:13,402,,16/07/2019 14:10,40.7403432,,-73.98955109,,Broadway & E 22 St,,11,Broadway & E 22 St,1,In Service,Falso,39,1
+1,1,,7,22,,16/07/2019 14:13,426,,16/07/2019 14:11,40.71754834,,-74.01322069,,West St & Chambers St,,12,West St & Chambers St,1,In Service,Falso,29,1
+1,1,,11,34,,16/07/2019 14:13,484,,16/07/2019 14:10,40.75500254,,-73.98014437,,W 44 St & 5 Ave,,13,W 44 St & 5 Ave,1,In Service,Falso,46,1
+1,1,,7,41,,16/07/2019 14:13,491,,16/07/2019 14:10,40.74096374,,-73.98602213,,E 24 St & Park Ave S,,14,E 24 St & Park Ave S,1,In Service,Falso,51,1
+1,1,,0,41,,16/07/2019 14:13,520,,16/07/2019 14:13,40.75992262,,-73.97648516,,W 52 St & 5 Ave,,15,W 52 St & 5 Ave,1,In Service,Falso,41,1
+1,1,,2,36,,16/07/2019 14:13,3233,,16/07/2019 14:11,40.75724568,,-73.97805914,,E 48 St & 5 Ave,,16,E 48 St & 5 Ave,1,In Service,Falso,39,1
+1,1,,1,39,,16/07/2019 14:13,3443,,16/07/2019 14:11,40.76132983,,-73.97982001,,W 52 St & 6 Ave,,17,W 52 St & 6 Ave,1,In Service,Falso,41,1
+1,1,,7,26,,16/07/2019 14:13,3459,,16/07/2019 14:09,40.75763228,,-73.96930575,,E 53 St & 3 Ave,,18,E 53 St & 3 Ave,1,In Service,Falso,34,1
+1,1,,3,29,,16/07/2019 14:13,3461,,16/07/2019 14:11,40.71485151,,-74.01122332,,Murray St & Greenwich St,,19,Murray St & Greenwich St,1,In Service,Falso,33,1
+1,1,,22,18,,16/07/2019 14:13,3467,,16/07/2019 14:12,40.72494672,,-74.00165856,,W Broadway & Spring Street,,20,W Broadway & Spring Street,1,In Service,Falso,42,1
+1,1,,9,44,,16/07/2019 14:13,72,,16/07/2019 14:10,40.76727216,,-73.99392888,,W 52 St & 11 Ave,,21,W 52 St & 11 Ave,1,In Service,Falso,55,1
+1,1,,24,9,,16/07/2019 14:13,79,,16/07/2019 14:12,40.71911552,,-74.00666661,,Franklin St & W Broadway,,22,Franklin St & W Broadway,1,In Service,Falso,33,1
+1,1,,22,5,,16/07/2019 14:13,82,,16/07/2019 14:12,40.71117416,,-74.00016545,,St James Pl & Pearl St,,23,St James Pl & Pearl St,1,In Service,Falso,27,1
+1,1,,45,17,,16/07/2019 14:13,83,,16/07/2019 14:12,40.68382604,,-73.97632328,,Atlantic Ave & Fort Greene Pl,,24,Atlantic Ave & Fort Greene Pl,1,In Service,Falso,62,1
+1,1,,12,23,,16/07/2019 14:13,116,,16/07/2019 14:11,40.74177603,,-74.00149746,,W 17 St & 8 Ave,,25,W 17 St & 8 Ave,1,In Service,Falso,39,1
+1,1,,15,2,,16/07/2019 14:13,119,,16/07/2019 14:11,40.69608941,,-73.97803415,,Park Ave & St Edwards St,,26,Park Ave & St Edwards St,1,In Service,Falso,19,1
+1,1,,0,18,,16/07/2019 14:13,120,,16/07/2019 14:10,40.68676793,,-73.95928168,,Lexington Ave & Classon Ave,,27,Lexington Ave & Classon Ave,1,In Service,Falso,19,1
+1,1,,5,26,,16/07/2019 14:13,127,,16/07/2019 14:10,40.73172428,,-74.00674436,,Barrow St & Hudson St,,28,Barrow St & Hudson St,1,In Service,Falso,31,1
+1,1,,20,7,,16/07/2019 14:13,128,,16/07/2019 14:12,40.72710258,,-74.00297088,,MacDougal St & Prince St,,29,MacDougal St & Prince St,1,In Service,Falso,30,1
+1,1,,20,4,,16/07/2019 14:13,143,,16/07/2019 14:12,40.69239502,,-73.99337909,,Clinton St & Joralemon St,,30,Clinton St & Joralemon St,1,In Service,Falso,24,1
+1,1,,17,0,,16/07/2019 14:13,144,,16/07/2019 14:12,40.69839895,,-73.98068914,,Nassau St & Navy St,,31,Nassau St & Navy St,1,In Service,Falso,19,1
+1,1,,17,22,,16/07/2019 14:13,146,,16/07/2019 14:11,40.71625008,,-74.0091059,,Hudson St & Reade St,,32,Hudson St & Reade St,1,In Service,Falso,39,1
+1,1,,0,51,,16/07/2019 14:13,150,,16/07/2019 14:10,40.7208736,,-73.98085795,,E 2 St & Avenue C,,33,E 2 St & Avenue C,1,In Service,Falso,54,1
+1,1,,32,0,,16/07/2019 14:13,151,,16/07/2019 14:13,40.72210379,,-73.99724901,,Cleveland Pl & Spring St,,34,Cleveland Pl & Spring St,1,In Service,Falso,33,1
+1,1,,1,22,,16/07/2019 14:13,157,,16/07/2019 14:12,40.69089272,,-73.99612349,,Henry St & Atlantic Ave,,35,Henry St & Atlantic Ave,1,In Service,Falso,23,1
+1,1,,2,32,,16/07/2019 14:13,161,,16/07/2019 14:11,40.72917025,,-73.99810231,,LaGuardia Pl & W 3 St,,36,LaGuardia Pl & W 3 St,1,In Service,Falso,35,1
+1,1,,40,6,,16/07/2019 14:13,164,,16/07/2019 14:10,40.75323098,,-73.97032517,,E 47 St & 2 Ave,,37,E 47 St & 2 Ave,1,In Service,Falso,47,1
+1,1,,17,24,,16/07/2019 14:13,167,,16/07/2019 14:10,40.7489006,,-73.97604882,,E 39 St & 3 Ave,,38,E 39 St & 3 Ave,1,In Service,Falso,45,1
+1,1,,33,17,,16/07/2019 14:13,173,,16/07/2019 14:12,40.76068327,,-73.98452729,,Broadway & W 49 St,,39,Broadway & W 49 St,1,In Service,Falso,51,1
+1,1,,5,25,,16/07/2019 14:13,174,,16/07/2019 14:11,40.7381765,,-73.97738662,,E 25 St & 1 Ave,,40,E 25 St & 1 Ave,1,In Service,Falso,30,1
+1,1,,27,17,,16/07/2019 14:13,195,,16/07/2019 14:11,40.70905623,,-74.01043382,,Liberty St & Broadway,,41,Liberty St & Broadway,1,In Service,Falso,45,1
+1,1,,42,15,,16/07/2019 14:13,212,,16/07/2019 14:11,40.74334935,,-74.00681753,,W 16 St & The High Line,,42,W 16 St & The High Line,1,In Service,Falso,60,1
+1,1,,4,19,,16/07/2019 14:13,216,,16/07/2019 14:10,40.70037867,,-73.99548059,,Columbia Heights & Cranberry St,,43,Columbia Heights & Cranberry St,1,In Service,Falso,23,1
+1,1,,31,7,,16/07/2019 14:13,217,,16/07/2019 14:09,40.70277159,,-73.99383605,,Old Fulton St,,44,Old Fulton St,1,In Service,Falso,39,1
+1,1,,15,16,,16/07/2019 14:13,223,,16/07/2019 14:12,40.73781509,,-73.99994661,,W 13 St & 7 Ave,,45,W 13 St & 7 Ave,1,In Service,Falso,33,1
+1,1,,2,28,,16/07/2019 14:13,224,,16/07/2019 14:09,40.71146364,,-74.00552427,,Spruce St & Nassau St,,46,Spruce St & Nassau St,1,In Service,Falso,31,1
+1,1,,51,3,,16/07/2019 14:13,228,,16/07/2019 14:11,40.7546011,,-73.97187886,,E 48 St & 3 Ave,,47,E 48 St & 3 Ave,1,In Service,Falso,55,1
+1,1,,10,10,,16/07/2019 14:13,229,,16/07/2019 14:12,40.72743423,,-73.99379025,,Great Jones St,,48,Great Jones St,1,In Service,Falso,23,1
+1,1,,0,46,,16/07/2019 14:13,236,,16/07/2019 14:06,40.7284186,,-73.98713956,,St Marks Pl & 2 Ave,,49,St Marks Pl & 2 Ave,1,In Service,Falso,47,1
+1,1,,0,19,,16/07/2019 14:13,237,,16/07/2019 14:11,40.73047309,,-73.98672378,,E 11 St & 2 Ave,,50,E 11 St & 2 Ave,1,In Service,Falso,19,1
+1,1,,1,28,,16/07/2019 14:13,238,,16/07/2019 14:10,40.7361967,,-74.00859207,,Bank St & Washington St,,51,Bank St & Washington St,1,In Service,Falso,31,1
+1,1,,28,1,,16/07/2019 14:13,239,,16/07/2019 14:11,40.69196566,,-73.9813018,,Willoughby St & Fleet St,,52,Willoughby St & Fleet St,1,In Service,Falso,31,1
+1,1,,1,22,,16/07/2019 14:13,241,,16/07/2019 14:11,40.68981035,,-73.97493121,,DeKalb Ave & S Portland Ave,,53,DeKalb Ave & S Portland Ave,1,In Service,Falso,23,1
+1,1,,20,1,,16/07/2019 14:13,242,,16/07/2019 14:10,40.697787,,-73.973736,,Carlton Ave & Flushing Ave,,54,Carlton Ave & Flushing Ave,1,In Service,Falso,23,1
+1,1,,30,0,,16/07/2019 14:13,243,,16/07/2019 14:10,40.68841,,-73.979458,,Fulton St & Rockwell Pl,,55,Fulton St & Rockwell Pl,1,In Service,Falso,31,1
+1,1,,3,28,,16/07/2019 14:13,244,,16/07/2019 14:12,40.69196035,,-73.96536851,,Willoughby Ave & Hall St,,56,Willoughby Ave & Hall St,1,In Service,Falso,31,1
+1,1,,2,21,,16/07/2019 14:13,245,,16/07/2019 14:09,40.69327018,,-73.97703874,,Myrtle Ave & St Edwards St,,57,Myrtle Ave & St Edwards St,1,In Service,Falso,23,1
+1,1,,1,50,,16/07/2019 14:13,247,,16/07/2019 14:12,40.73535398,,-74.00483091,,Perry St & Bleecker St,,58,Perry St & Bleecker St,1,In Service,Falso,54,1
+1,1,,8,15,,16/07/2019 14:13,248,,16/07/2019 14:12,40.72185379,,-74.00771779,,Laight St & Hudson St,,59,Laight St & Hudson St,1,In Service,Falso,23,1
+1,1,,13,14,,16/07/2019 14:13,249,,16/07/2019 14:10,40.71870987,,-74.0090009,,Harrison St & Hudson St,,60,Harrison St & Hudson St,1,In Service,Falso,27,1
+1,1,,23,3,,16/07/2019 14:13,251,,16/07/2019 14:12,40.72317958,,-73.99480012,,Mott St & Prince St,,61,Mott St & Prince St,1,In Service,Falso,27,1
+1,1,,2,31,,16/07/2019 14:13,252,,16/07/2019 14:12,40.73226398,,-73.99852205,,MacDougal St & Washington Sq,,62,MacDougal St & Washington Sq,1,In Service,Falso,33,1
+1,1,,13,45,,16/07/2019 14:13,254,,16/07/2019 14:10,40.73532427,,-73.99800419,,W 11 St & 6 Ave,,63,W 11 St & 6 Ave,1,In Service,Falso,59,1
+1,1,,30,6,,16/07/2019 14:13,257,,16/07/2019 14:11,40.71939226,,-74.00247214,,Lispenard St & Broadway,,64,Lispenard St & Broadway,1,In Service,Falso,39,1
+1,1,,0,22,,16/07/2019 14:13,258,,16/07/2019 14:10,40.68940747,,-73.96885458,,DeKalb Ave & Vanderbilt Ave,,65,DeKalb Ave & Vanderbilt Ave,1,In Service,Falso,23,1
+1,1,,19,20,,16/07/2019 14:13,259,,16/07/2019 14:12,40.70122128,,-74.01234218,,South St & Whitehall St,,66,South St & Whitehall St,1,In Service,Falso,39,1
+1,1,,29,4,,16/07/2019 14:13,260,,16/07/2019 14:09,40.70365182,,-74.01167797,,Broad St & Bridge St,,67,Broad St & Bridge St,1,In Service,Falso,33,1
+1,1,,23,4,,16/07/2019 14:13,261,,16/07/2019 14:12,40.69474881,,-73.98362464,,Johnson St & Gold St,,68,Johnson St & Gold St,1,In Service,Falso,27,1
+1,1,,0,23,,16/07/2019 14:13,262,,16/07/2019 14:10,40.6917823,,-73.9737299,,Washington Park,,69,Washington Park,1,In Service,Falso,24,1
+1,1,,27,0,,16/07/2019 14:13,264,,16/07/2019 14:09,40.70706456,,-74.00731853,,Maiden Ln & Pearl St,,70,Maiden Ln & Pearl St,1,In Service,Falso,27,1
+1,1,,14,19,,16/07/2019 14:13,265,,16/07/2019 14:12,40.72229346,,-73.99147535,,Stanton St & Chrystie St,,71,Stanton St & Chrystie St,1,In Service,Falso,35,1
+1,1,,1,27,,16/07/2019 14:13,266,,16/07/2019 14:12,40.72368361,,-73.97574813,,Avenue D & E 8 St,,72,Avenue D & E 8 St,1,In Service,Falso,30,1
+1,1,,11,42,,16/07/2019 14:13,267,,16/07/2019 14:10,40.75097711,,-73.98765428,,Broadway & W 36 St,,73,Broadway & W 36 St,1,In Service,Falso,54,1
+1,1,,18,9,,16/07/2019 14:13,268,,16/07/2019 14:09,40.71910537,,-73.99973337,,Howard St & Centre St,,74,Howard St & Centre St,1,In Service,Falso,27,1
+1,1,,1,22,,16/07/2019 14:13,270,,16/07/2019 14:11,40.69308257,,-73.97178913,,Adelphi St & Myrtle Ave,,75,Adelphi St & Myrtle Ave,1,In Service,Falso,23,1
+1,1,,7,21,,16/07/2019 14:13,274,,16/07/2019 14:09,40.68691865,,-73.976682,,Lafayette Ave & Fort Greene Pl,,76,Lafayette Ave & Fort Greene Pl,1,In Service,Falso,31,1
+1,1,,1,16,,16/07/2019 14:13,275,,16/07/2019 14:11,40.68650065,,-73.96563307,,Washington Ave & Greene Ave,,77,Washington Ave & Greene Ave,1,In Service,Falso,19,1
+1,1,,4,20,,16/07/2019 14:13,276,,16/07/2019 14:12,40.71748752,,-74.0104554,,Duane St & Greenwich St,,78,Duane St & Greenwich St,1,In Service,Falso,25,1
+1,1,,7,9,,16/07/2019 14:13,278,,16/07/2019 14:12,40.69766564,,-73.98476437,,Concord St & Bridge St,,79,Concord St & Bridge St,1,In Service,Falso,19,1
+1,1,,26,9,,16/07/2019 14:13,279,,16/07/2019 14:11,40.707873,,-74.00167,,Peck Slip & Front St,,80,Peck Slip & Front St,1,In Service,Falso,36,1
+1,1,,4,23,,16/07/2019 14:13,280,,16/07/2019 14:09,40.73331967,,-73.99510132,,E 10 St & 5 Ave,,81,E 10 St & 5 Ave,1,In Service,Falso,31,1
+1,1,,0,26,,16/07/2019 14:13,282,,16/07/2019 14:11,40.70764494,,-73.96841526,,Kent Ave & S 11 St,,82,Kent Ave & S 11 St,1,In Service,Falso,27,1
+1,1,,32,7,,16/07/2019 14:13,284,,16/07/2019 14:11,40.73901691,,-74.00263761,,Greenwich Ave & 8 Ave,,83,Greenwich Ave & 8 Ave,1,In Service,Falso,43,1
+1,1,,5,11,,16/07/2019 14:13,289,,16/07/2019 14:10,40.6845683,,-73.95881081,,Monroe St & Classon Ave,,84,Monroe St & Classon Ave,1,In Service,Falso,19,1
+1,1,,0,19,,16/07/2019 14:13,291,,16/07/2019 14:11,40.713126,,-73.984844,,Madison St & Montgomery St,,85,Madison St & Montgomery St,1,In Service,Falso,20,1
+1,1,,43,11,,16/07/2019 14:13,293,,16/07/2019 14:12,40.73020661,,-73.99102628,,Lafayette St & E 8 St,,86,Lafayette St & E 8 St,1,In Service,Falso,55,1
+1,1,,5,18,,16/07/2019 14:13,295,,16/07/2019 14:12,40.71406667,,-73.99293911,,Pike St & E Broadway,,87,Pike St & E Broadway,1,In Service,Falso,24,1
+1,1,,11,24,,16/07/2019 14:13,296,,16/07/2019 14:10,40.71413089,,-73.9970468,,Division St & Bowery,,88,Division St & Bowery,1,In Service,Falso,35,1
+1,1,,2,21,,16/07/2019 14:13,297,,16/07/2019 14:12,40.734232,,-73.986923,,E 15 St & 3 Ave,,89,E 15 St & 3 Ave,1,In Service,Falso,27,1
+1,1,,0,58,,16/07/2019 14:13,301,,16/07/2019 14:09,40.72217444,,-73.98368779,,E 2 St & Avenue B,,90,E 2 St & Avenue B,1,In Service,Falso,58,1
+1,1,,1,21,,16/07/2019 14:13,302,,16/07/2019 14:09,40.72082834,,-73.97793172,,Avenue D & E 3 St,,91,Avenue D & E 3 St,1,In Service,Falso,23,1
+1,1,,62,5,,16/07/2019 14:13,303,,16/07/2019 14:12,40.72362738,,-73.99949601,,Mercer St & Spring St,,92,Mercer St & Spring St,1,In Service,Falso,67,1
+1,1,,18,14,,16/07/2019 14:13,305,,16/07/2019 14:12,40.76095756,,-73.96724467,,E 58 St & 3 Ave,,93,E 58 St & 3 Ave,1,In Service,Falso,33,1
+1,1,,4,22,,16/07/2019 14:13,307,,16/07/2019 14:12,40.71427487,,-73.98990025,,Canal St & Rutgers St,,94,Canal St & Rutgers St,1,In Service,Falso,30,1
+1,1,,9,17,,16/07/2019 14:13,308,,16/07/2019 14:12,40.71307916,,-73.99851193,,St James Pl & Oliver St,,95,St James Pl & Oliver St,1,In Service,Falso,27,1
+1,1,,25,15,,16/07/2019 14:13,309,,16/07/2019 14:09,40.7149787,,-74.013012,,Murray St & West St,,96,Murray St & West St,1,In Service,Falso,41,1
+1,1,,28,4,,16/07/2019 14:13,310,,16/07/2019 14:11,40.68926942,,-73.98912867,,State St & Smith St,,97,State St & Smith St,1,In Service,Falso,36,1
+1,1,,1,29,,16/07/2019 14:13,311,,16/07/2019 14:09,40.7172274,,-73.98802084,,Norfolk St & Broome St,,98,Norfolk St & Broome St,1,In Service,Falso,31,1
+1,1,,4,24,,16/07/2019 14:13,312,,16/07/2019 14:12,40.722055,,-73.989111,,Allen St & Stanton St,,99,Allen St & Stanton St,1,In Service,Falso,31,1
+1,1,,11,9,,16/07/2019 14:13,313,,16/07/2019 14:10,40.69610226,,-73.96751037,,Washington Ave & Park Ave,,100,Washington Ave & Park Ave,1,In Service,Falso,23,1
+1,1,,18,21,,16/07/2019 14:13,314,,16/07/2019 14:11,40.69383,,-73.990539,,Cadman Plaza West & Montague St,,101,Cadman Plaza West & Montague St,1,In Service,Falso,39,1
+1,1,,26,3,,16/07/2019 14:13,315,,16/07/2019 14:09,40.70355377,,-74.00670227,,South St & Gouverneur Ln,,102,South St & Gouverneur Ln,1,In Service,Falso,29,1
+1,1,,15,28,,16/07/2019 14:13,316,,16/07/2019 14:10,40.70955958,,-74.00653609,,Fulton St & William St,,103,Fulton St & William St,1,In Service,Falso,43,1
+1,1,,1,52,,16/07/2019 14:13,317,,16/07/2019 14:10,40.72453734,,-73.98185424,,E 6 St & Avenue B,,104,E 6 St & Avenue B,1,In Service,Falso,54,1
+1,1,,20,12,,16/07/2019 14:13,319,,16/07/2019 14:10,40.711066,,-74.009447,,Fulton St & Broadway,,105,Fulton St & Broadway,1,In Service,Falso,33,1
+1,1,,22,5,,16/07/2019 14:13,320,,16/07/2019 14:11,40.717571,,-74.005549,,Leonard St & Church St,,106,Leonard St & Church St,1,In Service,Falso,27,1
+1,1,,20,5,,16/07/2019 14:13,321,,16/07/2019 14:11,40.69991755,,-73.98971773,,Cadman Plaza E & Red Cross Pl,,107,Cadman Plaza E & Red Cross Pl,1,In Service,Falso,27,1
+1,1,,34,3,,16/07/2019 14:13,323,,16/07/2019 14:12,40.69236178,,-73.98631746,,Lawrence St & Willoughby St,,108,Lawrence St & Willoughby St,1,In Service,Falso,39,1
+1,1,,48,3,,16/07/2019 14:13,324,,16/07/2019 14:09,40.689888,,-73.981013,,DeKalb Ave & Hudson Ave,,109,DeKalb Ave & Hudson Ave,1,In Service,Falso,51,1
+1,1,,1,32,,16/07/2019 14:13,325,,16/07/2019 14:09,40.73624527,,-73.98473765,,E 19 St & 3 Ave,,110,E 19 St & 3 Ave,1,In Service,Falso,35,1
+1,1,,2,37,,16/07/2019 14:13,326,,16/07/2019 14:12,40.72953837,,-73.98426726,,E 11 St & 1 Ave,,111,E 11 St & 1 Ave,1,In Service,Falso,41,1
+1,1,,6,30,,16/07/2019 14:13,327,,16/07/2019 14:12,40.7153379,,-74.01658354,,Vesey Pl & River Terrace,,112,Vesey Pl & River Terrace,1,In Service,Falso,39,1
+1,1,,20,2,,16/07/2019 14:13,328,,16/07/2019 14:10,40.72405549,,-74.00965965,,Watts St & Greenwich St,,113,Watts St & Greenwich St,1,In Service,Falso,23,1
+1,1,,37,1,,16/07/2019 14:13,330,,16/07/2019 14:11,40.71450451,,-74.00562789,,Reade St & Broadway,,114,Reade St & Broadway,1,In Service,Falso,39,1
+1,1,,0,26,,16/07/2019 14:13,331,,16/07/2019 14:10,40.71173107,,-73.99193043,,Pike St & Monroe St,,115,Pike St & Monroe St,1,In Service,Falso,27,1
+1,1,,2,33,,16/07/2019 14:13,332,,16/07/2019 14:09,40.71219906,,-73.97948148,,Cherry St,,116,Cherry St,1,In Service,Falso,36,1
+1,1,,5,26,,16/07/2019 14:13,334,,16/07/2019 14:09,40.74238787,,-73.99726235,,W 20 St & 7 Ave,,117,W 20 St & 7 Ave,1,In Service,Falso,31,1
+1,1,,23,4,,16/07/2019 14:13,335,,16/07/2019 14:12,40.72903917,,-73.99404649,,Washington Pl & Broadway,,118,Washington Pl & Broadway,1,In Service,Falso,27,1
+1,1,,3,31,,16/07/2019 14:13,336,,16/07/2019 14:09,40.73047747,,-73.99906065,,Sullivan St & Washington Sq,,119,Sullivan St & Washington Sq,1,In Service,Falso,36,1
+1,1,,1,28,,16/07/2019 14:13,339,,16/07/2019 14:10,40.72580614,,-73.97422494,,Avenue D & E 12 St,,120,Avenue D & E 12 St,1,In Service,Falso,30,1
+1,1,,1,25,,16/07/2019 14:13,340,,16/07/2019 14:11,40.71269042,,-73.98776323,,Madison St & Clinton St,,121,Madison St & Clinton St,1,In Service,Falso,27,1
+1,1,,1,16,,16/07/2019 14:13,341,,16/07/2019 14:12,40.71782143,,-73.97628939,,Stanton St & Mangin St,,122,Stanton St & Mangin St,1,In Service,Falso,19,1
+1,1,,2,27,,16/07/2019 14:13,342,,16/07/2019 14:11,40.71739973,,-73.98016555,,Columbia St & Rivington St,,123,Columbia St & Rivington St,1,In Service,Falso,29,1
+1,1,,22,0,,16/07/2019 14:13,343,,16/07/2019 14:11,40.69794,,-73.96986848,,Clinton Ave & Flushing Ave,,124,Clinton Ave & Flushing Ave,1,In Service,Falso,23,1
+1,1,,1,22,,16/07/2019 14:13,344,,16/07/2019 14:10,40.6851443,,-73.95380904,,Monroe St & Bedford Ave,,125,Monroe St & Bedford Ave,1,In Service,Falso,23,1
+1,1,,3,22,,16/07/2019 14:13,346,,16/07/2019 14:11,40.73652889,,-74.00618026,,Bank St & Hudson St,,126,Bank St & Hudson St,1,In Service,Falso,27,1
+1,1,,0,58,,16/07/2019 14:13,349,,16/07/2019 14:12,40.71850211,,-73.98329859,,Rivington St & Ridge St,,127,Rivington St & Ridge St,1,In Service,Falso,61,1
+1,1,,3,24,,16/07/2019 14:13,350,,16/07/2019 14:12,40.71559509,,-73.9870295,,Clinton St & Grand St,,128,Clinton St & Grand St,1,In Service,Falso,28,1
+1,1,,34,5,,16/07/2019 14:13,351,,16/07/2019 14:10,40.70530954,,-74.00612572,,Front St & Maiden Ln,,129,Front St & Maiden Ln,1,In Service,Falso,39,1
+1,1,,2,25,,16/07/2019 14:13,353,,16/07/2019 14:12,40.68539567,,-73.97431458,,S Portland Ave & Hanson Pl,,130,S Portland Ave & Hanson Pl,1,In Service,Falso,27,1
+1,1,,5,16,,16/07/2019 14:13,354,,16/07/2019 14:10,40.69363137,,-73.96223558,,Emerson Pl & Myrtle Ave,,131,Emerson Pl & Myrtle Ave,1,In Service,Falso,23,1
+1,1,,26,16,,16/07/2019 14:13,355,,16/07/2019 14:10,40.71602118,,-73.99974372,,Bayard St & Baxter St,,132,Bayard St & Baxter St,1,In Service,Falso,43,1
+1,1,,2,21,,16/07/2019 14:13,356,,16/07/2019 14:12,40.71622644,,-73.98261206,,Bialystoker Pl & Delancey St,,133,Bialystoker Pl & Delancey St,1,In Service,Falso,23,1
+1,1,,0,0,,16/07/2019 14:13,357,,31/12/1969 19:00,40.73261787,,-73.99158043,,E 11 St & Broadway,,134,E 11 St & Broadway,3,Not In Service,Falso,0,1
+1,1,,8,40,,16/07/2019 14:13,358,,16/07/2019 14:11,40.73291553,,-74.00711384,,Christopher St & Greenwich St,,135,Christopher St & Greenwich St,1,In Service,Falso,50,1
+1,1,,22,16,,16/07/2019 14:13,360,,16/07/2019 14:09,40.70717936,,-74.00887308,,William St & Pine St,,136,William St & Pine St,1,In Service,Falso,39,1
+1,1,,11,29,,16/07/2019 14:13,361,,16/07/2019 14:10,40.71605866,,-73.99190759,,Allen St & Hester St,,137,Allen St & Hester St,1,In Service,Falso,43,1
+1,1,,18,39,,16/07/2019 14:13,362,,16/07/2019 14:11,40.75172632,,-73.98753523,,Broadway & W 37 St,,138,Broadway & W 37 St,1,In Service,Falso,57,1
+1,1,,4,45,,16/07/2019 14:13,363,,16/07/2019 14:10,40.70834698,,-74.01713445,,West Thames St,,139,West Thames St,1,In Service,Falso,49,1
+1,1,,1,26,,16/07/2019 14:13,364,,16/07/2019 14:12,40.68900443,,-73.96023854,,Lafayette Ave & Classon Ave,,140,Lafayette Ave & Classon Ave,1,In Service,Falso,27,1
+1,1,,3,28,,16/07/2019 14:13,365,,16/07/2019 14:10,40.68223166,,-73.9614583,,Fulton St & Grand Ave,,141,Fulton St & Grand Ave,1,In Service,Falso,31,1
+1,1,,1,27,,16/07/2019 14:13,366,,16/07/2019 14:13,40.693261,,-73.968896,,Clinton Ave & Myrtle Ave,,142,Clinton Ave & Myrtle Ave,1,In Service,Falso,33,1
+1,1,,17,22,,16/07/2019 14:13,368,,16/07/2019 14:11,40.73038599,,-74.00214988,,Carmine St & 6 Ave,,143,Carmine St & 6 Ave,1,In Service,Falso,39,1
+1,1,,3,17,,16/07/2019 14:13,369,,16/07/2019 14:09,40.73224119,,-74.00026394,,Washington Pl & 6 Ave,,144,Washington Pl & 6 Ave,1,In Service,Falso,21,1
+1,1,,0,25,,16/07/2019 14:13,372,,16/07/2019 14:11,40.69454609,,-73.95801365,,Franklin Ave & Myrtle Ave,,145,Franklin Ave & Myrtle Ave,1,In Service,Falso,27,1
+1,1,,12,7,,16/07/2019 14:13,373,,16/07/2019 14:12,40.69331716,,-73.95381995,,Willoughby Ave & Walworth St,,146,Willoughby Ave & Walworth St,1,In Service,Falso,19,1
+1,1,,26,16,,16/07/2019 14:13,376,,16/07/2019 14:11,40.70862144,,-74.00722156,,John St & William St,,147,John St & William St,1,In Service,Falso,43,1
+1,1,,10,28,,16/07/2019 14:13,379,,16/07/2019 14:12,40.749156,,-73.9916,,W 31 St & 7 Ave,,148,W 31 St & 7 Ave,1,In Service,Falso,42,1
+1,1,,11,30,,16/07/2019 14:13,380,,16/07/2019 14:10,40.73401143,,-74.00293877,,W 4 St & 7 Ave S,,149,W 4 St & 7 Ave S,1,In Service,Falso,42,1
+1,1,,25,5,,16/07/2019 14:13,382,,16/07/2019 14:12,40.73492695,,-73.99200509,,University Pl & E 14 St,,150,University Pl & E 14 St,1,In Service,Falso,33,1
+1,1,,1,36,,16/07/2019 14:13,383,,16/07/2019 14:12,40.735238,,-74.000271,,Greenwich Ave & Charles St,,151,Greenwich Ave & Charles St,1,In Service,Falso,39,1
+1,1,,0,0,,16/07/2019 14:13,385,,06/06/2019 07:48,40.75797322,,-73.96603308,,E 55 St & 2 Ave,,152,E 55 St & 2 Ave,3,Not In Service,Falso,0,1
+1,1,,34,8,,16/07/2019 14:13,386,,16/07/2019 14:12,40.71494807,,-74.00234482,,Centre St & Worth St,,153,Centre St & Worth St,1,In Service,Falso,43,1
+1,1,,18,20,,16/07/2019 14:13,387,,16/07/2019 14:10,40.71273266,,-74.0046073,,Centre St & Chambers St,,154,Centre St & Chambers St,1,In Service,Falso,39,1
+1,1,,4,22,,16/07/2019 14:13,389,,16/07/2019 14:12,40.71044554,,-73.96525063,,Broadway & Berry St,,155,Broadway & Berry St,1,In Service,Falso,27,1
+1,1,,27,2,,16/07/2019 14:13,390,,16/07/2019 14:11,40.69221589,,-73.9842844,,Duffield St & Willoughby St,,156,Duffield St & Willoughby St,1,In Service,Falso,31,1
+1,1,,4,27,,16/07/2019 14:13,391,,16/07/2019 14:10,40.69760127,,-73.99344559,,Clark St & Henry St,,157,Clark St & Henry St,1,In Service,Falso,31,1
+1,1,,35,0,,16/07/2019 14:13,392,,16/07/2019 14:12,40.695065,,-73.987167,,Jay St & Tech Pl,,158,Jay St & Tech Pl,1,In Service,Falso,35,1
+1,1,,4,31,,16/07/2019 14:13,393,,16/07/2019 14:12,40.72299208,,-73.97995466,,E 5 St & Avenue C,,159,E 5 St & Avenue C,1,In Service,Falso,37,1
+1,1,,0,33,,16/07/2019 14:13,394,,16/07/2019 14:09,40.72521311,,-73.97768752,,E 9 St & Avenue C,,160,E 9 St & Avenue C,1,In Service,Falso,34,1
+1,1,,3,22,,16/07/2019 14:13,396,,16/07/2019 14:09,40.68034242,,-73.95576894,,Lefferts Pl & Franklin Ave,,161,Lefferts Pl & Franklin Ave,1,In Service,Falso,25,1
+1,1,,1,25,,16/07/2019 14:13,397,,16/07/2019 14:10,40.68415748,,-73.96922273,,Fulton St & Clermont Ave,,162,Fulton St & Clermont Ave,1,In Service,Falso,27,1
+1,1,,29,1,,16/07/2019 14:13,398,,16/07/2019 14:10,40.69165183,,-73.9999786,,Atlantic Ave & Furman St,,163,Atlantic Ave & Furman St,1,In Service,Falso,31,1
+1,1,,1,26,,16/07/2019 14:13,399,,16/07/2019 14:12,40.68851534,,-73.9647628,,Lafayette Ave & St James Pl,,164,Lafayette Ave & St James Pl,1,In Service,Falso,27,1
+1,1,,1,12,,16/07/2019 14:13,400,,16/07/2019 14:11,40.71926081,,-73.98178024,,Pitt St & Stanton St,,165,Pitt St & Stanton St,1,In Service,Falso,15,1
+1,1,,8,32,,16/07/2019 14:13,401,,16/07/2019 14:12,40.72019576,,-73.98997825,,Allen St & Rivington St,,166,Allen St & Rivington St,1,In Service,Falso,42,1
+1,1,,16,14,,16/07/2019 14:13,403,,16/07/2019 14:10,40.72502876,,-73.99069656,,E 2 St & 2 Ave,,167,E 2 St & 2 Ave,1,In Service,Falso,31,1
+1,1,,24,27,,16/07/2019 14:13,405,,16/07/2019 14:12,40.739323,,-74.008119,,Washington St & Gansevoort St,,168,Washington St & Gansevoort St,1,In Service,Falso,51,1
+1,1,,3,31,,16/07/2019 14:13,406,,16/07/2019 14:10,40.69512845,,-73.99595065,,Hicks St & Montague St,,169,Hicks St & Montague St,1,In Service,Falso,34,1
+1,1,,2,21,,16/07/2019 14:13,408,,16/07/2019 14:12,40.71076228,,-73.99400398,,Market St & Cherry St,,170,Market St & Cherry St,1,In Service,Falso,23,1
+1,1,,4,41,,16/07/2019 14:13,410,,16/07/2019 14:12,40.72066442,,-73.98517977,,Suffolk St & Stanton St,,171,Suffolk St & Stanton St,1,In Service,Falso,45,1
+1,1,,0,23,,16/07/2019 14:13,411,,16/07/2019 14:12,40.72228087,,-73.97668709,,E 6 St & Avenue D,,172,E 6 St & Avenue D,1,In Service,Falso,31,1
+1,1,,22,4,,16/07/2019 14:13,412,,16/07/2019 14:12,40.7158155,,-73.99422366,,Forsyth St & Canal St,,173,Forsyth St & Canal St,1,In Service,Falso,29,1
+1,1,,0,24,,16/07/2019 14:13,414,,27/06/2019 10:05,40.70281858,,-73.98765762,,Pearl St & Anchorage Pl,,174,Pearl St & Anchorage Pl,3,Not In Service,Falso,24,1
+1,1,,35,6,,16/07/2019 14:13,415,,16/07/2019 14:10,40.7047177,,-74.00926027,,Pearl St & Hanover Square,,175,Pearl St & Hanover Square,1,In Service,Falso,42,1
+1,1,,0,30,,16/07/2019 14:13,416,,16/07/2019 14:11,40.68753406,,-73.97265183,,Cumberland St & Lafayette Ave,,176,Cumberland St & Lafayette Ave,1,In Service,Falso,31,1
+1,1,,14,10,,16/07/2019 14:13,417,,16/07/2019 14:12,40.71291224,,-74.01020234,,Barclay St & Church St,,177,Barclay St & Church St,1,In Service,Falso,25,1
+1,1,,23,0,,16/07/2019 14:13,418,,16/07/2019 14:10,40.70224,,-73.982578,,Front St & Gold St,,178,Front St & Gold St,1,In Service,Falso,23,1
+1,1,,20,1,,16/07/2019 14:13,419,,16/07/2019 14:11,40.69580705,,-73.97355569,,Carlton Ave & Park Ave,,179,Carlton Ave & Park Ave,1,In Service,Falso,23,1
+1,1,,0,21,,16/07/2019 14:13,420,,16/07/2019 14:12,40.68764484,,-73.96968902,,Clermont Ave & Lafayette Ave,,180,Clermont Ave & Lafayette Ave,1,In Service,Falso,23,1
+1,1,,15,3,,16/07/2019 14:13,421,,16/07/2019 14:11,40.69573398,,-73.97129668,,Clermont Ave & Park Ave,,181,Clermont Ave & Park Ave,1,In Service,Falso,19,1
+1,1,,1,78,,16/07/2019 14:13,422,,16/07/2019 14:12,40.770513,,-73.988038,,W 59 St & 10 Ave,,182,W 59 St & 10 Ave,1,In Service,Falso,79,1
+1,1,,0,25,,16/07/2019 14:13,423,,16/07/2019 14:10,40.76584941,,-73.98690506,,W 54 St & 9 Ave,,183,W 54 St & 9 Ave,1,In Service,Falso,27,1
+1,1,,21,26,,16/07/2019 14:13,427,,16/07/2019 14:09,40.701907,,-74.013942,,Bus Slip & State St,,184,Bus Slip & State St,1,In Service,Falso,47,1
+1,1,,3,27,,16/07/2019 14:13,432,,16/07/2019 14:12,40.72621788,,-73.98379855,,E 7 St & Avenue A,,185,E 7 St & Avenue A,1,In Service,Falso,31,1
+1,1,,21,5,,16/07/2019 14:13,434,,16/07/2019 14:11,40.74317449,,-74.00366443,,9 Ave & W 18 St,,186,9 Ave & W 18 St,1,In Service,Falso,27,1
+1,1,,37,11,,16/07/2019 14:13,435,,16/07/2019 14:11,40.74173969,,-73.99415556,,W 21 St & 6 Ave,,187,W 21 St & 6 Ave,1,In Service,Falso,50,1
+1,1,,0,22,,16/07/2019 14:13,436,,16/07/2019 14:12,40.68216564,,-73.95399026,,Hancock St & Bedford Ave,,188,Hancock St & Bedford Ave,1,In Service,Falso,27,1
+1,1,,18,5,,16/07/2019 14:13,437,,16/07/2019 14:11,40.68098339,,-73.95004798,,Macon St & Nostrand Ave,,189,Macon St & Nostrand Ave,1,In Service,Falso,24,1
+1,1,,1,44,,16/07/2019 14:13,438,,16/07/2019 14:10,40.72779126,,-73.98564945,,St Marks Pl & 1 Ave,,190,St Marks Pl & 1 Ave,1,In Service,Falso,47,1
+1,1,,2,35,,16/07/2019 14:13,439,,16/07/2019 14:12,40.7262807,,-73.98978041,,E 4 St & 2 Ave,,191,E 4 St & 2 Ave,1,In Service,Falso,39,1
+1,1,,31,0,,16/07/2019 14:13,440,,16/07/2019 14:12,40.75255434,,-73.97282625,,E 45 St & 3 Ave,,192,E 45 St & 3 Ave,1,In Service,Falso,32,1
+1,1,,0,0,,16/07/2019 14:13,441,,12/07/2019 08:27,40.756014,,-73.967416,,E 52 St & 2 Ave,,193,E 52 St & 2 Ave,3,Not In Service,Falso,0,1
+1,1,,16,34,,16/07/2019 14:13,442,,16/07/2019 14:10,40.746647,,-73.993915,,W 27 St & 7 Ave,,194,W 27 St & 7 Ave,1,In Service,Falso,51,1
+1,1,,8,13,,16/07/2019 14:13,443,,16/07/2019 14:10,40.70853074,,-73.96408963,,Bedford Ave & S 9 St,,195,Bedford Ave & S 9 St,1,In Service,Falso,23,1
+1,1,,3,73,,16/07/2019 14:13,445,,16/07/2019 14:09,40.72740794,,-73.98142006,,E 10 St & Avenue A,,196,E 10 St & Avenue A,1,In Service,Falso,79,1
+1,1,,11,36,,16/07/2019 14:13,446,,16/07/2019 14:12,40.74487634,,-73.99529885,,W 24 St & 7 Ave,,197,W 24 St & 7 Ave,1,In Service,Falso,47,1
+1,1,,7,23,,16/07/2019 14:13,447,,16/07/2019 14:12,40.76370739,,-73.9851615,,8 Ave & W 52 St,,198,8 Ave & W 52 St,1,In Service,Falso,31,1
+1,1,,1,26,,16/07/2019 14:13,448,,16/07/2019 14:12,40.75660359,,-73.9979009,,W 37 St & 10 Ave,,199,W 37 St & 10 Ave,1,In Service,Falso,27,1
+1,1,,6,59,,16/07/2019 14:13,450,,16/07/2019 14:12,40.76227205,,-73.98788205,,W 49 St & 8 Ave,,200,W 49 St & 8 Ave,1,In Service,Falso,67,1
+1,1,,22,43,,16/07/2019 14:13,453,,16/07/2019 14:13,40.74475148,,-73.99915362,,W 22 St & 8 Ave,,201,W 22 St & 8 Ave,1,In Service,Falso,66,1
+1,1,,4,31,,16/07/2019 14:13,454,,16/07/2019 14:11,40.75455731,,-73.96592976,,E 51 St & 1 Ave,,202,E 51 St & 1 Ave,1,In Service,Falso,35,1
+1,1,,44,13,,16/07/2019 14:13,455,,16/07/2019 14:12,40.75001986,,-73.96905301,,1 Ave & E 44 St,,203,1 Ave & E 44 St,1,In Service,Falso,59,1
+1,1,,30,5,,16/07/2019 14:13,456,,16/07/2019 14:09,40.7597108,,-73.97402311,,E 53 St & Madison Ave,,204,E 53 St & Madison Ave,1,In Service,Falso,35,1
+1,1,,25,4,,16/07/2019 14:13,458,,16/07/2019 14:09,40.751396,,-74.005226,,11 Ave & W 27 St,,205,11 Ave & W 27 St,1,In Service,Falso,31,1
+1,1,,30,2,,16/07/2019 14:13,459,,16/07/2019 14:11,40.746745,,-74.007756,,W 20 St & 11 Ave,,206,W 20 St & 11 Ave,1,In Service,Falso,41,1
+1,1,,0,0,,16/07/2019 14:13,460,,26/06/2019 07:44,40.71285887,,-73.96590294,,S 4 St & Wythe Ave,,207,S 4 St & Wythe Ave,3,Not In Service,Falso,0,1
+1,1,,5,50,,16/07/2019 14:13,461,,16/07/2019 14:12,40.73587678,,-73.98205027,,E 20 St & 2 Ave,,208,E 20 St & 2 Ave,1,In Service,Falso,56,1
+1,1,,42,0,,16/07/2019 14:13,462,,16/07/2019 14:09,40.74691959,,-74.00451887,,W 22 St & 10 Ave,,209,W 22 St & 10 Ave,1,In Service,Falso,47,1
+1,1,,9,27,,16/07/2019 14:13,465,,16/07/2019 14:12,40.75513557,,-73.98658032,,Broadway & W 41 St,,210,Broadway & W 41 St,1,In Service,Falso,39,1
+1,1,,28,3,,16/07/2019 14:13,466,,16/07/2019 14:12,40.74395411,,-73.99144871,,W 25 St & 6 Ave,,211,W 25 St & 6 Ave,1,In Service,Falso,35,1
+1,1,,32,1,,16/07/2019 14:13,467,,16/07/2019 14:11,40.68312489,,-73.97895137,,Dean St & 4 Ave,,212,Dean St & 4 Ave,1,In Service,Falso,34,1
+1,1,,7,58,,16/07/2019 14:13,468,,16/07/2019 14:11,40.7652654,,-73.98192338,,Broadway & W 56 St,,213,Broadway & W 56 St,1,In Service,Falso,65,1
+1,1,,3,54,,16/07/2019 14:13,469,,16/07/2019 14:12,40.76344058,,-73.98268129,,Broadway & W 53 St,,214,Broadway & W 53 St,1,In Service,Falso,57,1
+1,1,,21,50,,16/07/2019 14:13,470,,16/07/2019 14:11,40.74345335,,-74.00004031,,W 20 St & 8 Ave,,215,W 20 St & 8 Ave,1,In Service,Falso,72,1
+1,1,,5,26,,16/07/2019 14:13,471,,16/07/2019 14:13,40.71286844,,-73.95698119,,Grand St & Havemeyer St,,216,Grand St & Havemeyer St,1,In Service,Falso,31,1
+1,1,,31,21,,16/07/2019 14:13,472,,16/07/2019 14:12,40.7457121,,-73.98194829,,E 32 St & Park Ave,,217,E 32 St & Park Ave,1,In Service,Falso,55,1
+1,1,,21,15,,16/07/2019 14:13,473,,16/07/2019 14:12,40.72110063,,-73.9919254,,Rivington St & Chrystie St,,218,Rivington St & Chrystie St,1,In Service,Falso,38,1
+1,1,,42,13,,16/07/2019 14:13,474,,16/07/2019 14:11,40.7451677,,-73.98683077,,5 Ave & E 29 St,,219,5 Ave & E 29 St,1,In Service,Falso,56,1
+1,1,,5,39,,16/07/2019 14:13,476,,16/07/2019 14:10,40.74394314,,-73.97966069,,E 31 St & 3 Ave,,220,E 31 St & 3 Ave,1,In Service,Falso,47,1
+1,1,,13,44,,16/07/2019 14:13,477,,16/07/2019 14:12,40.75640548,,-73.9900262,,W 41 St & 8 Ave,,221,W 41 St & 8 Ave,1,In Service,Falso,59,1
+1,1,,4,32,,16/07/2019 14:13,478,,16/07/2019 14:11,40.76030096,,-73.99884222,,11 Ave & W 41 St,,222,11 Ave & W 41 St,1,In Service,Falso,37,1
+1,1,,1,27,,16/07/2019 14:13,479,,16/07/2019 14:12,40.76019252,,-73.9912551,,9 Ave & W 45 St,,223,9 Ave & W 45 St,1,In Service,Falso,31,1
+1,1,,4,24,,16/07/2019 14:13,480,,16/07/2019 14:11,40.76669671,,-73.99061728,,W 53 St & 10 Ave,,224,W 53 St & 10 Ave,1,In Service,Falso,29,1
+1,1,,9,14,,16/07/2019 14:13,481,,16/07/2019 14:11,40.71260486,,-73.96264403,,S 3 St & Bedford Ave,,225,S 3 St & Bedford Ave,3,Not In Service,Falso,25,1
+1,1,,44,33,,16/07/2019 14:13,482,,16/07/2019 14:11,40.73935542,,-73.99931783,,W 15 St & 7 Ave,,226,W 15 St & 7 Ave,1,In Service,Falso,77,1
+1,1,,2,31,,16/07/2019 14:13,483,,16/07/2019 14:11,40.73223272,,-73.98889957,,E 12 St & 3 Ave,,227,E 12 St & 3 Ave,1,In Service,Falso,34,1
+1,1,,15,21,,16/07/2019 14:13,485,,16/07/2019 14:09,40.75038009,,-73.98338988,,W 37 St & 5 Ave,,228,W 37 St & 5 Ave,1,In Service,Falso,40,1
+1,1,,2,39,,16/07/2019 14:13,486,,16/07/2019 14:11,40.7462009,,-73.98855723,,Broadway & W 29 St,,229,Broadway & W 29 St,1,In Service,Falso,41,1
+1,1,,0,33,,16/07/2019 14:13,487,,16/07/2019 14:09,40.73314259,,-73.97573881,,E 20 St & FDR Drive,,230,E 20 St & FDR Drive,1,In Service,Falso,34,1
+1,1,,23,14,,16/07/2019 14:13,489,,16/07/2019 14:11,40.75066386,,-74.00176802,,10 Ave & W 28 St,,231,10 Ave & W 28 St,1,In Service,Falso,37,1
+1,1,,15,49,,16/07/2019 14:13,490,,16/07/2019 14:13,40.751551,,-73.993934,,8 Ave & W 33 St,,232,8 Ave & W 33 St,1,In Service,Falso,66,1
+1,1,,16,51,,16/07/2019 14:13,492,,16/07/2019 14:11,40.75019995,,-73.99093085,,W 33 St & 7 Ave,,233,W 33 St & 7 Ave,1,In Service,Falso,68,1
+1,1,,30,4,,16/07/2019 14:13,493,,16/07/2019 14:10,40.7568001,,-73.98291153,,W 45 St & 6 Ave,,234,W 45 St & 6 Ave,1,In Service,Falso,34,1
+1,1,,25,39,,16/07/2019 14:13,494,,16/07/2019 14:12,40.74734825,,-73.99723551,,W 26 St & 8 Ave,,235,W 26 St & 8 Ave,1,In Service,Falso,66,1
+1,1,,2,37,,16/07/2019 14:13,495,,16/07/2019 14:11,40.76269882,,-73.99301222,,W 47 St & 10 Ave,,236,W 47 St & 10 Ave,1,In Service,Falso,39,1
+1,1,,32,13,,16/07/2019 14:13,496,,16/07/2019 14:10,40.73726186,,-73.99238967,,E 16 St & 5 Ave,,237,E 16 St & 5 Ave,1,In Service,Falso,47,1
+1,1,,51,10,,16/07/2019 14:13,497,,16/07/2019 14:12,40.73704984,,-73.99009296,,E 17 St & Broadway,,238,E 17 St & Broadway,1,In Service,Falso,66,1
+1,1,,0,0,,16/07/2019 14:13,498,,06/05/2019 07:20,40.74854862,,-73.98808416,,Broadway & W 32 St,,239,Broadway & W 32 St,3,Not In Service,Falso,0,1
+1,1,,10,26,,16/07/2019 14:13,499,,16/07/2019 14:12,40.76915505,,-73.98191841,,Broadway & W 60 St,,240,Broadway & W 60 St,1,In Service,Falso,36,1
+1,1,,31,21,,16/07/2019 14:13,500,,16/07/2019 14:11,40.76228826,,-73.98336183,,Broadway & W 51 St,,241,Broadway & W 51 St,1,In Service,Falso,52,1
+1,1,,5,70,,16/07/2019 14:13,501,,16/07/2019 14:12,40.744219,,-73.97121214,,FDR Drive & E 35 St,,242,FDR Drive & E 35 St,1,In Service,Falso,79,1
+1,1,,1,29,,16/07/2019 14:13,502,,16/07/2019 14:12,40.714215,,-73.981346,,Henry St & Grand St,,243,Henry St & Grand St,1,In Service,Falso,30,1
+1,1,,26,4,,16/07/2019 14:13,503,,16/07/2019 14:11,40.73827428,,-73.98751968,,E 20 St & Park Ave,,244,E 20 St & Park Ave,1,In Service,Falso,31,1
+1,1,,0,51,,16/07/2019 14:13,504,,16/07/2019 14:12,40.73221853,,-73.98165557,,1 Ave & E 16 St,,245,1 Ave & E 16 St,1,In Service,Falso,53,1
+1,1,,5,34,,16/07/2019 14:13,505,,16/07/2019 14:11,40.74901271,,-73.98848395,,6 Ave & W 33 St,,246,6 Ave & W 33 St,1,In Service,Falso,39,1
+1,1,,7,37,,16/07/2019 14:13,507,,16/07/2019 14:12,40.73912601,,-73.97973776,,E 25 St & 2 Ave,,247,E 25 St & 2 Ave,1,In Service,Falso,45,1
+1,1,,3,22,,16/07/2019 14:13,508,,16/07/2019 14:09,40.76341379,,-73.99667444,,W 46 St & 11 Ave,,248,W 46 St & 11 Ave,1,In Service,Falso,25,1
+1,1,,0,0,,16/07/2019 14:13,509,,15/07/2019 17:05,40.7454973,,-74.00197139,,9 Ave & W 22 St,,249,9 Ave & W 22 St,3,Not In Service,Falso,3,1
+1,1,,10,18,,16/07/2019 14:13,513,,16/07/2019 14:11,40.768254,,-73.988639,,W 56 St & 10 Ave,,250,W 56 St & 10 Ave,1,In Service,Falso,29,1
+1,1,,8,42,,16/07/2019 14:13,514,,16/07/2019 14:10,40.76087502,,-74.00277668,,12 Ave & W 40 St,,251,12 Ave & W 40 St,1,In Service,Falso,52,1
+1,1,,1,34,,16/07/2019 14:13,515,,16/07/2019 14:12,40.76009437,,-73.99461843,,W 43 St & 10 Ave,,252,W 43 St & 10 Ave,1,In Service,Falso,35,1
+1,1,,22,7,,16/07/2019 14:13,516,,16/07/2019 14:11,40.75206862,,-73.96784384,,E 47 St & 1 Ave,,253,E 47 St & 1 Ave,1,In Service,Falso,31,1
+1,1,,17,50,,16/07/2019 14:13,517,,16/07/2019 14:09,40.751581,,-73.97791,,Pershing Square South,,254,Pershing Square South,1,In Service,Falso,69,1
+1,1,,6,32,,16/07/2019 14:13,518,,16/07/2019 14:12,40.74780373,,-73.9734419,,E 39 St & 2 Ave,,255,E 39 St & 2 Ave,1,In Service,Falso,39,1
+1,1,,17,50,,16/07/2019 14:13,519,,16/07/2019 14:11,40.751873,,-73.977706,,Pershing Square North,,256,Pershing Square North,1,In Service,Falso,69,1
+1,1,,43,8,,16/07/2019 14:13,522,,16/07/2019 14:11,40.75714758,,-73.97207836,,E 51 St & Lexington Ave,,257,E 51 St & Lexington Ave,1,In Service,Falso,51,1
+1,1,,6,45,,16/07/2019 14:13,523,,16/07/2019 14:11,40.75466591,,-73.99138152,,W 38 St & 8 Ave,,258,W 38 St & 8 Ave,1,In Service,Falso,51,1
+1,1,,0,0,,16/07/2019 14:13,524,,18/06/2019 11:10,40.75527307,,-73.98316936,,W 43 St & 6 Ave,,259,W 43 St & 6 Ave,3,Not In Service,Falso,0,1
+1,1,,21,35,,16/07/2019 14:13,525,,16/07/2019 14:10,40.75594159,,-74.0021163,,W 34 St & 11 Ave,,260,W 34 St & 11 Ave,1,In Service,Falso,56,1
+1,1,,28,11,,16/07/2019 14:13,526,,16/07/2019 14:11,40.74765947,,-73.98490707,,E 33 St & 5 Ave,,261,E 33 St & 5 Ave,1,In Service,Falso,40,1
+1,1,,8,27,,16/07/2019 14:13,528,,16/07/2019 14:10,40.74290902,,-73.97706058,,2 Ave & E 31 St,,262,2 Ave & E 31 St,1,In Service,Falso,39,1
+1,1,,15,26,,16/07/2019 14:13,529,,16/07/2019 14:12,40.7575699,,-73.99098507,,W 42 St & 8 Ave,,263,W 42 St & 8 Ave,1,In Service,Falso,41,1
+1,1,,11,13,,16/07/2019 14:13,530,,16/07/2019 14:12,40.77149671,,-73.99046034,,11 Ave & W 59 St,,264,11 Ave & W 59 St,1,In Service,Falso,24,1
+1,1,,33,3,,16/07/2019 14:13,531,,16/07/2019 14:09,40.71893904,,-73.99266288,,Forsyth St & Broome St,,265,Forsyth St & Broome St,1,In Service,Falso,39,1
+1,1,,0,41,,16/07/2019 14:13,532,,16/07/2019 14:12,40.710451,,-73.960876,,S 5 Pl & S 5 St,,266,S 5 Pl & S 5 St,1,In Service,Falso,43,1
+1,1,,21,25,,16/07/2019 14:13,533,,16/07/2019 14:11,40.75299641,,-73.98721619,,Broadway & W 38 St,,267,Broadway & W 38 St,1,In Service,Falso,46,1
+1,1,,17,14,,16/07/2019 14:13,534,,16/07/2019 14:10,40.70255065,,-74.0127234,,Water - Whitehall Plaza,,268,Water - Whitehall Plaza,1,In Service,Falso,31,1
+1,1,,4,25,,16/07/2019 14:13,536,,16/07/2019 14:12,40.74144387,,-73.97536082,,1 Ave & E 30 St,,269,1 Ave & E 30 St,1,In Service,Falso,29,1
+1,1,,29,2,,16/07/2019 14:13,539,,16/07/2019 14:11,40.71534825,,-73.96024116,,Metropolitan Ave & Bedford Ave,,270,Metropolitan Ave & Bedford Ave,1,In Service,Falso,31,1
+1,1,,17,11,,16/07/2019 14:13,540,,16/07/2019 14:10,40.74311555,,-73.98215354,,Lexington Ave & E 29 St,,271,Lexington Ave & E 29 St,1,In Service,Falso,30,1
+1,1,,3,20,,16/07/2019 14:13,545,,16/07/2019 14:12,40.736502,,-73.97809472,,E 23 St & 1 Ave,,272,E 23 St & 1 Ave,1,In Service,Falso,27,1
+1,1,,4,40,,16/07/2019 14:13,546,,16/07/2019 14:12,40.74444921,,-73.98303529,,E 30 St & Park Ave S,,273,E 30 St & Park Ave S,1,In Service,Falso,45,1
+1,1,,29,0,,16/07/2019 14:13,2000,,16/07/2019 14:12,40.70255088,,-73.98940236,,Front St & Washington St,,274,Front St & Washington St,1,In Service,Falso,30,1
+1,1,,21,4,,16/07/2019 14:13,2002,,16/07/2019 14:10,40.716887,,-73.963198,,Wythe Ave & Metropolitan Ave,,275,Wythe Ave & Metropolitan Ave,1,In Service,Falso,27,1
+1,1,,3,50,,16/07/2019 14:13,2003,,16/07/2019 14:10,40.73381219,,-73.98054421,,1 Ave & E 18 St,,276,1 Ave & E 18 St,1,In Service,Falso,54,1
+1,1,,9,3,,16/07/2019 14:13,2005,,16/07/2019 14:11,40.70531194,,-73.97100056,,Railroad Ave & Kay Ave,,277,Railroad Ave & Kay Ave,1,In Service,Falso,12,1
+1,1,,27,19,,16/07/2019 14:13,2006,,16/07/2019 14:12,40.76590936,,-73.97634151,,Central Park S & 6 Ave,,278,Central Park S & 6 Ave,1,In Service,Falso,49,1
+1,1,,13,11,,16/07/2019 14:13,2008,,16/07/2019 14:11,40.70569254,,-74.01677685,,Little West St & 1 Pl,,279,Little West St & 1 Pl,1,In Service,Falso,24,1
+1,1,,2,32,,16/07/2019 14:13,2009,,16/07/2019 14:09,40.71117444,,-73.99682619,,Catherine St & Monroe St,,280,Catherine St & Monroe St,1,In Service,Falso,35,1
+1,1,,0,0,,16/07/2019 14:13,2010,,14/03/2019 12:44,40.72165481,,-74.00234737,,Grand St & Greene St,,281,Grand St & Greene St,3,Not In Service,Falso,0,1
+1,1,,15,17,,16/07/2019 14:13,2012,,16/07/2019 14:13,40.739445,,-73.976806,,E 27 St & 1 Ave,,282,E 27 St & 1 Ave,1,In Service,Falso,36,1
+1,1,,23,15,,16/07/2019 14:13,2017,,16/07/2019 14:13,40.75022392,,-73.97121414,,E 43 St & 2 Ave,,283,E 43 St & 2 Ave,1,In Service,Falso,39,1
+1,1,,0,43,,16/07/2019 14:13,2021,,16/07/2019 14:09,40.75929124,,-73.98859651,,W 45 St & 8 Ave,,284,W 45 St & 8 Ave,1,In Service,Falso,43,1
+1,1,,6,26,,16/07/2019 14:13,2022,,16/07/2019 14:11,40.759107,,-73.959223,,E 60 St & York Ave,,285,E 60 St & York Ave,1,In Service,Falso,33,1
+1,1,,0,0,,16/07/2019 14:13,2023,,12/07/2019 10:48,40.75968085,,-73.97031366,,E 55 St & Lexington Ave,,286,E 55 St & Lexington Ave,3,Not In Service,Falso,0,1
+1,1,,15,10,,16/07/2019 14:13,3002,,16/07/2019 14:09,40.711512,,-74.015756,,South End Ave & Liberty St,,287,South End Ave & Liberty St,1,In Service,Falso,25,1
+1,1,,35,18,,16/07/2019 14:13,3016,,16/07/2019 14:12,40.72036775,,-73.96165073,,Kent Ave & N 7 St,,288,Kent Ave & N 7 St,1,In Service,Falso,54,1
+1,1,,2,21,,16/07/2019 14:13,3041,,16/07/2019 14:11,40.67890679,,-73.94142771,,Kingston Ave & Herkimer St,,289,Kingston Ave & Herkimer St,1,In Service,Falso,24,1
+1,1,,3,14,,16/07/2019 14:13,3042,,16/07/2019 14:12,40.6794268,,-73.9298911,,Fulton St & Utica Ave,,290,Fulton St & Utica Ave,1,In Service,Falso,19,1
+1,1,,1,18,,16/07/2019 14:13,3043,,16/07/2019 14:09,40.6814598,,-73.934903,,Lewis Ave & Decatur St,,291,Lewis Ave & Decatur St,1,In Service,Falso,19,1
+1,1,,0,26,,16/07/2019 14:13,3044,,16/07/2019 14:12,40.6800105,,-73.938475,,Albany Ave & Fulton St,,292,Albany Ave & Fulton St,1,In Service,Falso,27,1
+1,1,,0,18,,16/07/2019 14:13,3046,,16/07/2019 14:10,40.682601,,-73.938037,,Marcus Garvey Blvd & Macon St,,293,Marcus Garvey Blvd & Macon St,1,In Service,Falso,19,1
+1,1,,3,18,,16/07/2019 14:13,3047,,16/07/2019 14:10,40.6823687,,-73.944118,,Halsey St & Tompkins Ave,,294,Halsey St & Tompkins Ave,1,In Service,Falso,21,1
+1,1,,2,16,,16/07/2019 14:13,3048,,16/07/2019 14:12,40.68402,,-73.94977,,Putnam Ave & Nostrand Ave,,295,Putnam Ave & Nostrand Ave,1,In Service,Falso,19,1
+1,1,,0,17,,16/07/2019 14:13,3049,,16/07/2019 14:11,40.68488,,-73.96304,,Cambridge Pl & Gates Ave,,296,Cambridge Pl & Gates Ave,1,In Service,Falso,18,1
+1,1,,1,20,,16/07/2019 14:13,3050,,16/07/2019 14:09,40.6851532,,-73.94111,,Putnam Ave & Throop Ave,,297,Putnam Ave & Throop Ave,1,In Service,Falso,21,1
+1,1,,1,22,,16/07/2019 14:13,3052,,16/07/2019 14:12,40.686312,,-73.935775,,Lewis Ave & Madison St,,298,Lewis Ave & Madison St,1,In Service,Falso,23,1
+1,1,,0,22,,16/07/2019 14:13,3053,,16/07/2019 14:12,40.6900815,,-73.947915,,Marcy Ave & Lafayette Ave,,299,Marcy Ave & Lafayette Ave,1,In Service,Falso,23,1
+1,1,,0,18,,16/07/2019 14:13,3054,,16/07/2019 14:11,40.6894932,,-73.942061,,Greene Ave & Throop Ave,,300,Greene Ave & Throop Ave,1,In Service,Falso,19,1
+1,1,,6,17,,16/07/2019 14:13,3055,,16/07/2019 14:12,40.6883337,,-73.950916,,Greene Ave & Nostrand Ave,,301,Greene Ave & Nostrand Ave,1,In Service,Falso,23,1
+1,1,,2,19,,16/07/2019 14:13,3056,,16/07/2019 14:12,40.69072549,,-73.95133465,,Kosciuszko St & Nostrand Ave,,302,Kosciuszko St & Nostrand Ave,1,In Service,Falso,23,1
+1,1,,0,18,,16/07/2019 14:13,3057,,16/07/2019 14:11,40.69128258,,-73.9452416,,Kosciuszko St & Tompkins Ave,,303,Kosciuszko St & Tompkins Ave,1,In Service,Falso,18,1
+1,1,,0,22,,16/07/2019 14:13,3058,,16/07/2019 14:12,40.69237074,,-73.93705428,,Lewis Ave & Kosciuszko St,,304,Lewis Ave & Kosciuszko St,1,In Service,Falso,23,1
+1,1,,1,18,,16/07/2019 14:13,3059,,16/07/2019 14:09,40.6933982,,-73.939877,,Pulaski St & Marcus Garvey Blvd,,305,Pulaski St & Marcus Garvey Blvd,1,In Service,Falso,19,1
+1,1,,3,16,,16/07/2019 14:13,3060,,16/07/2019 14:10,40.69425403,,-73.94626915,,Willoughby Ave & Tompkins Ave,,306,Willoughby Ave & Tompkins Ave,1,In Service,Falso,19,1
+1,1,,1,19,,16/07/2019 14:13,3061,,16/07/2019 14:09,40.69622937,,-73.94371094,,Throop Ave & Myrtle Ave,,307,Throop Ave & Myrtle Ave,1,In Service,Falso,21,1
+1,1,,20,3,,16/07/2019 14:13,3062,,16/07/2019 14:12,40.69539817,,-73.94954908,,Myrtle Ave & Marcy Ave,,308,Myrtle Ave & Marcy Ave,1,In Service,Falso,23,1
+1,1,,14,6,,16/07/2019 14:13,3063,,16/07/2019 14:11,40.69527008,,-73.95238108,,Nostrand Ave & Myrtle Ave,,309,Nostrand Ave & Myrtle Ave,1,In Service,Falso,20,1
+1,1,,3,20,,16/07/2019 14:13,3064,,16/07/2019 14:11,40.69681963,,-73.93756926,,Myrtle Ave & Lewis Ave,,310,Myrtle Ave & Lewis Ave,1,In Service,Falso,23,1
+1,1,,25,6,,16/07/2019 14:13,3065,,16/07/2019 14:13,40.70029511,,-73.95032283,,Union Ave & Wallabout St,,311,Union Ave & Wallabout St,1,In Service,Falso,31,1
+1,1,,7,12,,16/07/2019 14:13,3066,,16/07/2019 14:11,40.69957608,,-73.94708417,,Tompkins Ave & Hopkins St,,312,Tompkins Ave & Hopkins St,1,In Service,Falso,19,1
+1,1,,21,5,,16/07/2019 14:13,3067,,16/07/2019 14:12,40.7016657,,-73.9437303,,Broadway & Whipple St,,313,Broadway & Whipple St,1,In Service,Falso,27,1
+1,1,,30,12,,16/07/2019 14:13,3068,,16/07/2019 14:09,40.7031724,,-73.940636,,Humboldt St & Varet St,,314,Humboldt St & Varet St,1,In Service,Falso,42,1
+1,1,,11,18,,16/07/2019 14:13,3069,,16/07/2019 14:12,40.70411791,,-73.94818595,,Lorimer St & Broadway,,315,Lorimer St & Broadway,1,In Service,Falso,29,1
+1,1,,11,12,,16/07/2019 14:13,3070,,16/07/2019 14:11,40.70510918,,-73.94407279,,McKibbin St & Manhattan Ave,,316,McKibbin St & Manhattan Ave,1,In Service,Falso,23,1
+1,1,,10,9,,16/07/2019 14:13,3071,,16/07/2019 14:09,40.70538077,,-73.94976519,,Boerum St & Broadway,,317,Boerum St & Broadway,1,In Service,Falso,19,1
+1,1,,7,17,,16/07/2019 14:13,3072,,16/07/2019 14:10,40.70583339,,-73.94644578,,Leonard St & Boerum St,,318,Leonard St & Boerum St,1,In Service,Falso,24,1
+1,1,,12,30,,16/07/2019 14:13,3074,,16/07/2019 14:11,40.70767788,,-73.94016171,,Montrose Ave & Bushwick Ave,,319,Montrose Ave & Bushwick Ave,1,In Service,Falso,42,1
+1,1,,0,32,,16/07/2019 14:13,3075,,16/07/2019 14:09,40.70708701,,-73.95796783,,Division Ave & Marcy Ave,,320,Division Ave & Marcy Ave,1,In Service,Falso,33,1
+1,1,,12,24,,16/07/2019 14:13,3076,,16/07/2019 14:10,40.70870368,,-73.9448625,,Scholes St & Manhattan Ave,,321,Scholes St & Manhattan Ave,1,In Service,Falso,36,1
+1,1,,2,30,,16/07/2019 14:13,3077,,16/07/2019 14:12,40.70877084,,-73.95095259,,Stagg St & Union Ave,,322,Stagg St & Union Ave,1,In Service,Falso,33,1
+1,1,,4,23,,16/07/2019 14:13,3078,,16/07/2019 14:09,40.70924826,,-73.96063149,,Broadway & Roebling St,,323,Broadway & Roebling St,1,In Service,Falso,27,1
+1,1,,2,19,,16/07/2019 14:13,3080,,16/07/2019 14:10,40.70934,,-73.95608,,S 4 St & Rodney St,,324,S 4 St & Rodney St,1,In Service,Falso,21,1
+1,1,,2,27,,16/07/2019 14:13,3081,,16/07/2019 14:10,40.711863,,-73.944024,,Graham Ave & Grand St,,325,Graham Ave & Grand St,1,In Service,Falso,29,1
+1,1,,2,22,,16/07/2019 14:13,3082,,16/07/2019 14:12,40.71167351,,-73.95141312,,Hope St & Union Ave,,326,Hope St & Union Ave,1,In Service,Falso,25,1
+1,1,,1,31,,16/07/2019 14:13,3083,,16/07/2019 14:09,40.71247661,,-73.94100005,,Bushwick Ave & Powers St,,327,Bushwick Ave & Powers St,1,In Service,Falso,32,1
+1,1,,9,16,,16/07/2019 14:13,3085,,16/07/2019 14:12,40.71469,,-73.95739,,Roebling St & N 4 St,,328,Roebling St & N 4 St,1,In Service,Falso,25,1
+1,1,,17,13,,16/07/2019 14:13,3086,,16/07/2019 14:10,40.715143,,-73.944507,,Graham Ave & Conselyea St,,329,Graham Ave & Conselyea St,1,In Service,Falso,30,1
+1,1,,3,24,,16/07/2019 14:13,3087,,16/07/2019 14:10,40.71413311,,-73.95234386,,Metropolitan Ave & Meeker Ave,,330,Metropolitan Ave & Meeker Ave,1,In Service,Falso,30,1
+1,1,,4,14,,16/07/2019 14:13,3088,,16/07/2019 14:10,40.7160751,,-73.952029,,Union Ave & Jackson St,,331,Union Ave & Jackson St,1,In Service,Falso,19,1
+1,1,,25,2,,16/07/2019 14:13,3092,,16/07/2019 14:09,40.7190095,,-73.95852515,,Berry St & N 8 St,,332,Berry St & N 8 St,1,In Service,Falso,27,1
+1,1,,24,4,,16/07/2019 14:13,3093,,16/07/2019 14:12,40.71745169,,-73.95850939,,N 6 St & Bedford Ave,,333,N 6 St & Bedford Ave,1,In Service,Falso,28,1
+1,1,,2,14,,16/07/2019 14:13,3094,,16/07/2019 14:10,40.7169811,,-73.94485918,,Graham Ave & Withers St,,334,Graham Ave & Withers St,1,In Service,Falso,18,1
+1,1,,3,23,,16/07/2019 14:13,3095,,16/07/2019 14:11,40.71929301,,-73.94500379,,Graham Ave & Herbert St,,335,Graham Ave & Herbert St,1,In Service,Falso,26,1
+1,1,,26,10,,16/07/2019 14:13,3096,,16/07/2019 14:10,40.71924,,-73.95242,,Union Ave & N 12 St,,336,Union Ave & N 12 St,1,In Service,Falso,39,1
+1,1,,17,33,,16/07/2019 14:13,3100,,16/07/2019 14:12,40.72481256,,-73.94752622,,Nassau Ave & Newell St,,337,Nassau Ave & Newell St,1,In Service,Falso,51,1
+1,1,,8,16,,16/07/2019 14:13,3101,,16/07/2019 14:12,40.72079821,,-73.95484712,,N 12 St & Bedford Ave,,338,N 12 St & Bedford Ave,1,In Service,Falso,27,1
+1,1,,11,13,,16/07/2019 14:13,3102,,16/07/2019 14:12,40.72179134,,-73.9504154,,Driggs Ave & Lorimer St,,339,Driggs Ave & Lorimer St,1,In Service,Falso,27,1
+1,1,,23,0,,16/07/2019 14:13,3105,,16/07/2019 14:12,40.724055,,-73.955736,,N 15 St & Wythe Ave,,340,N 15 St & Wythe Ave,1,In Service,Falso,24,1
+1,1,,1,21,,16/07/2019 14:13,3106,,16/07/2019 14:09,40.72325,,-73.94308,,Driggs Ave & N Henry St,,341,Driggs Ave & N Henry St,1,In Service,Falso,22,1
+1,1,,38,0,,16/07/2019 14:13,3107,,16/07/2019 14:09,40.72311651,,-73.95212324,,Bedford Ave & Nassau Ave,,342,Bedford Ave & Nassau Ave,1,In Service,Falso,39,1
+1,1,,0,51,,16/07/2019 14:13,3108,,16/07/2019 14:11,40.72557,,-73.94434,,Nassau Ave & Russell St,,343,Nassau Ave & Russell St,1,In Service,Falso,51,1
+1,1,,23,8,,16/07/2019 14:13,3109,,16/07/2019 14:10,40.72606,,-73.95621,,Banker St & Meserole Ave,,344,Banker St & Meserole Ave,1,In Service,Falso,31,1
+1,1,,6,21,,16/07/2019 14:13,3110,,16/07/2019 14:09,40.72708584,,-73.95299117,,Meserole Ave & Manhattan Ave,,345,Meserole Ave & Manhattan Ave,1,In Service,Falso,28,1
+1,1,,24,6,,16/07/2019 14:13,3112,,16/07/2019 14:12,40.72906,,-73.95779,,Milton St & Franklin St,,346,Milton St & Franklin St,1,In Service,Falso,33,1
+1,1,,3,23,,16/07/2019 14:13,3113,,16/07/2019 14:11,40.73026,,-73.95394,,Greenpoint Ave & Manhattan Ave,,347,Greenpoint Ave & Manhattan Ave,1,In Service,Falso,27,1
+1,1,,0,0,,16/07/2019 14:13,3115,,19/06/2019 13:40,40.73232194,,-73.9550858,,India St & Manhattan Ave,,348,India St & Manhattan Ave,3,Not In Service,Falso,0,1
+1,1,,15,19,,16/07/2019 14:13,3116,,16/07/2019 14:09,40.73266,,-73.95826,,Huron St & Franklin St,,349,Huron St & Franklin St,1,In Service,Falso,35,1
+1,1,,3,23,,16/07/2019 14:13,3117,,16/07/2019 14:12,40.73564,,-73.95866,,Franklin St & Dupont St,,350,Franklin St & Dupont St,1,In Service,Falso,27,1
+1,1,,16,23,,16/07/2019 14:13,3118,,16/07/2019 14:09,40.73555,,-73.95284,,McGuinness Blvd & Eagle St,,351,McGuinness Blvd & Eagle St,1,In Service,Falso,42,1
+1,1,,23,20,,16/07/2019 14:13,3119,,16/07/2019 14:12,40.74232744,,-73.95411749,,Vernon Blvd & 50 Ave,,352,Vernon Blvd & 50 Ave,1,In Service,Falso,45,1
+1,1,,22,3,,16/07/2019 14:13,3121,,16/07/2019 14:11,40.74524768,,-73.94733276,,Jackson Ave & 46 Rd,,353,Jackson Ave & 46 Rd,1,In Service,Falso,27,1
+1,1,,24,6,,16/07/2019 14:13,3122,,16/07/2019 14:09,40.74436329,,-73.95587325,,48 Ave & 5 St,,354,48 Ave & 5 St,1,In Service,Falso,31,1
+1,1,,23,2,,16/07/2019 14:13,3123,,16/07/2019 14:10,40.74469738,,-73.93540375,,31 St & Thomson Ave,,355,31 St & Thomson Ave,1,In Service,Falso,27,1
+1,1,,3,24,,16/07/2019 14:13,3124,,16/07/2019 14:11,40.74731,,-73.95451,,46 Ave & 5 St,,356,46 Ave & 5 St,1,In Service,Falso,27,1
+1,1,,23,0,,16/07/2019 14:13,3125,,16/07/2019 14:10,40.74708586,,-73.94977234,,45 Rd & 11 St,,357,45 Rd & 11 St,1,In Service,Falso,23,1
+1,1,,32,1,,16/07/2019 14:13,3126,,16/07/2019 14:12,40.74718234,,-73.9432635,,44 Dr & Jackson Ave,,358,44 Dr & Jackson Ave,1,In Service,Falso,34,1
+1,1,,30,3,,16/07/2019 14:13,3127,,16/07/2019 14:09,40.74966,,-73.9521,,9 St & 44 Rd,,359,9 St & 44 Rd,1,In Service,Falso,35,1
+1,1,,21,0,,16/07/2019 14:13,3128,,16/07/2019 14:12,40.75052534,,-73.94594845,,21 St & 43 Ave,,360,21 St & 43 Ave,1,In Service,Falso,23,1
+1,1,,29,1,,16/07/2019 14:13,3129,,16/07/2019 14:12,40.75110165,,-73.94073717,,Queens Plaza North & Crescent St,,361,Queens Plaza North & Crescent St,3,Not In Service,Falso,31,1
+1,1,,25,4,,16/07/2019 14:13,3130,,16/07/2019 14:10,40.75325964,,-73.94335788,,21 St & Queens Plaza North,,362,21 St & Queens Plaza North,1,In Service,Falso,31,1
+1,1,,0,29,,16/07/2019 14:13,3131,,16/07/2019 14:09,40.7671284,,-73.96224618,,E 68 St & 3 Ave,,363,E 68 St & 3 Ave,1,In Service,Falso,31,1
+1,1,,24,10,,16/07/2019 14:13,3132,,16/07/2019 14:09,40.76350532,,-73.97109243,,E 59 St & Madison Ave,,364,E 59 St & Madison Ave,1,In Service,Falso,35,1
+1,1,,21,29,,16/07/2019 14:13,3134,,16/07/2019 14:10,40.76312584,,-73.96526895,,3 Ave & E 62 St,,365,3 Ave & E 62 St,1,In Service,Falso,51,1
+1,1,,0,39,,16/07/2019 14:13,3135,,16/07/2019 14:10,40.77112927,,-73.95772297,,E 75 St & 3 Ave,,366,E 75 St & 3 Ave,1,In Service,Falso,41,1
+1,1,,15,32,,16/07/2019 14:13,3136,,16/07/2019 14:12,40.766368,,-73.971518,,5 Ave & E 63 St,,367,5 Ave & E 63 St,1,In Service,Falso,47,1
+1,1,,13,16,,16/07/2019 14:13,3137,,16/07/2019 14:10,40.77282817,,-73.96685276,,5 Ave & E 73 St,,368,5 Ave & E 73 St,1,In Service,Falso,31,1
+1,1,,0,43,,16/07/2019 14:13,3139,,16/07/2019 14:12,40.77118288,,-73.96409422,,E 72 St & Park Ave,,369,E 72 St & Park Ave,1,In Service,Falso,43,1
+1,1,,3,52,,16/07/2019 14:13,3140,,16/07/2019 14:11,40.77140426,,-73.9535166,,1 Ave & E 78 St,,370,1 Ave & E 78 St,1,In Service,Falso,55,1
+1,1,,23,36,,16/07/2019 14:13,3141,,16/07/2019 14:10,40.76500525,,-73.95818491,,1 Ave & E 68 St,,371,1 Ave & E 68 St,1,In Service,Falso,59,1
+1,1,,5,34,,16/07/2019 14:13,3142,,16/07/2019 14:12,40.7612274,,-73.96094022,,1 Ave & E 62 St,,372,1 Ave & E 62 St,1,In Service,Falso,41,1
+1,1,,11,35,,16/07/2019 14:13,3143,,16/07/2019 14:12,40.77632142,,-73.96427393,,5 Ave & E 78 St,,373,5 Ave & E 78 St,1,In Service,Falso,47,1
+1,1,,0,9,,16/07/2019 14:13,3144,,24/06/2019 07:52,40.77677702,,-73.9590097,,E 81 St & Park Ave,,374,E 81 St & Park Ave,3,Not In Service,Falso,9,1
+1,1,,2,43,,16/07/2019 14:13,3145,,16/07/2019 14:10,40.77862688,,-73.95772073,,E 84 St & Park Ave,,375,E 84 St & Park Ave,1,In Service,Falso,45,1
+1,1,,0,46,,16/07/2019 14:13,3146,,16/07/2019 14:09,40.77573034,,-73.9567526,,E 81 St & 3 Ave,,376,E 81 St & 3 Ave,1,In Service,Falso,47,1
+1,1,,1,29,,16/07/2019 14:13,3148,,16/07/2019 14:12,40.77565541,,-73.95068615,,E 84 St & 1 Ave,,377,E 84 St & 1 Ave,1,In Service,Falso,31,1
+1,1,,2,43,,16/07/2019 14:13,3150,,16/07/2019 14:12,40.77536905,,-73.94803392,,E 85 St & York Ave,,378,E 85 St & York Ave,1,In Service,Falso,47,1
+1,1,,2,40,,16/07/2019 14:13,3151,,16/07/2019 14:12,40.7728384,,-73.94989233,,E 81 St & York Ave,,379,E 81 St & York Ave,1,In Service,Falso,43,1
+1,1,,0,42,,16/07/2019 14:13,3152,,16/07/2019 14:12,40.76873687,,-73.96119945,,3 Ave & E 71 St,,380,3 Ave & E 71 St,1,In Service,Falso,42,1
+1,1,,0,31,,16/07/2019 14:13,3154,,16/07/2019 14:11,40.77314236,,-73.95856158,,E 77 St & 3 Ave,,381,E 77 St & 3 Ave,1,In Service,Falso,31,1
+1,1,,6,33,,16/07/2019 14:13,3155,,16/07/2019 14:12,40.76440023,,-73.96648977,,Lexington Ave & E 63 St,,382,Lexington Ave & E 63 St,1,In Service,Falso,39,1
+1,1,,6,27,,16/07/2019 14:13,3156,,16/07/2019 14:11,40.76663814,,-73.95348296,,E 72 St & York Ave,,383,E 72 St & York Ave,1,In Service,Falso,37,1
+1,1,,6,20,,16/07/2019 14:13,3157,,16/07/2019 14:11,40.77518615,,-73.94446054,,East End Ave & E 86 St,,384,East End Ave & E 86 St,1,In Service,Falso,27,1
+1,1,,3,27,,16/07/2019 14:13,3158,,16/07/2019 14:11,40.77163851,,-73.98261428,,W 63 St & Broadway,,385,W 63 St & Broadway,1,In Service,Falso,31,1
+1,1,,10,20,,16/07/2019 14:13,3159,,16/07/2019 14:12,40.77492513,,-73.98266566,,W 67 St & Broadway,,386,W 67 St & Broadway,1,In Service,Falso,31,1
+1,1,,14,23,,16/07/2019 14:13,3160,,16/07/2019 14:12,40.77896784,,-73.97374737,,Central Park West & W 76 St,,387,Central Park West & W 76 St,1,In Service,Falso,39,1
+1,1,,3,55,,16/07/2019 14:13,3161,,16/07/2019 14:09,40.78018397,,-73.97728533,,W 76 St & Columbus Ave,,388,W 76 St & Columbus Ave,1,In Service,Falso,59,1
+1,1,,1,38,,16/07/2019 14:13,3162,,16/07/2019 14:10,40.78339981,,-73.98093133,,W 78 St & Broadway,,389,W 78 St & Broadway,1,In Service,Falso,39,1
+1,1,,17,23,,16/07/2019 14:13,3163,,16/07/2019 14:12,40.7734066,,-73.97782542,,Central Park West & W 68 St,,390,Central Park West & W 68 St,1,In Service,Falso,43,1
+1,1,,17,49,,16/07/2019 14:13,3164,,16/07/2019 14:10,40.7770575,,-73.97898475,,Columbus Ave & W 72 St,,391,Columbus Ave & W 72 St,1,In Service,Falso,67,1
+1,1,,31,15,,16/07/2019 14:13,3165,,16/07/2019 14:11,40.77579377,,-73.97620574,,Central Park West & W 72 St,,392,Central Park West & W 72 St,1,In Service,Falso,51,1
+1,1,,1,39,,16/07/2019 14:13,3166,,16/07/2019 14:11,40.78057799,,-73.98562431,,Riverside Dr & W 72 St,,393,Riverside Dr & W 72 St,1,In Service,Falso,41,1
+1,1,,0,39,,16/07/2019 14:13,3167,,16/07/2019 14:11,40.77966809,,-73.98093045,,Amsterdam Ave & W 73 St,,394,Amsterdam Ave & W 73 St,1,In Service,Falso,55,1
+1,1,,2,28,,16/07/2019 14:13,3168,,16/07/2019 14:11,40.78472675,,-73.96961715,,Central Park West & W 85 St,,395,Central Park West & W 85 St,1,In Service,Falso,31,1
+1,1,,1,38,,16/07/2019 14:13,3169,,16/07/2019 14:09,40.78720869,,-73.98128127,,Riverside Dr & W 82 St,,396,Riverside Dr & W 82 St,1,In Service,Falso,39,1
+1,1,,0,35,,16/07/2019 14:13,3170,,16/07/2019 14:11,40.78499979,,-73.97283406,,W 84 St & Columbus Ave,,397,W 84 St & Columbus Ave,1,In Service,Falso,35,1
+1,1,,2,35,,16/07/2019 14:13,3171,,16/07/2019 14:09,40.78524672,,-73.97667321,,Amsterdam Ave & W 82 St,,398,Amsterdam Ave & W 82 St,1,In Service,Falso,39,1
+1,1,,9,18,,16/07/2019 14:13,3172,,16/07/2019 14:09,40.7785669,,-73.97754961,,W 74 St & Columbus Ave,,399,W 74 St & Columbus Ave,1,In Service,Falso,27,1
+1,1,,7,30,,16/07/2019 14:13,3173,,16/07/2019 14:11,40.77750703,,-73.98888588,,Riverside Blvd & W 67 St,,400,Riverside Blvd & W 67 St,1,In Service,Falso,39,1
+1,1,,1,29,,16/07/2019 14:13,3175,,16/07/2019 14:09,40.77748046,,-73.98288594,,W 70 St & Amsterdam Ave,,401,W 70 St & Amsterdam Ave,1,In Service,Falso,31,1
+1,1,,2,59,,16/07/2019 14:13,3177,,16/07/2019 14:11,40.7867947,,-73.977112,,W 84 St & Broadway,,402,W 84 St & Broadway,1,In Service,Falso,63,1
+1,1,,0,39,,16/07/2019 14:13,3178,,16/07/2019 14:12,40.78414472,,-73.98362492,,Riverside Dr & W 78 St,,403,Riverside Dr & W 78 St,1,In Service,Falso,39,1
+1,1,,11,12,,16/07/2019 14:13,3179,,16/07/2019 14:12,40.698617,,-73.941342,,Park Ave & Marcus Garvey Blvd,,404,Park Ave & Marcus Garvey Blvd,1,In Service,Falso,23,1
+1,1,,30,9,,16/07/2019 14:13,3182,,16/07/2019 14:11,40.686931,,-74.016966,,Yankee Ferry Terminal,,405,Yankee Ferry Terminal,1,In Service,Falso,42,1
+1,1,,11,3,,16/07/2019 14:13,3184,,16/07/2019 14:12,40.7141454,,-74.0335519,,Paulus Hook,,406,Paulus Hook,1,In Service,Falso,14,1
+1,1,,12,10,,16/07/2019 14:13,3185,,16/07/2019 14:12,40.7177325,,-74.043845,,City Hall,,407,City Hall,1,In Service,Falso,22,1
+1,1,,28,13,,16/07/2019 14:13,3186,,16/07/2019 14:11,40.71958612,,-74.04311746,,Grove St PATH,,408,Grove St PATH,1,In Service,Falso,42,1
+1,1,,7,15,,16/07/2019 14:13,3187,,16/07/2019 14:10,40.7211236,,-74.03805095,,Warren St,,409,Warren St,1,In Service,Falso,22,1
+1,1,,17,1,,16/07/2019 14:13,3191,,16/07/2019 14:12,40.7182113,,-74.0836394,,Union St,,410,Union St,1,In Service,Falso,18,1
+1,1,,5,17,,16/07/2019 14:13,3192,,16/07/2019 14:11,40.7112423,,-74.0557013,,Liberty Light Rail,,411,Liberty Light Rail,1,In Service,Falso,22,1
+1,1,,7,11,,16/07/2019 14:13,3193,,16/07/2019 14:12,40.7246051,,-74.07840595,,Lincoln Park,,412,Lincoln Park,1,In Service,Falso,18,1
+1,1,,4,18,,16/07/2019 14:13,3194,,16/07/2019 14:11,40.72533993,,-74.06762213,,McGinley Square,,413,McGinley Square,1,In Service,Falso,22,1
+1,1,,20,14,,16/07/2019 14:13,3195,,16/07/2019 14:09,40.7308971,,-74.06391263,,Sip Ave,,414,Sip Ave,1,In Service,Falso,34,1
+1,1,,2,15,,16/07/2019 14:13,3196,,16/07/2019 14:12,40.7443187,,-74.0439909,,Riverview Park,,415,Riverview Park,1,In Service,Falso,18,1
+1,1,,2,16,,16/07/2019 14:13,3198,,16/07/2019 14:10,40.74871595,,-74.0404433,,Heights Elevator,,416,Heights Elevator,1,In Service,Falso,18,1
+1,1,,3,10,,16/07/2019 14:13,3199,,16/07/2019 14:09,40.7287448,,-74.0321082,,Newport Pkwy,,417,Newport Pkwy,1,In Service,Falso,14,1
+1,1,,5,12,,16/07/2019 14:13,3201,,16/07/2019 14:10,40.737711,,-74.066921,,Dey St,,418,Dey St,1,In Service,Falso,17,1
+1,1,,15,3,,16/07/2019 14:13,3202,,16/07/2019 14:09,40.7272235,,-74.0337589,,Newport PATH,,419,Newport PATH,1,In Service,Falso,18,1
+1,1,,8,18,,16/07/2019 14:13,3203,,16/07/2019 14:12,40.72759597,,-74.04424731,,Hamilton Park,,420,Hamilton Park,1,In Service,Falso,26,1
+1,1,,10,11,,16/07/2019 14:13,3205,,16/07/2019 14:09,40.71653978,,-74.04963791,,JC Medical Center,,421,JC Medical Center,1,In Service,Falso,22,1
+1,1,,2,23,,16/07/2019 14:13,3206,,16/07/2019 14:09,40.7311689,,-74.0575736,,Hilltop,,422,Hilltop,1,In Service,Falso,26,1
+1,1,,16,8,,16/07/2019 14:13,3207,,16/07/2019 14:12,40.7376037,,-74.0524783,,Oakland Ave,,423,Oakland Ave,1,In Service,Falso,26,1
+1,1,,0,21,,16/07/2019 14:13,3209,,16/07/2019 14:11,40.7241765,,-74.0506564,,Brunswick St,,424,Brunswick St,1,In Service,Falso,22,1
+1,1,,1,17,,16/07/2019 14:13,3210,,16/07/2019 14:09,40.74267714,,-74.05178863,,Pershing Field,,425,Pershing Field,1,In Service,Falso,18,1
+1,1,,1,19,,16/07/2019 14:13,3211,,16/07/2019 14:12,40.72152515,,-74.04630454,,Newark Ave,,426,Newark Ave,1,In Service,Falso,22,1
+1,1,,9,13,,16/07/2019 14:13,3212,,16/07/2019 14:12,40.73478582,,-74.05044364,,Christ Hospital,,427,Christ Hospital,1,In Service,Falso,22,1
+1,1,,2,17,,16/07/2019 14:13,3213,,16/07/2019 14:11,40.71848892,,-74.04772663,,Van Vorst Park,,428,Van Vorst Park,1,In Service,Falso,21,1
+1,1,,9,13,,16/07/2019 14:13,3214,,16/07/2019 14:11,40.7127742,,-74.0364857,,Essex Light Rail,,429,Essex Light Rail,1,In Service,Falso,22,1
+1,1,,8,10,,16/07/2019 14:13,3220,,16/07/2019 14:12,40.73496102,,-74.05950308,,5 Corners Library,,430,5 Corners Library,1,In Service,Falso,18,1
+1,1,,20,4,,16/07/2019 14:13,3221,,16/07/2019 14:11,40.743,,-73.93561,,47 Ave & 31 St,,431,47 Ave & 31 St,1,In Service,Falso,27,1
+1,1,,0,0,,16/07/2019 14:13,3223,,06/06/2019 09:37,40.75899656,,-73.96865398,,E 55 St & 3 Ave,,432,E 55 St & 3 Ave,3,Not In Service,Falso,0,1
+1,1,,2,12,,16/07/2019 14:13,3225,,16/07/2019 14:12,40.7236589,,-74.0641943,,Baldwin at Montgomery,,433,Baldwin at Montgomery,1,In Service,Falso,14,1
+1,1,,5,39,,16/07/2019 14:13,3226,,16/07/2019 14:09,40.78275,,-73.97137,,W 82 St & Central Park West,,434,W 82 St & Central Park West,1,In Service,Falso,45,1
+1,1,,6,33,,16/07/2019 14:13,3231,,16/07/2019 14:10,40.7678008,,-73.96592081,,E 67 St & Park Ave,,435,E 67 St & Park Ave,1,In Service,Falso,39,1
+1,1,,29,1,,16/07/2019 14:13,3232,,16/07/2019 14:12,40.68962189,,-73.98304269,,Bond St & Fulton St,,436,Bond St & Fulton St,1,In Service,Falso,31,1
+1,1,,15,15,,16/07/2019 14:13,3235,,16/07/2019 14:11,40.75216528,,-73.97992194,,E 41 St & Madison Ave,,437,E 41 St & Madison Ave,1,In Service,Falso,31,1
+1,1,,1,31,,16/07/2019 14:13,3236,,16/07/2019 14:09,40.75898481,,-73.99379969,,W 42 St & Dyer Ave,,438,W 42 St & Dyer Ave,1,In Service,Falso,33,1
+1,1,,3,16,,16/07/2019 14:13,3241,,16/07/2019 14:11,40.686203,,-73.944694,,Monroe St & Tompkins Ave,,439,Monroe St & Tompkins Ave,1,In Service,Falso,19,1
+1,1,,26,11,,16/07/2019 14:13,3242,,16/07/2019 14:12,40.69102926,,-73.99183363,,Schermerhorn St & Court St,,440,Schermerhorn St & Court St,1,In Service,Falso,39,1
+1,1,,2,26,,16/07/2019 14:13,3243,,16/07/2019 14:09,40.75892386,,-73.96226227,,E 58 St & 1 Ave (NE Corner),,441,E 58 St & 1 Ave (NE Corner),1,In Service,Falso,29,1
+1,1,,3,36,,16/07/2019 14:13,3244,,16/07/2019 14:12,40.73143724,,-73.99490342,,University Pl & E 8 St,,442,University Pl & E 8 St,1,In Service,Falso,42,1
+1,1,,8,10,,16/07/2019 14:13,3249,,16/07/2019 14:12,40.68035608,,-73.9476791,,Verona Pl & Fulton St,,443,Verona Pl & Fulton St,1,In Service,Falso,19,1
+1,1,,20,5,,16/07/2019 14:13,3254,,16/07/2019 14:12,40.69231661,,-74.01486576,,Soissons Landing,,444,Soissons Landing,1,In Service,Falso,29,1
+1,1,,8,11,,16/07/2019 14:13,3255,,16/07/2019 14:12,40.75058535,,-73.99468482,,8 Ave & W 31 St,,445,8 Ave & W 31 St,1,In Service,Falso,19,1
+1,1,,6,10,,16/07/2019 14:13,3256,,16/07/2019 14:10,40.72771408,,-74.01129574,,Pier 40 - Hudson River Park,,446,Pier 40 - Hudson River Park,1,In Service,Falso,23,1
+1,1,,6,19,,16/07/2019 14:13,3259,,16/07/2019 14:09,40.74937024,,-73.99923384,,9 Ave & W 28 St,,447,9 Ave & W 28 St,1,In Service,Falso,27,1
+1,1,,28,17,,16/07/2019 14:13,3260,,16/07/2019 14:12,40.72706363,,-73.99662137,,Mercer St & Bleecker St,,448,Mercer St & Bleecker St,1,In Service,Falso,45,1
+1,1,,14,42,,16/07/2019 14:13,3263,,16/07/2019 14:10,40.72951496,,-73.9907527,,Cooper Square & Astor Pl,,449,Cooper Square & Astor Pl,1,In Service,Falso,59,1
+1,1,,2,12,,16/07/2019 14:13,3267,,16/07/2019 14:10,40.71241882,,-74.03852552,,Morris Canal,,450,Morris Canal,1,In Service,Falso,14,1
+1,1,,0,14,,16/07/2019 14:13,3268,,16/07/2019 14:11,40.71346383,,-74.06285852,,Lafayette Park,,451,Lafayette Park,1,In Service,Falso,14,1
+1,1,,6,7,,16/07/2019 14:13,3269,,16/07/2019 14:12,40.72601173,,-74.05038893,,Brunswick & 6th,,452,Brunswick & 6th,1,In Service,Falso,14,1
+1,1,,2,12,,16/07/2019 14:13,3270,,16/07/2019 14:12,40.72528911,,-74.04557169,,Jersey & 6th St,,453,Jersey & 6th St,1,In Service,Falso,14,1
+1,1,,2,12,,16/07/2019 14:13,3272,,16/07/2019 14:11,40.72333159,,-74.04595256,,Jersey & 3rd,,454,Jersey & 3rd,1,In Service,Falso,14,1
+1,1,,10,8,,16/07/2019 14:13,3273,,16/07/2019 14:12,40.72165073,,-74.04288411,,Manila & 1st,,455,Manila & 1st,1,In Service,Falso,18,1
+1,1,,8,5,,16/07/2019 14:13,3275,,16/07/2019 14:12,40.7183552,,-74.03891444,,Columbus Drive,,456,Columbus Drive,1,In Service,Falso,14,1
+1,1,,2,24,,16/07/2019 14:13,3276,,16/07/2019 14:10,40.71458404,,-74.04281706,,Marin Light Rail,,457,Marin Light Rail,1,In Service,Falso,26,1
+1,1,,2,12,,16/07/2019 14:13,3277,,16/07/2019 14:11,40.71435837,,-74.06661093,,Communipaw & Berry Lane,,458,Communipaw & Berry Lane,1,In Service,Falso,14,1
+1,1,,2,12,,16/07/2019 14:13,3278,,16/07/2019 14:12,40.72568548,,-74.04879034,,Monmouth and 6th,,459,Monmouth and 6th,1,In Service,Falso,14,1
+1,1,,4,14,,16/07/2019 14:13,3279,,16/07/2019 14:11,40.72163014,,-74.04996783,,Dixon Mills,,460,Dixon Mills,1,In Service,Falso,18,1
+1,1,,2,12,,16/07/2019 14:13,3280,,16/07/2019 14:12,40.7192822,,-74.07126188,,Astor Place,,461,Astor Place,1,In Service,Falso,14,1
+1,1,,4,10,,16/07/2019 14:13,3281,,16/07/2019 14:12,40.74590997,,-74.05727148,,Leonard Gordon Park,,462,Leonard Gordon Park,1,In Service,Falso,14,1
+1,1,,27,11,,16/07/2019 14:13,3282,,16/07/2019 14:12,40.78307,,-73.95939,,5 Ave & E 88 St,,463,5 Ave & E 88 St,1,In Service,Falso,38,1
+1,1,,0,45,,16/07/2019 14:13,3283,,16/07/2019 14:12,40.7882213,,-73.97041561,,W 89 St & Columbus Ave,,464,W 89 St & Columbus Ave,1,In Service,Falso,47,1
+1,1,,0,38,,16/07/2019 14:13,3284,,16/07/2019 14:11,40.7814107,,-73.95595908,,E 88 St & Park Ave,,465,E 88 St & Park Ave,1,In Service,Falso,38,1
+1,1,,1,41,,16/07/2019 14:13,3285,,16/07/2019 14:12,40.78839,,-73.9747,,W 87 St & Amsterdam Ave,,466,W 87 St & Amsterdam Ave,1,In Service,Falso,43,1
+1,1,,0,39,,16/07/2019 14:13,3286,,16/07/2019 14:10,40.7806284,,-73.9521667,,E 89 St & 3 Ave,,467,E 89 St & 3 Ave,1,In Service,Falso,39,1
+1,1,,6,32,,16/07/2019 14:13,3288,,16/07/2019 14:10,40.778301,,-73.9488134,,E 88 St & 1 Ave,,468,E 88 St & 1 Ave,1,In Service,Falso,39,1
+1,1,,0,31,,16/07/2019 14:13,3289,,16/07/2019 14:12,40.79017948,,-73.97288919,,W 90 St & Amsterdam Ave,,469,W 90 St & Amsterdam Ave,1,In Service,Falso,32,1
+1,1,,3,31,,16/07/2019 14:13,3290,,16/07/2019 14:09,40.7779453,,-73.946041,,E 89 St & York Ave,,470,E 89 St & York Ave,1,In Service,Falso,35,1
+1,1,,3,40,,16/07/2019 14:13,3292,,16/07/2019 14:11,40.7857851,,-73.957481,,5 Ave & E 93 St,,471,5 Ave & E 93 St,1,In Service,Falso,43,1
+1,1,,0,23,,16/07/2019 14:13,3293,,16/07/2019 14:12,40.7921,,-73.9739,,W 92 St & Broadway,,472,W 92 St & Broadway,1,In Service,Falso,24,1
+1,1,,0,36,,16/07/2019 14:13,3294,,16/07/2019 14:11,40.7835016,,-73.955327,,E 91 St & Park Ave,,473,E 91 St & Park Ave,1,In Service,Falso,38,1
+1,1,,1,57,,16/07/2019 14:13,3295,,16/07/2019 14:11,40.79127,,-73.964839,,Central Park W & W 96 St,,474,Central Park W & W 96 St,1,In Service,Falso,59,1
+1,1,,9,33,,16/07/2019 14:13,3296,,16/07/2019 14:09,40.78245418,,-73.94891962,,E 93 St & 2 Ave,,475,E 93 St & 2 Ave,1,In Service,Falso,42,1
+1,1,,0,21,,16/07/2019 14:13,3297,,16/07/2019 14:09,40.6686627,,-73.97988067,,6 St & 7 Ave,,476,6 St & 7 Ave,1,In Service,Falso,21,1
+1,1,,20,2,,16/07/2019 14:13,3298,,16/07/2019 14:11,40.686371,,-73.99383324,,Warren St & Court St,,477,Warren St & Court St,1,In Service,Falso,23,1
+1,1,,4,20,,16/07/2019 14:13,3299,,16/07/2019 14:11,40.78813,,-73.95206,,E 98 St & Park Ave,,478,E 98 St & Park Ave,1,In Service,Falso,25,1
+1,1,,0,25,,16/07/2019 14:13,3300,,16/07/2019 14:10,40.66514682,,-73.97637606,,Prospect Park West & 8 St,,479,Prospect Park West & 8 St,1,In Service,Falso,25,1
+1,1,,3,36,,16/07/2019 14:13,3301,,16/07/2019 14:11,40.7919557,,-73.968087,,Columbus Ave & W 95 St,,480,Columbus Ave & W 95 St,1,In Service,Falso,39,1
+1,1,,0,21,,16/07/2019 14:13,3302,,16/07/2019 14:09,40.7969347,,-73.96434123,,Columbus Ave & W 103 St,,481,Columbus Ave & W 103 St,1,In Service,Falso,22,1
+1,1,,17,8,,16/07/2019 14:13,3303,,16/07/2019 14:09,40.6849894,,-73.99440329,,Butler St & Court St,,482,Butler St & Court St,1,In Service,Falso,25,1
+1,1,,1,26,,16/07/2019 14:13,3304,,16/07/2019 14:11,40.668127,,-73.98377641,,6 Ave & 9 St,,483,6 Ave & 9 St,1,In Service,Falso,27,1
+1,1,,0,39,,16/07/2019 14:13,3305,,16/07/2019 14:12,40.7811223,,-73.94965589,,E 91 St & 2 Ave,,484,E 91 St & 2 Ave,1,In Service,Falso,39,1
+1,1,,1,22,,16/07/2019 14:13,3306,,16/07/2019 14:11,40.6662078,,-73.98199886,,10 St & 7 Ave,,485,10 St & 7 Ave,1,In Service,Falso,23,1
+1,1,,1,28,,16/07/2019 14:13,3307,,16/07/2019 14:11,40.7941654,,-73.974124,,West End Ave & W 94 St,,486,West End Ave & W 94 St,1,In Service,Falso,31,1
+1,1,,5,22,,16/07/2019 14:13,3308,,16/07/2019 14:10,40.6861758,,-73.99645295,,Kane St & Clinton St,,487,Kane St & Clinton St,1,In Service,Falso,27,1
+1,1,,5,24,,16/07/2019 14:13,3309,,16/07/2019 14:13,40.7859201,,-73.94860294,,E 97 St & 3 Ave,,488,E 97 St & 3 Ave,1,In Service,Falso,30,1
+1,1,,1,23,,16/07/2019 14:13,3310,,16/07/2019 14:11,40.663779,,-73.98396846,,14 St & 7 Ave,,489,14 St & 7 Ave,1,In Service,Falso,24,1
+1,1,,15,5,,16/07/2019 14:13,3311,,16/07/2019 14:10,40.68763155,,-74.0016256,,Columbia St & Kane St,,490,Columbia St & Kane St,1,In Service,Falso,21,1
+1,1,,30,9,,16/07/2019 14:13,3312,,16/07/2019 14:12,40.7817212,,-73.94594,,1 Ave & E 94 St,,491,1 Ave & E 94 St,1,In Service,Falso,39,1
+1,1,,0,29,,16/07/2019 14:13,3313,,16/07/2019 14:11,40.6663181,,-73.9854617,,6 Ave & 12 St,,492,6 Ave & 12 St,1,In Service,Falso,29,1
+1,1,,4,27,,16/07/2019 14:13,3314,,16/07/2019 14:11,40.7937704,,-73.971888,,W 95 St & Broadway,,493,W 95 St & Broadway,1,In Service,Falso,32,1
+1,1,,2,20,,16/07/2019 14:13,3315,,16/07/2019 14:10,40.6847514,,-73.99917254,,Henry St & Degraw St,,494,Henry St & Degraw St,1,In Service,Falso,23,1
+1,1,,8,16,,16/07/2019 14:13,3317,,16/07/2019 14:09,40.6686273,,-73.98700053,,10 St & 5 Ave,,495,10 St & 5 Ave,1,In Service,Falso,24,1
+1,1,,21,18,,16/07/2019 14:13,3318,,16/07/2019 14:11,40.7839636,,-73.9471673,,2 Ave & E 96 St,,496,2 Ave & E 96 St,1,In Service,Falso,39,1
+1,1,,8,13,,16/07/2019 14:13,3319,,16/07/2019 14:09,40.666287,,-73.98895053,,14 St & 5 Ave,,497,14 St & 5 Ave,1,In Service,Falso,21,1
+1,1,,9,40,,16/07/2019 14:13,3320,,16/07/2019 14:10,40.79406661,,-73.96286845,,Central Park West & W 100 St,,498,Central Park West & W 100 St,1,In Service,Falso,49,1
+1,1,,6,19,,16/07/2019 14:13,3321,,16/07/2019 14:09,40.6831164,,-73.99785267,,Clinton St & Union St,,499,Clinton St & Union St,1,In Service,Falso,25,1
+1,1,,23,2,,16/07/2019 14:13,3322,,16/07/2019 14:12,40.668603,,-73.9904394,,12 St & 4 Ave,,500,12 St & 4 Ave,1,In Service,Falso,25,1
+1,1,,5,54,,16/07/2019 14:13,3323,,16/07/2019 14:10,40.7981856,,-73.9605909,,W 106 St & Central Park West,,501,W 106 St & Central Park West,1,In Service,Falso,59,1
+1,1,,25,0,,16/07/2019 14:13,3324,,16/07/2019 14:10,40.6685455,,-73.99333264,,3 Ave & 14 St,,502,3 Ave & 14 St,1,In Service,Falso,25,1
+1,1,,15,6,,16/07/2019 14:13,3326,,16/07/2019 14:11,40.67434,,-74.00194698,,Clinton St & Centre St,,503,Clinton St & Centre St,1,In Service,Falso,21,1
+1,1,,3,24,,16/07/2019 14:13,3327,,16/07/2019 14:10,40.7877214,,-73.94728331,,3 Ave & E 100 St,,504,3 Ave & E 100 St,1,In Service,Falso,27,1
+1,1,,1,37,,16/07/2019 14:13,3328,,16/07/2019 14:11,40.795,,-73.9645,,W 100 St & Manhattan Ave,,505,W 100 St & Manhattan Ave,1,In Service,Falso,39,1
+1,1,,19,8,,16/07/2019 14:13,3329,,16/07/2019 14:10,40.6829151,,-73.99318208,,Degraw St & Smith St,,506,Degraw St & Smith St,1,In Service,Falso,27,1
+1,1,,10,8,,16/07/2019 14:13,3330,,16/07/2019 14:10,40.6725058,,-74.00494695,,Henry St & Bay St,,507,Henry St & Bay St,1,In Service,Falso,19,1
+1,1,,5,34,,16/07/2019 14:13,3331,,16/07/2019 14:10,40.8013434,,-73.97114574,,Riverside Dr & W 104 St,,508,Riverside Dr & W 104 St,1,In Service,Falso,39,1
+1,1,,6,13,,16/07/2019 14:13,3332,,16/07/2019 14:11,40.68199044,,-73.99079025,,Degraw St & Hoyt St,,509,Degraw St & Hoyt St,1,In Service,Falso,19,1
+1,1,,19,2,,16/07/2019 14:13,3333,,16/07/2019 14:11,40.6747055,,-74.0075572,,Columbia St & Lorraine St,,510,Columbia St & Lorraine St,1,In Service,Falso,21,1
+1,1,,27,1,,16/07/2019 14:13,3335,,16/07/2019 14:12,40.6772744,,-73.98282002,,Union St & 4 Ave,,511,Union St & 4 Ave,1,In Service,Falso,28,1
+1,1,,5,36,,16/07/2019 14:13,3336,,16/07/2019 14:10,40.787801,,-73.953559,,E 97 St & Madison Ave,,512,E 97 St & Madison Ave,1,In Service,Falso,41,1
+1,1,,18,5,,16/07/2019 14:13,3337,,16/07/2019 14:10,40.67363551,,-74.01195556,,Dwight St & Van Dyke St,,513,Dwight St & Van Dyke St,1,In Service,Falso,23,1
+1,1,,5,26,,16/07/2019 14:13,3338,,16/07/2019 14:09,40.7862586,,-73.94552579,,2 Ave & E 99 St,,514,2 Ave & E 99 St,1,In Service,Falso,31,1
+1,1,,12,11,,16/07/2019 14:13,3339,,16/07/2019 14:09,40.6765304,,-73.97846879,,Berkeley Pl & 6 Ave,,515,Berkeley Pl & 6 Ave,1,In Service,Falso,23,1
+1,1,,7,14,,16/07/2019 14:13,3340,,16/07/2019 14:09,40.6753274,,-74.0100698,,Wolcott St & Dwight St,,516,Wolcott St & Dwight St,1,In Service,Falso,21,1
+1,1,,3,36,,16/07/2019 14:13,3341,,16/07/2019 14:11,40.795346,,-73.96186,,Central Park West & W 102 St,,517,Central Park West & W 102 St,1,In Service,Falso,41,1
+1,1,,7,16,,16/07/2019 14:13,3342,,16/07/2019 14:09,40.6777748,,-74.0094613,,Pioneer St & Richards St,,518,Pioneer St & Richards St,1,In Service,Falso,23,1
+1,1,,0,23,,16/07/2019 14:13,3343,,16/07/2019 14:11,40.7997568,,-73.96211287,,W 107 St & Columbus Ave,,519,W 107 St & Columbus Ave,1,In Service,Falso,23,1
+1,1,,6,13,,16/07/2019 14:13,3344,,16/07/2019 14:09,40.679043,,-74.011169,,Pioneer St & Van Brunt St,,520,Pioneer St & Van Brunt St,1,In Service,Falso,19,1
+1,1,,22,13,,16/07/2019 14:13,3345,,16/07/2019 14:09,40.78948542,,-73.9524293,,Madison Ave & E 99 St,,521,Madison Ave & E 99 St,1,In Service,Falso,35,1
+1,1,,0,29,,16/07/2019 14:13,3346,,16/07/2019 14:12,40.67514684,,-73.9752321,,Berkeley Pl & 7 Ave,,522,Berkeley Pl & 7 Ave,1,In Service,Falso,29,1
+1,1,,7,12,,16/07/2019 14:13,3347,,16/07/2019 14:10,40.6773429,,-74.01275056,,Van Brunt St & Wolcott St,,523,Van Brunt St & Wolcott St,1,In Service,Falso,21,1
+1,1,,9,9,,16/07/2019 14:13,3348,,16/07/2019 14:12,40.677236,,-74.015665,,Coffey St & Conover St,,524,Coffey St & Conover St,1,In Service,Falso,19,1
+1,1,,0,29,,16/07/2019 14:13,3349,,16/07/2019 14:12,40.6729679,,-73.97087984,,Grand Army Plaza & Plaza St West,,525,Grand Army Plaza & Plaza St West,1,In Service,Falso,30,1
+1,1,,3,35,,16/07/2019 14:13,3350,,16/07/2019 14:12,40.7973721,,-73.97041192,,W 100 St & Broadway,,526,W 100 St & Broadway,1,In Service,Falso,39,1
+1,1,,7,18,,16/07/2019 14:13,3351,,16/07/2019 14:12,40.7869946,,-73.94164802,,E 102 St & 1 Ave,,527,E 102 St & 1 Ave,1,In Service,Falso,25,1
+1,1,,21,0,,16/07/2019 14:13,3352,,16/07/2019 14:10,40.67267243,,-74.00879525,,Sigourney St & Columbia St,,528,Sigourney St & Columbia St,1,In Service,Falso,21,1
+1,1,,0,30,,16/07/2019 14:13,3354,,16/07/2019 14:10,40.668132,,-73.97363831,,3 St & Prospect Park West,,529,3 St & Prospect Park West,1,In Service,Falso,31,1
+1,1,,4,21,,16/07/2019 14:13,3355,,16/07/2019 14:11,40.76800889,,-73.96845281,,E 66 St & Madison Ave,,530,E 66 St & Madison Ave,1,In Service,Falso,25,1
+1,1,,0,21,,16/07/2019 14:13,3356,,16/07/2019 14:11,40.7746671,,-73.98470567,,Amsterdam Ave & W 66 St,,531,Amsterdam Ave & W 66 St,1,In Service,Falso,21,1
+1,1,,3,31,,16/07/2019 14:13,3357,,16/07/2019 14:12,40.8008363,,-73.96644925,,W 106 St & Amsterdam Ave,,532,W 106 St & Amsterdam Ave,1,In Service,Falso,35,1
+1,1,,0,25,,16/07/2019 14:13,3358,,16/07/2019 14:12,40.6711978,,-73.97484126,,Garfield Pl & 8 Ave,,533,Garfield Pl & 8 Ave,1,In Service,Falso,25,1
+1,1,,3,32,,16/07/2019 14:13,3359,,16/07/2019 14:12,40.7691572,,-73.96703464,,E 68 St & Madison Ave,,534,E 68 St & Madison Ave,1,In Service,Falso,35,1
+1,1,,1,24,,16/07/2019 14:13,3360,,16/07/2019 14:12,40.7829391,,-73.9786517,,Amsterdam Ave & W 79 St,,535,Amsterdam Ave & W 79 St,1,In Service,Falso,25,1
+1,1,,3,20,,16/07/2019 14:13,3361,,16/07/2019 14:10,40.6740886,,-73.9787282,,Carroll St & 6 Ave,,536,Carroll St & 6 Ave,1,In Service,Falso,23,1
+1,1,,5,29,,16/07/2019 14:13,3362,,16/07/2019 14:12,40.7781314,,-73.96069399,,Madison Ave & E 82 St,,537,Madison Ave & E 82 St,1,In Service,Falso,34,1
+1,1,,22,10,,16/07/2019 14:13,3363,,16/07/2019 14:12,40.7904828,,-73.95033068,,E 102 St & Park Ave,,538,E 102 St & Park Ave,1,In Service,Falso,33,1
+1,1,,21,5,,16/07/2019 14:13,3364,,16/07/2019 14:09,40.6751622,,-73.9814832,,Carroll St & 5 Ave,,539,Carroll St & 5 Ave,1,In Service,Falso,27,1
+1,1,,0,25,,16/07/2019 14:13,3365,,16/07/2019 14:11,40.6703837,,-73.97839676,,3 St & 7 Ave,,540,3 St & 7 Ave,1,In Service,Falso,27,1
+1,1,,0,31,,16/07/2019 14:13,3366,,16/07/2019 14:11,40.8021174,,-73.96818053,,West End Ave & W 107 St,,541,West End Ave & W 107 St,1,In Service,Falso,31,1
+1,1,,33,6,,16/07/2019 14:13,3367,,16/07/2019 14:11,40.7922553,,-73.95249933,,5 Ave & E 103 St,,542,5 Ave & E 103 St,1,In Service,Falso,39,1
+1,1,,3,27,,16/07/2019 14:13,3368,,16/07/2019 14:11,40.6728155,,-73.98352355,,5 Ave & 3 St,,543,5 Ave & 3 St,1,In Service,Falso,30,1
+1,1,,3,26,,16/07/2019 14:13,3369,,16/07/2019 14:12,40.7724607,,-73.9468208,,E 82 St & East End Ave,,544,E 82 St & East End Ave,1,In Service,Falso,29,1
+1,1,,1,24,,16/07/2019 14:13,3370,,16/07/2019 14:10,40.7727966,,-73.95577801,,E 78 St & 2 Ave,,545,E 78 St & 2 Ave,1,In Service,Falso,25,1
+1,1,,1,38,,16/07/2019 14:13,3372,,16/07/2019 14:11,40.7689738,,-73.95482273,,E 74 St & 1 Ave,,546,E 74 St & 1 Ave,1,In Service,Falso,39,1
+1,1,,27,0,,16/07/2019 14:13,3373,,16/07/2019 14:10,40.6750705,,-73.98775226,,3 St & 3 Ave,,547,3 St & 3 Ave,1,In Service,Falso,27,1
+1,1,,6,30,,16/07/2019 14:13,3374,,16/07/2019 14:11,40.799484,,-73.955613,,Central Park North & Adam Clayton Powell Blvd,,548,Central Park North & Adam Clayton Powell Blvd,1,In Service,Falso,36,1
+1,1,,0,35,,16/07/2019 14:13,3375,,16/07/2019 14:11,40.7699426,,-73.96060712,,3 Ave & E 72 St,,549,3 Ave & E 72 St,1,In Service,Falso,35,1
+1,1,,0,39,,16/07/2019 14:13,3376,,16/07/2019 14:09,40.76471852,,-73.9622207,,E 65 St & 2 Ave,,550,E 65 St & 2 Ave,1,In Service,Falso,39,1
+1,1,,24,1,,16/07/2019 14:13,3377,,16/07/2019 14:09,40.6786115,,-73.99037292,,Carroll St & Bond St,,551,Carroll St & Bond St,1,In Service,Falso,25,1
+1,1,,2,25,,16/07/2019 14:13,3378,,16/07/2019 14:13,40.773763,,-73.96222088,,E 76 St & Park Ave,,552,E 76 St & Park Ave,1,In Service,Falso,28,1
+1,1,,33,0,,16/07/2019 14:13,3379,,16/07/2019 14:10,40.7903051,,-73.94755757,,E 103 St & Lexington Ave,,553,E 103 St & Lexington Ave,1,In Service,Falso,35,1
+1,1,,20,0,,16/07/2019 14:13,3381,,16/07/2019 14:09,40.6777287,,-73.99364123,,3 St & Hoyt St,,554,3 St & Hoyt St,1,In Service,Falso,21,1
+1,1,,26,4,,16/07/2019 14:13,3382,,16/07/2019 14:09,40.680611,,-73.99475825,,Carroll St & Smith St,,555,Carroll St & Smith St,1,In Service,Falso,31,1
+1,1,,0,23,,16/07/2019 14:13,3383,,16/07/2019 14:09,40.804213,,-73.96699104,,Cathedral Pkwy & Broadway,,556,Cathedral Pkwy & Broadway,1,In Service,Falso,25,1
+1,1,,21,4,,16/07/2019 14:13,3384,,16/07/2019 14:12,40.6787242,,-73.99599099,,Smith St & 3 St,,557,Smith St & 3 St,1,In Service,Falso,25,1
+1,1,,4,22,,16/07/2019 14:13,3386,,16/07/2019 14:12,40.6809591,,-73.99905709,,1 Pl & Clinton St,,558,1 Pl & Clinton St,1,In Service,Falso,27,1
+1,1,,7,18,,16/07/2019 14:13,3387,,16/07/2019 14:10,40.7934337,,-73.94945003,,E 106 St & Madison Ave,,559,E 106 St & Madison Ave,1,In Service,Falso,25,1
+1,1,,8,14,,16/07/2019 14:13,3388,,16/07/2019 14:12,40.6828003,,-73.99990419,,President St & Henry St,,560,President St & Henry St,1,In Service,Falso,25,1
+1,1,,15,13,,16/07/2019 14:13,3389,,16/07/2019 14:11,40.6830456,,-74.00348559,,Carroll St & Columbia St,,561,Carroll St & Columbia St,1,In Service,Falso,28,1
+1,1,,24,0,,16/07/2019 14:13,3390,,16/07/2019 14:11,40.79329668,,-73.9432083,,E 109 St & 3 Ave,,562,E 109 St & 3 Ave,1,In Service,Falso,24,1
+1,1,,24,1,,16/07/2019 14:13,3391,,16/07/2019 14:12,40.7892529,,-73.93956237,,E 106 St & 1 Ave,,563,E 106 St & 1 Ave,1,In Service,Falso,25,1
+1,1,,11,8,,16/07/2019 14:13,3392,,16/07/2019 14:10,40.6812117,,-74.00860912,,Commerce St & Van Brunt St,,564,Commerce St & Van Brunt St,1,In Service,Falso,19,1
+1,1,,4,15,,16/07/2019 14:13,3393,,16/07/2019 14:09,40.6794327,,-74.00785041,,Richards St & Delavan St,,565,Richards St & Delavan St,1,In Service,Falso,19,1
+1,1,,15,5,,16/07/2019 14:13,3394,,16/07/2019 14:09,40.6769993,,-74.00647134,,Columbia St & W 9 St,,566,Columbia St & W 9 St,1,In Service,Falso,21,1
+1,1,,15,4,,16/07/2019 14:13,3395,,16/07/2019 14:11,40.6763744,,-74.00324957,,Henry St & W 9 St,,567,Henry St & W 9 St,1,In Service,Falso,19,1
+1,1,,9,16,,16/07/2019 14:13,3396,,16/07/2019 14:12,40.6783563,,-74.00014502,,Clinton St & 4 Place,,568,Clinton St & 4 Place,1,In Service,Falso,25,1
+1,1,,21,4,,16/07/2019 14:13,3397,,16/07/2019 14:09,40.6763947,,-73.99869893,,Court St & Nelson St,,569,Court St & Nelson St,1,In Service,Falso,25,1
+1,1,,13,8,,16/07/2019 14:13,3398,,16/07/2019 14:11,40.6746957,,-73.99785768,,Smith St & 9 St,,570,Smith St & 9 St,1,In Service,Falso,23,1
+1,1,,22,2,,16/07/2019 14:13,3399,,16/07/2019 14:10,40.67260298,,-73.98983002,,7 St & 3 Ave,,571,7 St & 3 Ave,1,In Service,Falso,24,1
+1,1,,5,18,,16/07/2019 14:13,3400,,16/07/2019 14:10,40.7961535,,-73.94782145,,E 110 St & Madison Ave,,572,E 110 St & Madison Ave,1,In Service,Falso,24,1
+1,1,,21,0,,16/07/2019 14:13,3402,,16/07/2019 14:12,40.6902375,,-73.99203074,,Court St & State St,,573,Court St & State St,1,In Service,Falso,23,1
+1,1,,31,0,,16/07/2019 14:13,3403,,16/07/2019 14:09,40.6705135,,-73.98876585,,4 Ave & 9 St,,574,4 Ave & 9 St,1,In Service,Falso,31,1
+1,1,,15,10,,16/07/2019 14:13,3404,,16/07/2019 14:09,40.6704922,,-73.98541675,,7 St & 5 Ave,,575,7 St & 5 Ave,1,In Service,Falso,27,1
+1,1,,0,23,,16/07/2019 14:13,3405,,16/07/2019 14:11,40.6704836,,-73.98208968,,5 St & 6 Ave,,576,5 St & 6 Ave,1,In Service,Falso,23,1
+1,1,,21,2,,16/07/2019 14:13,3407,,16/07/2019 14:09,40.679098,,-73.98765475,,Union St & Nevins St,,577,Union St & Nevins St,1,In Service,Falso,23,1
+1,1,,9,17,,16/07/2019 14:13,3408,,16/07/2019 14:11,40.6881529,,-73.99520919,,Congress St & Clinton St,,578,Congress St & Clinton St,1,In Service,Falso,27,1
+1,1,,31,3,,16/07/2019 14:13,3409,,16/07/2019 14:11,40.6867443,,-73.99063168,,Bergen St & Smith St,,579,Bergen St & Smith St,1,In Service,Falso,35,1
+1,1,,26,4,,16/07/2019 14:13,3410,,16/07/2019 14:09,40.6864442,,-73.98759104,,Dean St & Hoyt St,,580,Dean St & Hoyt St,1,In Service,Falso,31,1
+1,1,,23,2,,16/07/2019 14:13,3411,,16/07/2019 14:11,40.6849668,,-73.98620772,,Bond St & Bergen St,,581,Bond St & Bergen St,1,In Service,Falso,27,1
+1,1,,4,13,,16/07/2019 14:13,3412,,16/07/2019 14:12,40.6853761,,-73.98302136,,Pacific St & Nevins St,,582,Pacific St & Nevins St,1,In Service,Falso,18,1
+1,1,,14,6,,16/07/2019 14:13,3413,,16/07/2019 14:09,40.6827549,,-73.98258555,,Wyckoff St & 3 Ave,,583,Wyckoff St & 3 Ave,1,In Service,Falso,22,1
+1,1,,8,25,,16/07/2019 14:13,3414,,16/07/2019 14:09,40.68094472,,-73.97567332,,Bergen St & Flatbush Ave,,584,Bergen St & Flatbush Ave,1,In Service,Falso,33,1
+1,1,,20,5,,16/07/2019 14:13,3415,,16/07/2019 14:11,40.6793307,,-73.97519523,,Prospect Pl & 6 Ave,,585,Prospect Pl & 6 Ave,1,In Service,Falso,25,1
+1,1,,10,15,,16/07/2019 14:13,3416,,16/07/2019 14:11,40.6776147,,-73.97324283,,7 Ave & Park Pl,,586,7 Ave & Park Pl,1,In Service,Falso,25,1
+1,1,,18,9,,16/07/2019 14:13,3417,,16/07/2019 14:12,40.6795766,,-73.97854971,,Baltic St & 5 Ave,,587,Baltic St & 5 Ave,1,In Service,Falso,27,1
+1,1,,1,32,,16/07/2019 14:13,3418,,16/07/2019 14:09,40.6750207,,-73.97111473,,Plaza St West & Flatbush Ave,,588,Plaza St West & Flatbush Ave,1,In Service,Falso,33,1
+1,1,,24,3,,16/07/2019 14:13,3419,,16/07/2019 14:12,40.6792788,,-73.98154004,,Douglass St & 4 Ave,,589,Douglass St & 4 Ave,1,In Service,Falso,27,1
+1,1,,12,7,,16/07/2019 14:13,3420,,16/07/2019 14:12,40.6802133,,-73.98432695,,Douglass St & 3 Ave,,590,Douglass St & 3 Ave,1,In Service,Falso,21,1
+1,1,,13,8,,16/07/2019 14:13,3422,,16/07/2019 14:12,40.6859296,,-74.00242364,,Columbia St & Degraw St,,591,Columbia St & Degraw St,1,In Service,Falso,21,1
+1,1,,2,25,,16/07/2019 14:13,3423,,16/07/2019 14:11,40.66106337,,-73.97945255,,West Drive & Prospect Park West,,592,West Drive & Prospect Park West,1,In Service,Falso,29,1
+1,1,,23,4,,16/07/2019 14:13,3424,,16/07/2019 14:12,40.791976,,-73.945993,,E 106 St & Lexington Ave,,593,E 106 St & Lexington Ave,1,In Service,Falso,27,1
+1,1,,13,20,,16/07/2019 14:13,3425,,16/07/2019 14:12,40.7892105,,-73.94370784,,2 Ave & E 104 St,,594,2 Ave & E 104 St,1,In Service,Falso,33,1
+1,1,,29,8,,16/07/2019 14:13,3427,,16/07/2019 14:12,40.72430527,,-73.99600983,,Lafayette St & Jersey St,,595,Lafayette St & Jersey St,1,In Service,Falso,40,1
+1,1,,37,1,,16/07/2019 14:13,3429,,16/07/2019 14:11,40.68506807,,-73.9779076,,Hanson Pl & Ashland Pl,,596,Hanson Pl & Ashland Pl,1,In Service,Falso,39,1
+1,1,,2,22,,16/07/2019 14:13,3430,,16/07/2019 14:12,40.71907891,,-73.9422369,,Richardson St & N Henry St,,597,Richardson St & N Henry St,1,In Service,Falso,25,1
+1,1,,2,33,,16/07/2019 14:13,3434,,16/07/2019 14:09,40.79025417,,-73.9771834,,W 88 St & West End Ave,,598,W 88 St & West End Ave,1,In Service,Falso,35,1
+1,1,,40,4,,16/07/2019 14:13,3435,,16/07/2019 14:10,40.718822,,-73.99596,,Grand St & Elizabeth St,,599,Grand St & Elizabeth St,1,In Service,Falso,45,1
+1,1,,1,38,,16/07/2019 14:13,3437,,16/07/2019 14:12,40.79313481,,-73.97700369,,Riverside Dr & W 91 St,,600,Riverside Dr & W 91 St,1,In Service,Falso,39,1
+1,1,,39,4,,16/07/2019 14:13,3440,,16/07/2019 14:12,40.69241829,,-73.98949474,,Fulton St & Adams St,,601,Fulton St & Adams St,1,In Service,Falso,43,1
+1,1,,4,14,,16/07/2019 14:13,3449,,16/07/2019 14:10,40.72146256,,-73.94800901,,Eckford St & Engert Ave,,602,Eckford St & Engert Ave,1,In Service,Falso,18,1
+1,1,,14,28,,16/07/2019 14:13,3452,,16/07/2019 14:10,40.71915572,,-73.94885391,,Bayard St & Leonard St,,603,Bayard St & Leonard St,1,In Service,Falso,43,1
+1,1,,8,11,,16/07/2019 14:13,3453,,16/07/2019 14:12,40.71335226,,-73.94910336,,Devoe St & Lorimer St,,604,Devoe St & Lorimer St,1,In Service,Falso,19,1
+1,1,,1,23,,16/07/2019 14:13,3454,,16/07/2019 14:11,40.71036854,,-73.94705951,,Leonard St & Maujer St,,605,Leonard St & Maujer St,1,In Service,Falso,24,1
+1,1,,0,21,,16/07/2019 14:13,3456,,16/07/2019 14:10,40.71638032,,-73.94821286,,Jackson St & Leonard St,,606,Jackson St & Leonard St,1,In Service,Falso,22,1
+1,1,,0,0,,16/07/2019 14:13,3457,,07/05/2019 11:28,40.76302594,,-73.97209525,,E 58 St & Madison Ave,,607,E 58 St & Madison Ave,3,Not In Service,Falso,0,1
+1,1,,0,0,,16/07/2019 14:13,3458,,07/05/2019 09:15,40.76309387,,-73.97835016,,W 55 St & 6 Ave,,608,W 55 St & 6 Ave,3,Not In Service,Falso,0,1
+1,1,,6,30,,16/07/2019 14:13,3463,,16/07/2019 14:09,40.73536706,,-73.98797393,,E 16 St & Irving Pl,,609,E 16 St & Irving Pl,1,In Service,Falso,37,1
+1,1,,10,13,,16/07/2019 14:13,3469,,16/07/2019 14:12,40.73181402,,-73.95995021,,India St & West St,,610,India St & West St,1,In Service,Falso,23,1
+1,1,,34,4,,16/07/2019 14:13,3472,,16/07/2019 14:09,40.74275383,,-74.00747359,,W 15 St & 10 Ave,,611,W 15 St & 10 Ave,1,In Service,Falso,38,1
+1,1,,32,0,,16/07/2019 14:13,3477,,16/07/2019 14:11,40.65539977,,-74.01062787,,39 St & 2 Ave - Citi Bike HQ at Industry City,,612,39 St & 2 Ave - Citi Bike HQ at Industry City,1,In Service,Falso,33,1
+1,1,,41,1,,16/07/2019 14:13,3478,,16/07/2019 14:11,40.65708867,,-74.00870204,,2 Ave & 36 St - Citi Bike HQ at Industry City,,613,2 Ave & 36 St - Citi Bike HQ at Industry City,1,In Service,Falso,43,1
+1,1,,6,39,,16/07/2019 14:13,3479,,16/07/2019 14:12,40.6851256,,-74.02535319,,Picnic Point,,614,Picnic Point,1,In Service,Falso,45,1
+1,1,,3,19,,16/07/2019 14:13,3481,,16/07/2019 14:11,40.71649,,-74.04105,,York St,,615,York St,1,In Service,Falso,22,1
+1,1,,2,12,,16/07/2019 14:13,3483,,16/07/2019 14:12,40.71942,,-74.05099,,Montgomery St,,616,Montgomery St,1,In Service,Falso,14,1
+1,1,,28,2,,16/07/2019 14:13,3486,,16/07/2019 14:12,40.68841743,,-73.98451656,,Schermerhorn St & Bond St,,617,Schermerhorn St & Bond St,1,In Service,Falso,30,1
+1,1,,31,0,,16/07/2019 14:13,3490,,16/07/2019 14:09,40.796879,,-73.937261,,E 116 St & 2 Ave,,618,E 116 St & 2 Ave,1,In Service,Falso,31,1
+1,1,,6,18,,16/07/2019 14:13,3491,,16/07/2019 14:11,40.79747,,-73.93504,,E 118 St & 1 Ave,,619,E 118 St & 1 Ave,1,In Service,Falso,24,1
+1,1,,19,8,,16/07/2019 14:13,3492,,16/07/2019 14:12,40.8005385,,-73.9419949,,E 118 St & Park Ave,,620,E 118 St & Park Ave,1,In Service,Falso,27,1
+1,1,,23,8,,16/07/2019 14:13,3493,,16/07/2019 14:11,40.799139,,-73.9389152,,E 118 St & 3 Ave,,621,E 118 St & 3 Ave,1,In Service,Falso,31,1
+1,1,,21,0,,16/07/2019 14:13,3494,,16/07/2019 14:11,40.797911,,-73.9423,,E 115 St & Lexington Ave,,622,E 115 St & Lexington Ave,1,In Service,Falso,25,1
+1,1,,17,7,,16/07/2019 14:13,3495,,16/07/2019 14:12,40.7945663,,-73.9362541,,E 114 St & 1 Ave,,623,E 114 St & 1 Ave,1,In Service,Falso,26,1
+1,1,,12,13,,16/07/2019 14:13,3496,,16/07/2019 14:10,40.7923272,,-73.9383,,1 Ave & E 110 St,,624,1 Ave & E 110 St,1,In Service,Falso,25,1
+1,1,,12,10,,16/07/2019 14:13,3497,,16/07/2019 14:10,40.7949879,,-73.9333349,,Pleasant Ave & E 116 St,,625,Pleasant Ave & E 116 St,1,In Service,Falso,23,1
+1,1,,11,10,,16/07/2019 14:13,3498,,16/07/2019 14:12,40.7974772,,-73.9311847,,Pleasant Ave & E 120 St,,626,Pleasant Ave & E 120 St,1,In Service,Falso,21,1
+1,1,,18,6,,16/07/2019 14:13,3499,,16/07/2019 14:11,40.8006721,,-73.9349,,2 Ave & E 122 St,,627,2 Ave & E 122 St,1,In Service,Falso,25,1
+1,1,,26,1,,16/07/2019 14:13,3500,,16/07/2019 14:10,40.7989445,,-73.944846,,E 115 St & Madison Ave,,628,E 115 St & Madison Ave,1,In Service,Falso,31,1
+1,1,,10,19,,16/07/2019 14:13,3501,,16/07/2019 14:10,40.8014866,,-73.9442507,,E 118 St & Madison Ave,,629,E 118 St & Madison Ave,1,In Service,Falso,29,1
+1,1,,23,6,,16/07/2019 14:13,3502,,16/07/2019 14:10,40.7954121,,-73.9441232,,Lexington Ave & E 111 St,,630,Lexington Ave & E 111 St,1,In Service,Falso,29,1
+1,1,,1,29,,16/07/2019 14:13,3503,,16/07/2019 14:09,40.80295,,-73.942954,,Madison Ave & E 120 St,,631,Madison Ave & E 120 St,1,In Service,Falso,30,1
+1,1,,13,14,,16/07/2019 14:13,3504,,16/07/2019 14:09,40.8029263,,-73.9379,,E 123 St & Lexington Ave,,632,E 123 St & Lexington Ave,1,In Service,Falso,27,1
+1,1,,24,9,,16/07/2019 14:13,3505,,16/07/2019 14:10,40.805726,,-73.936322,,Lexington Ave & E 127 St,,633,Lexington Ave & E 127 St,1,In Service,Falso,33,1
+1,1,,11,18,,16/07/2019 14:13,3506,,16/07/2019 14:12,40.8013066,,-73.9398167,,Lexington Ave & E 120 St,,634,Lexington Ave & E 120 St,1,In Service,Falso,29,1
+1,1,,7,29,,16/07/2019 14:13,3507,,16/07/2019 14:09,40.8045555,,-73.9396861,,Park Ave & E 124 St,,635,Park Ave & E 124 St,1,In Service,Falso,36,1
+1,1,,29,2,,16/07/2019 14:13,3508,,16/07/2019 14:12,40.809725,,-73.953149,,St Nicholas Ave & Manhattan Ave,,636,St Nicholas Ave & Manhattan Ave,1,In Service,Falso,31,1
+1,1,,2,28,,16/07/2019 14:13,3509,,16/07/2019 14:12,40.8011939,,-73.9500739,,Lenox Ave & W 115 St,,637,Lenox Ave & W 115 St,1,In Service,Falso,31,1
+1,1,,27,4,,16/07/2019 14:13,3510,,16/07/2019 14:11,40.8078316,,-73.949373,,Adam Clayton Powell Blvd & W 123 St,,638,Adam Clayton Powell Blvd & W 123 St,1,In Service,Falso,31,1
+1,1,,14,6,,16/07/2019 14:13,3511,,16/07/2019 14:09,40.802535,,-73.9532423,,Adam Clayton Powell Blvd & W 115 St,,639,Adam Clayton Powell Blvd & W 115 St,1,In Service,Falso,22,1
+1,1,,17,2,,16/07/2019 14:13,3512,,16/07/2019 14:09,40.7747175,,-73.9337894,,27 Ave & 4 St,,640,27 Ave & 4 St,1,In Service,Falso,19,1
+1,1,,13,8,,16/07/2019 14:13,3513,,16/07/2019 14:12,40.774645,,-73.923706,,21 St & Hoyt Ave S,,641,21 St & Hoyt Ave S,1,In Service,Falso,21,1
+1,1,,18,5,,16/07/2019 14:13,3514,,16/07/2019 14:11,40.7767,,-73.927631,,Astoria Park S & Shore Blvd,,642,Astoria Park S & Shore Blvd,1,In Service,Falso,23,1
+1,1,,6,11,,16/07/2019 14:13,3515,,16/07/2019 14:12,40.774591,,-73.918544,,24 Ave & 26 St,,643,24 Ave & 26 St,1,In Service,Falso,19,1
+1,1,,15,15,,16/07/2019 14:13,3516,,16/07/2019 14:11,40.7699176,,-73.9184057,,31 St & Astoria Blvd,,644,31 St & Astoria Blvd,1,In Service,Falso,31,1
+1,1,,25,8,,16/07/2019 14:13,3517,,16/07/2019 14:12,40.7711528,,-73.9170074,,31 St & Hoyt Ave N,,645,31 St & Hoyt Ave N,1,In Service,Falso,35,1
+1,1,,27,7,,16/07/2019 14:13,3518,,16/07/2019 14:12,40.808442,,-73.9452087,,Lenox Ave & W 126 St,,646,Lenox Ave & W 126 St,1,In Service,Falso,34,1
+1,1,,16,7,,16/07/2019 14:13,3520,,16/07/2019 14:11,40.804372,,-73.951475,,Adam Clayton Powell Blvd & W 118 St,,647,Adam Clayton Powell Blvd & W 118 St,1,In Service,Falso,27,1
+1,1,,5,30,,16/07/2019 14:13,3521,,16/07/2019 14:10,40.7987859,,-73.9523,,Lenox Ave & W 111 St,,648,Lenox Ave & W 111 St,1,In Service,Falso,36,1
+1,1,,0,19,,16/07/2019 14:13,3522,,16/07/2019 14:10,40.7701477,,-73.9120938,,37 St & 24 Ave,,649,37 St & 24 Ave,1,In Service,Falso,19,1
+1,1,,17,7,,16/07/2019 14:13,3523,,16/07/2019 14:12,40.7729,,-73.916142,,24 Ave & 29 St,,650,24 Ave & 29 St,1,In Service,Falso,25,1
+1,1,,17,5,,16/07/2019 14:13,3524,,16/07/2019 14:11,40.7774552,,-73.9225403,,19 St & 24 Ave,,651,19 St & 24 Ave,1,In Service,Falso,23,1
+1,1,,17,4,,16/07/2019 14:13,3525,,16/07/2019 14:10,40.776165,,-73.9153175,,23 Ave & 27 St,,652,23 Ave & 27 St,1,In Service,Falso,21,1
+1,1,,17,10,,16/07/2019 14:13,3526,,16/07/2019 14:11,40.7747878,,-73.9125551,,31 St & 23 Ave,,653,31 St & 23 Ave,1,In Service,Falso,27,1
+1,1,,9,18,,16/07/2019 14:13,3527,,16/07/2019 14:11,40.80698,,-73.941747,,5 Ave & E 126 St,,654,5 Ave & E 126 St,1,In Service,Falso,27,1
+1,1,,5,16,,16/07/2019 14:13,3528,,16/07/2019 14:10,40.7713937,,-73.9077436,,Steinway St & 23 Ave,,655,Steinway St & 23 Ave,1,In Service,Falso,21,1
+1,1,,0,25,,16/07/2019 14:13,3529,,16/07/2019 14:11,40.8107922,,-73.9430681,,Lenox Ave & W 130 St,,656,Lenox Ave & W 130 St,1,In Service,Falso,25,1
+1,1,,10,9,,16/07/2019 14:13,3530,,16/07/2019 14:11,40.7787185,,-73.9145645,,Crescent St & Ditmars Blvd,,657,Crescent St & Ditmars Blvd,1,In Service,Falso,19,1
+1,1,,22,5,,16/07/2019 14:13,3531,,16/07/2019 14:12,40.8125511,,-73.9492286,,Frederick Douglass Blvd & W 129 St,,658,Frederick Douglass Blvd & W 129 St,1,In Service,Falso,27,1
+1,1,,14,12,,16/07/2019 14:13,3532,,16/07/2019 14:12,40.78145,,-73.9183302,,Ditmars Blvd & 19 St,,659,Ditmars Blvd & 19 St,1,In Service,Falso,27,1
+1,1,,21,11,,16/07/2019 14:13,3533,,16/07/2019 14:11,40.8114323,,-73.9518776,,St. Nicholas Ave & W 126 St,,660,St. Nicholas Ave & W 126 St,1,In Service,Falso,34,1
+1,1,,7,30,,16/07/2019 14:13,3534,,16/07/2019 14:11,40.805159,,-73.954692,,Frederick Douglass Blvd & W 117 St,,661,Frederick Douglass Blvd & W 117 St,1,In Service,Falso,39,1
+1,1,,3,23,,16/07/2019 14:13,3535,,16/07/2019 14:12,40.804038,,-73.945925,,Mt Morris Park W & W 120 St,,662,Mt Morris Park W & W 120 St,1,In Service,Falso,27,1
+1,1,,5,38,,16/07/2019 14:13,3536,,16/07/2019 14:11,40.8082,,-73.9641,,W 116 St & Broadway,,663,W 116 St & Broadway,1,In Service,Falso,43,1
+1,1,,4,24,,16/07/2019 14:13,3537,,16/07/2019 14:11,40.6809741,,-73.9710097,,Carlton Ave & Dean St,,664,Carlton Ave & Dean St,1,In Service,Falso,29,1
+1,1,,0,45,,16/07/2019 14:13,3538,,16/07/2019 14:11,40.802692,,-73.96295,,W 110 St & Amsterdam Ave,,665,W 110 St & Amsterdam Ave,1,In Service,Falso,45,1
+1,1,,5,38,,16/07/2019 14:13,3539,,16/07/2019 14:12,40.8067581,,-73.9607082,,W 116 St & Amsterdam Ave,,666,W 116 St & Amsterdam Ave,1,In Service,Falso,43,1
+1,1,,27,7,,16/07/2019 14:13,3540,,16/07/2019 14:09,40.81,,-73.9551508,,Morningside Ave & W 123 St,,667,Morningside Ave & W 123 St,1,In Service,Falso,35,1
+1,1,,29,10,,16/07/2019 14:13,3541,,16/07/2019 14:11,40.813358,,-73.956461,,Amsterdam Ave & W 125 St,,668,Amsterdam Ave & W 125 St,1,In Service,Falso,39,1
+1,1,,3,26,,16/07/2019 14:13,3542,,16/07/2019 14:12,40.8086249,,-73.9596214,,Amsterdam Ave & W 119 St,,669,Amsterdam Ave & W 119 St,1,In Service,Falso,29,1
+1,1,,0,35,,16/07/2019 14:13,3543,,16/07/2019 14:10,40.81028506,,-73.95736456,,Morningside Dr & Amsterdam Ave,,670,Morningside Dr & Amsterdam Ave,1,In Service,Falso,35,1
+1,1,,0,26,,16/07/2019 14:13,3544,,16/07/2019 14:11,40.6804836,,-73.9646795,,Underhill Ave & Pacific St,,671,Underhill Ave & Pacific St,1,In Service,Falso,27,1
+1,1,,15,18,,16/07/2019 14:13,3545,,16/07/2019 14:12,40.8120562,,-73.9612547,,Broadway & W 122 St,,672,Broadway & W 122 St,1,In Service,Falso,33,1
+1,1,,0,21,,16/07/2019 14:13,3546,,16/07/2019 14:09,40.6791944,,-73.9587903,,Pacific St & Classon Ave,,673,Pacific St & Classon Ave,1,In Service,Falso,21,1
+1,1,,13,27,,16/07/2019 14:13,3547,,16/07/2019 14:09,40.8143256,,-73.9590255,,Broadway & Moylan Pl,,674,Broadway & Moylan Pl,1,In Service,Falso,41,1
+1,1,,1,24,,16/07/2019 14:13,3549,,16/07/2019 14:12,40.678045,,-73.962408,,Grand Ave & Bergen St,,675,Grand Ave & Bergen St,1,In Service,Falso,25,1
+1,1,,19,3,,16/07/2019 14:13,3551,,16/07/2019 14:12,40.795508,,-73.941606,,3 Ave & E 112 St,,676,3 Ave & E 112 St,1,In Service,Falso,23,1
+1,1,,1,38,,16/07/2019 14:13,3552,,16/07/2019 14:12,40.805973,,-73.964928,,W 113 St & Broadway,,677,W 113 St & Broadway,1,In Service,Falso,39,1
+1,1,,4,31,,16/07/2019 14:13,3553,,16/07/2019 14:10,40.801694,,-73.957145,,Frederick Douglass Blvd & W 112 St,,678,Frederick Douglass Blvd & W 112 St,1,In Service,Falso,37,1
+1,1,,10,16,,16/07/2019 14:13,3554,,16/07/2019 14:09,40.7552433,,-73.9485678,,Vernon Blvd & 41 Rd,,679,Vernon Blvd & 41 Rd,1,In Service,Falso,27,1
+1,1,,25,1,,16/07/2019 14:13,3555,,16/07/2019 14:12,40.751047,,-73.93797,,28 St & 41 Ave,,680,28 St & 41 Ave,1,In Service,Falso,27,1
+1,1,,17,2,,16/07/2019 14:13,3556,,16/07/2019 14:11,40.7527085,,-73.9397405,,24 St & 41 Ave,,681,24 St & 41 Ave,1,In Service,Falso,19,1
+1,1,,11,6,,16/07/2019 14:13,3557,,16/07/2019 14:10,40.75742,,-73.945133,,40 Ave & 9 St,,682,40 Ave & 9 St,1,In Service,Falso,19,1
+1,1,,1,25,,16/07/2019 14:13,3558,,16/07/2019 14:12,40.6794388,,-73.9680438,,Bergen St & Vanderbilt Ave,,683,Bergen St & Vanderbilt Ave,1,In Service,Falso,27,1
+1,1,,5,14,,16/07/2019 14:13,3559,,16/07/2019 14:12,40.7576314,,-73.9391224,,21 St & 38 Ave,,684,21 St & 38 Ave,1,In Service,Falso,19,1
+1,1,,2,17,,16/07/2019 14:13,3560,,16/07/2019 14:12,40.754876,,-73.934326,,28 St & 38 Ave,,685,28 St & 38 Ave,1,In Service,Falso,19,1
+1,1,,26,0,,16/07/2019 14:13,3561,,16/07/2019 14:12,40.7531106,,-73.9279917,,37 Ave & 35 St,,686,37 Ave & 35 St,1,In Service,Falso,26,1
+1,1,,1,25,,16/07/2019 14:13,3562,,16/07/2019 14:12,40.6765198,,-73.9596082,,Classon Ave & St Marks Ave,,687,Classon Ave & St Marks Ave,1,In Service,Falso,27,1
+1,1,,6,21,,16/07/2019 14:13,3563,,16/07/2019 14:12,40.757186,,-73.932719,,28 St & 36 Ave,,688,28 St & 36 Ave,1,In Service,Falso,29,1
+1,1,,7,12,,16/07/2019 14:13,3564,,16/07/2019 14:12,40.7601853,,-73.9362726,,21 St & 36 Ave,,689,21 St & 36 Ave,1,In Service,Falso,19,1
+1,1,,14,3,,16/07/2019 14:13,3565,,16/07/2019 14:11,40.7614376,,-73.9411265,,36 Ave & 10 St,,690,36 Ave & 10 St,1,In Service,Falso,19,1
+1,1,,3,22,,16/07/2019 14:13,3566,,16/07/2019 14:09,40.7596276,,-73.9321455,,Crescent St & 35 Ave,,691,Crescent St & 35 Ave,1,In Service,Falso,25,1
+1,1,,9,10,,16/07/2019 14:13,3567,,16/07/2019 14:10,40.7627442,,-73.9391141,,11 St & 35 Ave,,692,11 St & 35 Ave,1,In Service,Falso,19,1
+1,1,,1,20,,16/07/2019 14:13,3568,,16/07/2019 14:10,40.7569332,,-73.9262231,,34 St & 35 Ave,,693,34 St & 35 Ave,1,In Service,Falso,21,1
+1,1,,0,29,,16/07/2019 14:13,3569,,16/07/2019 14:11,40.6758324,,-73.9561677,,Franklin Ave & St Marks Ave,,694,Franklin Ave & St Marks Ave,1,In Service,Falso,29,1
+1,1,,29,2,,16/07/2019 14:13,3570,,16/07/2019 14:12,40.7557327,,-73.9236611,,35 Ave & 37 St,,695,35 Ave & 37 St,1,In Service,Falso,31,1
+1,1,,0,23,,16/07/2019 14:13,3571,,16/07/2019 14:09,40.676368,,-73.952918,,Bedford Ave & Bergen St,,696,Bedford Ave & Bergen St,1,In Service,Falso,24,1
+1,1,,16,16,,16/07/2019 14:13,3572,,16/07/2019 14:10,40.756913,,-73.921631,,34 Ave & 38 St,,697,34 Ave & 38 St,1,In Service,Falso,33,1
+1,1,,17,7,,16/07/2019 14:13,3573,,16/07/2019 14:12,40.7580583,,-73.9242751,,35 St & 34 Ave,,698,35 St & 34 Ave,1,In Service,Falso,25,1
+1,1,,0,22,,16/07/2019 14:13,3574,,16/07/2019 14:11,40.6769694,,-73.96579,,Prospect Pl & Underhill Ave,,699,Prospect Pl & Underhill Ave,1,In Service,Falso,23,1
+1,1,,2,17,,16/07/2019 14:13,3575,,16/07/2019 14:09,40.76108,,-73.930562,,Crescent St & 34 Ave,,700,Crescent St & 34 Ave,1,In Service,Falso,19,1
+1,1,,0,26,,16/07/2019 14:13,3576,,16/07/2019 14:12,40.6767,,-73.969024,,Park Pl & Vanderbilt Ave,,701,Park Pl & Vanderbilt Ave,1,In Service,Falso,27,1
+1,1,,2,21,,16/07/2019 14:13,3577,,16/07/2019 14:09,40.7628138,,-73.9342862,,34 Ave & 21 St,,702,34 Ave & 21 St,1,In Service,Falso,23,1
+1,1,,0,21,,16/07/2019 14:13,3578,,16/07/2019 14:10,40.6741806,,-73.9564947,,Park Pl & Franklin Ave,,703,Park Pl & Franklin Ave,1,In Service,Falso,21,1
+1,1,,3,21,,16/07/2019 14:13,3579,,16/07/2019 14:10,40.672695,,-73.954131,,Sterling Pl & Bedford Ave,,704,Sterling Pl & Bedford Ave,1,In Service,Falso,25,1
+1,1,,1,29,,16/07/2019 14:13,3580,,16/07/2019 14:11,40.6737236,,-73.9631611,,St Johns Pl & Washington Ave,,705,St Johns Pl & Washington Ave,1,In Service,Falso,30,1
+1,1,,0,27,,16/07/2019 14:13,3581,,16/07/2019 14:11,40.6740123,,-73.9671457,,Underhill Ave & Lincoln Pl,,706,Underhill Ave & Lincoln Pl,1,In Service,Falso,27,1
+1,1,,1,26,,16/07/2019 14:13,3582,,16/07/2019 14:10,40.6721683,,-73.9609,,Lincoln Pl & Classon Ave,,707,Lincoln Pl & Classon Ave,1,In Service,Falso,28,1
+1,1,,1,30,,16/07/2019 14:13,3583,,16/07/2019 14:10,40.6716493,,-73.9631145,,Eastern Pkwy & Washington Ave,,708,Eastern Pkwy & Washington Ave,1,In Service,Falso,31,1
+1,1,,1,39,,16/07/2019 14:13,3584,,16/07/2019 14:12,40.6707767,,-73.9576801,,Eastern Pkwy & Franklin Ave,,709,Eastern Pkwy & Franklin Ave,1,In Service,Falso,42,1
+1,1,,7,17,,16/07/2019 14:13,3585,,16/07/2019 14:10,40.6691783,,-73.9554162,,Union St & Bedford Ave,,710,Union St & Bedford Ave,1,In Service,Falso,24,1
+1,1,,16,2,,16/07/2019 14:13,3586,,16/07/2019 14:12,40.7638753,,-73.9364848,,34 Ave & 13 St,,711,34 Ave & 13 St,1,In Service,Falso,19,1
+1,1,,0,27,,16/07/2019 14:13,3587,,16/07/2019 14:10,40.6686744,,-73.9618148,,Carroll St & Washington Ave,,712,Carroll St & Washington Ave,1,In Service,Falso,27,1
+1,1,,21,0,,16/07/2019 14:13,3588,,16/07/2019 14:09,40.7671863,,-73.9373554,,Vernon Blvd & 10 St,,713,Vernon Blvd & 10 St,1,In Service,Falso,21,1
+1,1,,15,4,,16/07/2019 14:13,3589,,16/07/2019 14:10,40.7668,,-73.9347774,,Broadway & 12 St,,714,Broadway & 12 St,1,In Service,Falso,19,1
+1,1,,0,19,,16/07/2019 14:13,3590,,16/07/2019 14:10,40.6679411,,-73.9588,,Carroll St & Franklin Ave,,715,Carroll St & Franklin Ave,1,In Service,Falso,19,1
+1,1,,4,17,,16/07/2019 14:13,3591,,16/07/2019 14:11,40.7659,,-73.930819,,21 St & 31 Dr,,716,21 St & 31 Dr,1,In Service,Falso,21,1
+1,1,,7,11,,16/07/2019 14:13,3592,,16/07/2019 14:10,40.7633589,,-73.9286471,,Crescent St & Broadway,,717,Crescent St & Broadway,1,In Service,Falso,19,1
+1,1,,13,22,,16/07/2019 14:13,3593,,16/07/2019 14:11,40.761584,,-73.925921,,31 St & Broadway,,718,31 St & Broadway,1,In Service,Falso,35,1
+1,1,,0,18,,16/07/2019 14:13,3595,,16/07/2019 14:12,40.760339,,-73.9222427,,35 St & Broadway,,719,35 St & Broadway,1,In Service,Falso,18,1
+1,1,,17,2,,16/07/2019 14:13,3596,,16/07/2019 14:09,40.6642406,,-73.9574686,,Sullivan Pl & Bedford Ave,,720,Sullivan Pl & Bedford Ave,1,In Service,Falso,19,1
+1,1,,18,7,,16/07/2019 14:13,3597,,16/07/2019 14:10,40.7577284,,-73.9166368,,43 St & Broadway,,721,43 St & Broadway,1,In Service,Falso,25,1
+1,1,,3,15,,16/07/2019 14:13,3598,,16/07/2019 14:12,40.7595701,,-73.9142678,,Newton Rd & 44 St,,722,Newton Rd & 44 St,1,In Service,Falso,19,1
+1,1,,18,8,,16/07/2019 14:13,3599,,16/07/2019 14:11,40.66314,,-73.9605695,,Franklin Ave & Empire Blvd,,723,Franklin Ave & Empire Blvd,1,In Service,Falso,27,1
+1,1,,18,1,,16/07/2019 14:13,3601,,16/07/2019 14:12,40.6627059,,-73.9569115,,Sterling St & Bedford Ave,,724,Sterling St & Bedford Ave,1,In Service,Falso,19,1
+1,1,,4,19,,16/07/2019 14:13,3602,,16/07/2019 14:10,40.763154,,-73.920827,,31 Ave & 34 St,,725,31 Ave & 34 St,1,In Service,Falso,23,1
+1,1,,4,26,,16/07/2019 14:13,3664,,16/07/2019 14:12,40.72019521,,-74.01030064,,North Moore St & Greenwich St,,726,North Moore St & Greenwich St,1,In Service,Falso,30,1
+1,1,,6,21,,16/07/2019 14:13,3674,,16/07/2019 14:10,40.70140317,,-73.9867267,,Jay St & York St,,727,Jay St & York St,1,In Service,Falso,27,1
+1,1,,14,7,,16/07/2019 14:13,3603,,16/07/2019 14:11,40.7647,,-73.9240312,,31 Ave & 30 St,,728,31 Ave & 30 St,1,In Service,Falso,21,1
+1,1,,7,9,,16/07/2019 14:13,3604,,16/07/2019 14:09,40.6630619,,-73.9538746,,Rogers Ave & Sterling St,,729,Rogers Ave & Sterling St,1,In Service,Falso,17,1
+1,1,,2,15,,16/07/2019 14:13,3605,,16/07/2019 14:11,40.7658346,,-73.9265474,,31 Ave & Crescent St,,730,31 Ave & Crescent St,1,In Service,Falso,21,1
+1,1,,4,17,,16/07/2019 14:13,3606,,16/07/2019 14:09,40.74252,,-73.948852,,49 Ave & 21 St,,731,49 Ave & 21 St,1,In Service,Falso,21,1
+1,1,,15,3,,16/07/2019 14:13,3607,,16/07/2019 14:11,40.7682,,-73.9322662,,31 Ave & 14 St,,732,31 Ave & 14 St,1,In Service,Falso,19,1
+1,1,,8,13,,16/07/2019 14:13,3608,,16/07/2019 14:10,40.7423737,,-73.9566,,5 St & 51 Ave,,733,5 St & 51 Ave,1,In Service,Falso,21,1
+1,1,,22,1,,16/07/2019 14:13,3609,,16/07/2019 14:10,40.7692475,,-73.9354504,,Vernon Blvd & 31 Ave,,734,Vernon Blvd & 31 Ave,1,In Service,Falso,23,1
+1,1,,27,0,,16/07/2019 14:13,3610,,16/07/2019 14:10,40.770845,,-73.934171,,Vernon Blvd & 30 Rd,,735,Vernon Blvd & 30 Rd,1,In Service,Falso,27,1
+1,1,,22,6,,16/07/2019 14:13,3611,,16/07/2019 14:12,40.7449067,,-73.9534573,,Vernon Blvd & 47 Rd,,736,Vernon Blvd & 47 Rd,1,In Service,Falso,31,1
+1,1,,12,3,,16/07/2019 14:13,3612,,16/07/2019 14:09,40.7703743,,-73.9286078,,30 Ave & 21 St,,737,30 Ave & 21 St,1,In Service,Falso,15,1
+1,1,,2,25,,16/07/2019 14:13,3613,,16/07/2019 14:12,40.745038,,-73.957539,,Center Blvd & 48 Ave,,738,Center Blvd & 48 Ave,1,In Service,Falso,27,1
+1,1,,17,6,,16/07/2019 14:13,3614,,16/07/2019 14:12,40.768692,,-73.9249574,,Crescent St & 30 Ave,,739,Crescent St & 30 Ave,1,In Service,Falso,23,1
+1,1,,20,1,,16/07/2019 14:13,3615,,16/07/2019 14:12,40.748,,-73.9460927,,44 Dr & 21 St,,740,44 Dr & 21 St,1,In Service,Falso,21,1
+1,1,,3,20,,16/07/2019 14:13,3616,,16/07/2019 14:11,40.7656251,,-73.9136695,,Steinway St & 28 Ave,,741,Steinway St & 28 Ave,1,In Service,Falso,24,1
+1,1,,5,22,,16/07/2019 14:13,3617,,16/07/2019 14:11,40.7671,,-73.9169858,,28 Ave & 35 St,,742,28 Ave & 35 St,1,In Service,Falso,27,1
+1,1,,24,1,,16/07/2019 14:13,3618,,16/07/2019 14:12,40.7485,,-73.941275,,27 St & Hunter St,,743,27 St & Hunter St,1,In Service,Falso,25,1
+1,1,,2,16,,16/07/2019 14:13,3619,,16/07/2019 14:10,40.7713615,,-73.9246145,,Newtown Ave & 23 St,,744,Newtown Ave & 23 St,1,In Service,Falso,19,1
+1,1,,17,6,,16/07/2019 14:13,3620,,16/07/2019 14:11,40.7519071,,-73.9479119,,11 St & 43 Ave,,745,11 St & 43 Ave,1,In Service,Falso,23,1
+1,1,,13,5,,16/07/2019 14:13,3621,,16/07/2019 14:12,40.7739825,,-73.9309134,,27 Ave & 9 St,,746,27 Ave & 9 St,1,In Service,Falso,19,1
+1,1,,10,5,,16/07/2019 14:13,3622,,16/07/2019 14:12,40.80756,,-73.939182,,E 128 St & Madison Ave,,747,E 128 St & Madison Ave,1,In Service,Falso,15,1
+1,1,,3,36,,16/07/2019 14:13,3623,,16/07/2019 14:10,40.8109494,,-73.9634,,W 120 St & Claremont Ave,,748,W 120 St & Claremont Ave,1,In Service,Falso,39,1
+1,1,,10,18,,16/07/2019 14:13,3628,,16/07/2019 14:11,40.8025566,,-73.9490782,,Lenox Ave & W 117 St,,749,Lenox Ave & W 117 St,1,In Service,Falso,30,1
+1,1,,29,3,,16/07/2019 14:13,3629,,16/07/2019 14:11,40.80949535,,-73.94776493,,Adam Clayton Powell Blvd & W 126 St,,750,Adam Clayton Powell Blvd & W 126 St,1,In Service,Falso,33,1
+1,1,,17,14,,16/07/2019 14:13,3630,,16/07/2019 14:11,40.8038654,,-73.9559308,,Frederick Douglass Blvd & W 115 St,,751,Frederick Douglass Blvd & W 115 St,1,In Service,Falso,33,1
+1,1,,0,0,,16/07/2019 14:13,3631,,03/07/2019 07:50,40.666563,,-73.956741,,Crown St & Bedford Ave,,752,Crown St & Bedford Ave,3,Not In Service,Falso,0,1
+1,1,,7,23,,16/07/2019 14:13,3637,,16/07/2019 14:09,40.68323866,,-73.96599591,,Fulton St & Waverly Ave,,753,Fulton St & Waverly Ave,1,In Service,Falso,31,1
+1,1,,12,6,,16/07/2019 14:13,3638,,16/07/2019 14:11,40.7242941,,-74.0354826,,Washington St,,754,Washington St,1,In Service,Falso,18,1
+1,1,,12,18,,16/07/2019 14:13,3639,,16/07/2019 14:11,40.7192517,,-74.034234,,Harborside,,755,Harborside,1,In Service,Falso,30,1
+1,1,,11,7,,16/07/2019 14:13,3640,,16/07/2019 14:12,40.73367,,-74.0625,,Journal Square,,756,Journal Square,1,In Service,Falso,18,1
+1,1,,48,4,,16/07/2019 14:13,3641,,16/07/2019 14:12,40.74286877,,-73.98918629,,Broadway & W 25 St,,757,Broadway & W 25 St,1,In Service,Falso,54,1
+1,1,,0,20,,16/07/2019 14:13,3646,,16/07/2019 14:12,40.76315482,,-73.9398551,,35 Ave & 10 St,,758,35 Ave & 10 St,1,In Service,Falso,26,1
+1,1,,22,1,,16/07/2019 14:13,3647,,16/07/2019 14:13,40.74128309,,-73.93725872,,48 Ave & 30 Pl,,759,48 Ave & 30 Pl,1,In Service,Falso,23,1
+1,1,,23,1,,16/07/2019 14:13,3648,,16/07/2019 14:11,40.69795032,,-73.9707756,,Flushing Ave & Vanderbilt Ave,,760,Flushing Ave & Vanderbilt Ave,1,In Service,Falso,25,1
+1,1,,27,3,,16/07/2019 14:13,3649,,16/07/2019 14:09,40.81439444,,-73.95324737,,W 129 St & Convent Ave,,761,W 129 St & Convent Ave,1,In Service,Falso,30,1
+1,1,,12,23,,16/07/2019 14:13,3654,,16/07/2019 14:12,40.75186951,,-73.9334929,,31 St & Northern Blvd,,762,31 St & Northern Blvd,1,In Service,Falso,35,1
+1,1,,2,44,,16/07/2019 14:13,3656,,16/07/2019 14:09,40.72307749,,-73.98583621,,E 2 St & Avenue A,,763,E 2 St & Avenue A,1,In Service,Falso,46,1
+1,1,,0,0,,16/07/2019 14:13,3659,,11/03/2019 10:27,40.74294892,,-74.00413692,,W 17 St & 9 Ave,,764,W 17 St & 9 Ave,3,Not In Service,Falso,0,1
+1,1,,12,7,,16/07/2019 14:13,3661,,16/07/2019 14:10,40.66643931,,-73.96055639,,Montgomery St & Franklin Ave,,765,Montgomery St & Franklin Ave,1,In Service,Falso,19,1
+1,1,,2,18,,16/07/2019 14:13,3662,,16/07/2019 14:12,40.7612939,,-73.91691685,,31 Ave & Steinway St,,766,31 Ave & Steinway St,1,In Service,Falso,21,1
+1,1,,23,3,,16/07/2019 14:13,3668,,16/07/2019 14:09,40.72395679,,-73.94984365,,Leonard St & Nassau Ave,,767,Leonard St & Nassau Ave,1,In Service,Falso,26,1
+1,1,,0,37,,16/07/2019 14:13,3671,,16/07/2019 14:09,40.77477945,,-73.95427465,,E 81 St & 2 Ave,,768,E 81 St & 2 Ave,1,In Service,Falso,37,1
+1,1,,1,19,,16/07/2019 14:13,3673,,16/07/2019 14:12,40.67759207,,-73.95563722,,Dean St & Franklin Ave,,769,Dean St & Franklin Ave,1,In Service,Falso,21,1
+1,1,,0,30,,16/07/2019 14:13,3675,,16/07/2019 14:09,40.7845968,,-73.9496854,,3 Ave & E 95 St,,770,3 Ave & E 95 St,1,In Service,Falso,31,1
+1,1,,8,15,,16/07/2019 14:13,3676,,16/07/2019 14:11,40.67583294,,-74.01472628,,Van Brunt St & Van Dyke St,,771,Van Brunt St & Van Dyke St,1,In Service,Falso,24,1
+1,1,,0,18,,16/07/2019 14:13,3677,,16/07/2019 14:11,40.72755147,,-74.07106072,,Glenwood Ave,,772,Glenwood Ave,1,In Service,Falso,18,1
+1,1,,2,16,,16/07/2019 14:13,3678,,16/07/2019 14:09,40.72572614,,-74.07195926,,Fairmount Ave,,773,Fairmount Ave,1,In Service,Falso,18,1
+1,1,,1,13,,16/07/2019 14:13,3679,,16/07/2019 14:10,40.72210379,,-74.071455,,Bergen Ave,,774,Bergen Ave,1,In Service,Falso,14,1
+1,1,,34,18,,16/07/2019 14:13,3680,,16/07/2019 14:12,40.75412081,,-73.98025185,,E 43 St & 5 Ave,,775,E 43 St & 5 Ave,1,In Service,Falso,55,1
+1,1,,6,12,,16/07/2019 14:13,3681,,16/07/2019 14:10,40.71517768,,-74.03768331,,Grand St,,776,Grand St,1,In Service,Falso,18,1
+1,1,,27,7,,16/07/2019 14:13,3686,,16/07/2019 14:09,40.7394482,,-74.00507033,,Gansevoort St & Hudson St,,777,Gansevoort St & Hudson St,1,In Service,Falso,39,1
+1,1,,29,28,,16/07/2019 14:13,3687,,16/07/2019 14:13,40.74322681,,-73.97449784,,E 33 St & 1 Ave,,778,E 33 St & 1 Ave,1,In Service,Falso,59,1
+1,1,,1,46,,16/07/2019 14:13,3689,,16/07/2019 14:12,40.79904139,,-73.9664948,,W 104 St & Amsterdam Ave,,779,W 104 St & Amsterdam Ave,1,In Service,Falso,47,1
+1,1,,13,21,,16/07/2019 14:13,3690,,16/07/2019 14:12,40.71334184,,-74.00935516,,Park Pl & Church St,,780,Park Pl & Church St,1,In Service,Falso,36,1
+1,1,,3,16,,16/07/2019 14:13,3691,,16/07/2019 14:12,40.76408932,,-73.91065121,,28 Ave & 44 St,,781,28 Ave & 44 St,1,In Service,Falso,19,1
+1,1,,14,0,,16/07/2019 14:13,3692,,16/07/2019 14:11,40.69999748,,-73.97440128,,5 St & Market St,,782,5 St & Market St,1,In Service,Falso,15,1
+1,1,,22,4,,16/07/2019 14:13,3693,,16/07/2019 14:12,40.72248189,,-73.95921931,,N 11 St & Kent Ave,,783,N 11 St & Kent Ave,1,In Service,Falso,27,1
+1,1,,7,11,,16/07/2019 14:13,3694,,16/07/2019 14:11,40.71113,,-74.0789,,Jackson Square,,784,Jackson Square,1,In Service,Falso,18,1
+1,1,,5,37,,16/07/2019 14:13,3697,,16/07/2019 14:09,40.77515953,,-73.98918696,,W 64 St & Thelonious Monk Circle,,785,W 64 St & Thelonious Monk Circle,1,In Service,Falso,43,1
+1,1,,1,29,,16/07/2019 14:13,3699,,16/07/2019 14:12,40.76360468,,-73.98917958,,W 50 St & 9 Ave,,786,W 50 St & 9 Ave,1,In Service,Falso,30,1
+1,1,,18,1,,16/07/2019 14:13,3704,,16/07/2019 14:12,40.74375241,,-73.94176483,,47 Ave & Skillman Ave,,787,47 Ave & Skillman Ave,1,In Service,Falso,19,1
+1,1,,8,45,,16/07/2019 14:13,3707,,16/07/2019 14:11,40.741459,,-73.983293,,Lexington Ave & E 26 St,,788,Lexington Ave & E 26 St,1,In Service,Falso,55,1
+1,1,,10,19,,16/07/2019 14:13,3708,,16/07/2019 14:12,40.735445,,-73.99431,,W 13 St & 5 Ave,,789,W 13 St & 5 Ave,1,In Service,Falso,29,1
+1,1,,8,40,,16/07/2019 14:13,3709,,16/07/2019 14:12,40.73804614,,-73.99642959,,W 15 St & 6 Ave,,790,W 15 St & 6 Ave,1,In Service,Falso,51,1
+1,1,,2,44,,16/07/2019 14:13,3711,,16/07/2019 14:12,40.72966729,,-73.98067966,,E 13 St & Avenue A,,791,E 13 St & Avenue A,1,In Service,Falso,47,1
+1,1,,0,41,,16/07/2019 14:13,3712,,16/07/2019 14:10,40.75469175,,-73.99740189,,W 35 St & Dyer Ave,,792,W 35 St & Dyer Ave,1,In Service,Falso,41,1
+1,1,,21,40,,16/07/2019 14:13,3714,,16/07/2019 14:11,40.70684203,,-73.9544354,,Division Av & Hooper St,,793,Division Av & Hooper St,1,In Service,Falso,61,1
+1,1,,29,0,,16/07/2019 14:13,3715,,16/07/2019 14:12,40.7181697,,-73.95520136,,Driggs Ave & N 9 St,,794,Driggs Ave & N 9 St,1,In Service,Falso,31,1
+1,1,,1,20,,16/07/2019 14:13,3716,,16/07/2019 14:11,40.7535992,,-73.9379561,,40 Ave & Crescent St,,795,40 Ave & Crescent St,1,In Service,Falso,23,1
+1,1,,1,45,,16/07/2019 14:13,3718,,16/07/2019 14:09,40.72746421,,-73.97950418,,E 11 St & Avenue B,,796,E 11 St & Avenue B,1,In Service,Falso,46,1
+1,1,,20,3,,16/07/2019 14:13,3720,,16/07/2019 14:12,40.68461654,,-73.98721285,,Wyckoff St & Bond St,,797,Wyckoff St & Bond St,1,In Service,Falso,23,1
+1,1,,27,7,,16/07/2019 14:13,3721,,16/07/2019 14:11,40.76754878,,-73.92093346,,31 St & Newtown Ave,,798,31 St & Newtown Ave,1,In Service,Falso,35,1
+1,1,,16,14,,16/07/2019 14:13,3723,,16/07/2019 14:12,40.69531728,,-73.99015725,,Cadman Plaza E & Johnson St,,799,Cadman Plaza E & Johnson St,1,In Service,Falso,30,1
+1,1,,3,35,,16/07/2019 14:13,3724,,16/07/2019 14:10,40.76674056,,-73.979069,,7 Ave & Central Park South,,800,7 Ave & Central Park South,1,In Service,Falso,39,1
+1,1,,1,37,,16/07/2019 14:13,3725,,16/07/2019 14:11,40.76876203,,-73.95840794,,2 Ave & E 72 St,,801,2 Ave & E 72 St,1,In Service,Falso,40,1
+1,1,,11,9,,16/07/2019 14:13,3726,,16/07/2019 14:10,40.74336608,,-73.95960689,,Center Blvd & 51 Ave,,802,Center Blvd & 51 Ave,1,In Service,Falso,20,1
+1,1,,34,3,,16/07/2019 14:13,3727,,16/07/2019 14:12,40.71766197,,-73.94880027,,Frost St & Meeker Ave,,803,Frost St & Meeker Ave,1,In Service,Falso,38,1
+1,1,,5,19,,16/07/2019 14:13,3728,,16/07/2019 14:12,40.69535693,,-73.99344027,,Pierrepont St & Monroe Pl,,804,Pierrepont St & Monroe Pl,1,In Service,Falso,24,1
+1,1,,1,44,,16/07/2019 14:13,3733,,16/07/2019 14:10,40.730563,,-73.973984,,Avenue C & E 18 St,,805,Avenue C & E 18 St,1,In Service,Falso,46,1
+1,1,,25,23,,16/07/2019 14:13,3734,,16/07/2019 14:09,40.759125,,-73.962658,,E 58 St &  1 Ave (NW Corner),,806,E 58 St &  1 Ave (NW Corner),1,In Service,Falso,50,1
+1,1,,1,33,,16/07/2019 14:13,3737,,16/07/2019 14:10,40.720747,,-73.986274,,Stanton St & Norfolk St,,807,Stanton St & Norfolk St,1,In Service,Falso,35,1
+1,1,,7,20,,16/07/2019 14:13,3745,,16/07/2019 14:11,40.75651273,,-73.92957486,,36 Ave & 31 St,,808,36 Ave & 31 St,1,In Service,Falso,27,1
+1,1,,31,13,,16/07/2019 14:13,3746,,16/07/2019 14:10,40.72430832,,-74.00473036,,6 Ave & Broome St,,809,6 Ave & Broome St,1,In Service,Falso,48,1
+1,1,,0,32,,16/07/2019 14:13,3747,,16/07/2019 14:10,40.77755374,,-73.9551276,,E 84 St & 3 Ave,,810,E 84 St & 3 Ave,1,In Service,Falso,33,1
+1,1,,0,20,,16/07/2019 14:13,3749,,16/07/2019 14:11,40.74757396,,-73.97880077,,Lexington Ave & E 36 St,,811,Lexington Ave & E 36 St,1,In Service,Falso,23,1
+1,1,,2,17,,16/07/2019 14:13,3755,,16/07/2019 14:10,40.69064807,,-73.95746179,,DeKalb Ave & Franklin Ave,,812,DeKalb Ave & Franklin Ave,1,In Service,Falso,19,1
+1,1,,20,0,,16/07/2019 14:13,3756,,16/07/2019 14:11,40.704508,,-73.9351,,White St & Moore St,,813,White St & Moore St,1,In Service,Falso,21,1
+1,1,,16,7,,16/07/2019 14:13,3757,,16/07/2019 14:11,40.710681,,-73.93372,,Stagg St & Morgan Ave,,814,Stagg St & Morgan Ave,1,In Service,Falso,23,1
+1,1,,17,2,,16/07/2019 14:13,3758,,16/07/2019 14:11,40.702997,,-73.92997,,George St & Wilson Ave,,815,George St & Wilson Ave,1,In Service,Falso,19,1
+1,1,,12,7,,16/07/2019 14:13,3759,,16/07/2019 14:12,40.70538,,-73.92535,,Irving Ave & Jefferson St,,816,Irving Ave & Jefferson St,1,In Service,Falso,19,1
+1,1,,22,1,,16/07/2019 14:13,3760,,16/07/2019 14:12,40.705614,,-73.92153,,Willoughby Ave & Wyckoff Ave,,817,Willoughby Ave & Wyckoff Ave,1,In Service,Falso,23,1
+1,1,,15,12,,16/07/2019 14:13,3761,,16/07/2019 14:12,40.697842,,-73.926241,,Cedar St & Myrtle Ave,,818,Cedar St & Myrtle Ave,1,In Service,Falso,27,1
+1,1,,25,1,,16/07/2019 14:13,3762,,16/07/2019 14:12,40.677027,,-73.9865,,3 Ave & Carroll St,,819,3 Ave & Carroll St,1,In Service,Falso,27,1
+1,1,,15,12,,16/07/2019 14:13,3763,,16/07/2019 14:12,40.707165,,-73.923711,,Wyckoff Av & Jefferson St,,820,Wyckoff Av & Jefferson St,1,In Service,Falso,27,1
+1,1,,21,0,,16/07/2019 14:13,3764,,16/07/2019 14:12,40.705517,,-73.93936,,Bushwick Ave & McKibbin St,,821,Bushwick Ave & McKibbin St,1,In Service,Falso,21,1
+1,1,,1,19,,16/07/2019 14:13,3765,,16/07/2019 14:10,40.709897,,-73.94008,,Bushwick Ave & Stagg St,,822,Bushwick Ave & Stagg St,1,In Service,Falso,21,1
+1,1,,1,23,,16/07/2019 14:13,3766,,16/07/2019 14:11,40.715353,,-73.93856,,Sharon St & Olive St,,823,Sharon St & Olive St,1,In Service,Falso,24,1
+1,1,,1,18,,16/07/2019 14:13,3767,,16/07/2019 14:11,40.71323,,-73.93894,,Powers St & Olive St,,824,Powers St & Olive St,1,In Service,Falso,19,1
+1,1,,3,20,,16/07/2019 14:13,3768,,16/07/2019 14:12,40.71019,,-73.93734,,Waterbury St & Stagg St,,825,Waterbury St & Stagg St,1,In Service,Falso,23,1
+1,1,,19,4,,16/07/2019 14:13,3769,,16/07/2019 14:11,40.707174,,-73.93581,,White St & Johnson Ave,,826,White St & Johnson Ave,1,In Service,Falso,23,1
+1,1,,19,2,,16/07/2019 14:13,3770,,16/07/2019 14:09,40.702831,,-73.9333,,Central Ave & Flushing Ave,,827,Central Ave & Flushing Ave,1,In Service,Falso,21,1
+1,1,,29,0,,16/07/2019 14:13,3771,,16/07/2019 14:09,40.706237,,-73.933871,,McKibbin St & Bogart St,,828,McKibbin St & Bogart St,1,In Service,Falso,30,1
+1,1,,1,18,,16/07/2019 14:13,3772,,16/07/2019 14:10,40.713811,,-73.93515,,Devoe St & Morgan Ave,,829,Devoe St & Morgan Ave,1,In Service,Falso,19,1
+1,1,,7,13,,16/07/2019 14:13,3773,,16/07/2019 14:12,40.70539,,-73.92976,,Knickerbocker Ave & Thames St,,830,Knickerbocker Ave & Thames St,1,In Service,Falso,20,1
+1,1,,17,5,,16/07/2019 14:13,3774,,16/07/2019 14:12,40.704425,,-73.92836,,Knickerbocker Ave & George St,,831,Knickerbocker Ave & George St,1,In Service,Falso,23,1
+1,1,,13,14,,16/07/2019 14:13,3775,,16/07/2019 14:09,40.702013,,-73.923769,,Suydam St & Knickerbocker Ave,,832,Suydam St & Knickerbocker Ave,1,In Service,Falso,27,1
+1,1,,13,10,,16/07/2019 14:13,3776,,16/07/2019 14:10,40.700003,,-73.92834,,Central Ave & Starr Street,,833,Central Ave & Starr Street,1,In Service,Falso,23,1
+1,1,,20,3,,16/07/2019 14:13,3777,,16/07/2019 14:10,40.699304,,-73.923044,,Stockholm St & Wilson Ave,,834,Stockholm St & Wilson Ave,1,In Service,Falso,23,1
+1,1,,13,14,,16/07/2019 14:13,3778,,16/07/2019 14:11,40.7027,,-73.92095,,Irving Ave & DeKalb Ave,,835,Irving Ave & DeKalb Ave,1,In Service,Falso,27,1
+1,1,,18,6,,16/07/2019 14:13,3779,,16/07/2019 14:09,40.704876,,-73.919911,,Hart St & Wyckoff Ave,,836,Hart St & Wyckoff Ave,1,In Service,Falso,24,1
+1,1,,25,5,,16/07/2019 14:13,3781,,16/07/2019 14:11,40.698568,,-73.918877,,Greene Av & Myrtle Av,,837,Greene Av & Myrtle Av,1,In Service,Falso,30,1
+1,1,,23,8,,16/07/2019 14:13,3782,,16/07/2019 14:11,40.698458,,-73.997178,,Brooklyn Bridge Park - Pier 2,,838,Brooklyn Bridge Park - Pier 2,1,In Service,Falso,31,1
+1,1,,26,9,,16/07/2019 14:13,3783,,16/07/2019 14:10,40.70838,,-74.00495,,Cliff St & Fulton St,,839,Cliff St & Fulton St,1,In Service,Falso,37,1
+1,1,,22,0,,16/07/2019 14:13,3787,,16/07/2019 14:12,40.69985,,-73.97141,,Dock 72 Way & Market St,,840,Dock 72 Way & Market St,1,In Service,Falso,22,1
+1,1,,6,20,,16/07/2019 14:13,3788,,16/07/2019 14:12,40.73269,,-73.98974,,E 12 St & 4 Av,,841,E 12 St & 4 Av,1,In Service,Falso,27,1
+1,1,,28,9,,16/07/2019 14:13,3790,,16/07/2019 14:09,40.7003,,-73.991581,,Henry St & Middagh St,,842,Henry St & Middagh St,1,In Service,Falso,37,1
+1,1,,20,12,,16/07/2019 14:13,3791,,16/07/2019 14:09,40.73520838,,-74.04696375,,Hoboken Ave at Monmouth St,,843,Hoboken Ave at Monmouth St,1,In Service,Falso,32,1
+1,1,,21,8,,16/07/2019 14:13,3792,,16/07/2019 14:09,40.71687,,-74.03281,,Columbus Dr at Exchange Pl,,844,Columbus Dr at Exchange Pl,1,In Service,Falso,30,1
+1,1,,18,0,,16/07/2019 14:13,3795,,16/07/2019 14:12,40.671907,,-73.993612,,10 St & 2 Ave,,845,10 St & 2 Ave,1,In Service,Falso,19,1
+1,1,,0,0,,16/07/2019 14:13,3800,,31/12/1969 19:00,0,,0,,Van dyke,,846,Van dyke,1,Not In Service,Falso,0,1
+1,1,,0,0,,16/07/2019 14:13,3801,,31/12/1969 19:00,0,,0,,Van dyke& Pioneer,,847,Van dyke& Pioneer,1,Not In Service,Falso,0,1
+1,1,,0,0,,16/07/2019 14:13,3802,,31/12/1969 19:00,0,,0,,Van dyke&Pioneer,,848,Van dyke&Pioneer,1,Not In Service,Falso,0,1
+,,,,,,,152,,,40.71473993,,-74.00910627,,,,,Warren St & Church St,,Not in catalog,,,
+,,,,,,,232,,,40.69597683,,-73.99014892,,,,,Cadman Plaza E & Tillary St,,Not in catalog,,,
+,,,,,,,253,,,40.73543934,,-73.99453948,,,,,W 13 St & 5 Ave,,Not in catalog,,,
+,,,,,,,306,,,40.70823502,,-74.00530063,,,,,Cliff St & Fulton St_1,,Not in catalog,,,
+,,,,,,,322,,,40.696192,,-73.991218,,,,,Clinton St & Tillary St,,Not in catalog,,,
+,,,,,,,345,,,40.73649403,,-73.99704374,,,,,W 13 St & 6 Ave,,Not in catalog,,,
+,,,,,,,407,,,40.700469,,-73.991454,,,,,Henry St & Poplar St,,Not in catalog,,,
+,,,,,,,409,,,40.6906495,,-73.95643107,,,,,DeKalb Ave & Skillman St,,Not in catalog,,,
+,,,,,,,428,,,40.72467721,,-73.98783413,,,,,E 3 St & 1 Ave,,Not in catalog,,,
+,,,,,,,430,,,40.7014851,,-73.98656928,,,,,York St & Jay St,,Not in catalog,,,
+,,,,,,,433,,,40.72955361,,-73.98057249,,,,,E 13 St & Avenue A,,Not in catalog,,,
+,,,,,,,449,,,40.76461837,,-73.98789473,,,,,W 52 St & 9 Ave,,Not in catalog,,,
+,,,,,,,457,,,40.76695317,,-73.98169333,,,,,Broadway & W 58 St,,Not in catalog,,,
+,,,,,,,527,,,40.744023,,-73.976056,,,,,E 33 St & 2 Ave,,Not in catalog,,,
+,,,,,,,537,,,40.74025878,,-73.98409214,,,,,Lexington Ave & E 24 St,,Not in catalog,,,
+,,,,,,,2001,,,40.699773,,-73.979927,,,,,Sands St & Navy St,,Not in catalog,,,
+,,,,,,,3036,,,40.662908,,-73.999722,,,,,8D OPS 01,,Not in catalog,,,
+,,,,,,,3040,,,40.66979964,,-73.99497986,,,,,GOW Tech Shop,,Not in catalog,,,
+,,,,,,,3073,,,40.70691254,,-73.95441667,,,,,Division Ave & Hooper St,,Not in catalog,,,
+,,,,,,,3090,,,40.71774592,,-73.95600096,,,,,N 8 St & Driggs Ave,,Not in catalog,,,
+,,,,,,,3091,,,40.71764,,-73.94882,,,,,Frost St & Meeker St,,Not in catalog,,,
+,,,,,,,3103,,,40.72153267,,-73.95782357,,,,,N 11 St & Wythe Ave,,Not in catalog,,,
+,,,,,,,3120,,,40.74161,,-73.96044,,,,,Center Blvd & Borden Ave,,Not in catalog,,,
+,,,,,,,3147,,,40.77801203,,-73.95407149,,,,,E 85 St & 3 Ave,,Not in catalog,,,
+,,,,,,,3153,,,40.76817547,,-73.95910263,,,,,E 71 St & 2 Ave,,Not in catalog,,,
+,,,,,,,3176,,,40.77452835,,-73.98753759,,,,,W 64 St & West End Ave,,Not in catalog,,,
+,,,,,,,3180,,,40.69878,,-73.99712,,,,,Brooklyn Bridge Park - Pier 2,,Not in catalog,,,
+,,,,,,,3183,,,40.7162469,,-74.0334588,,,,,Exchange Place,,Not in catalog,,,
+,,,,,,,3224,,,40.73997354,,-74.00513873,,,,,W 13 St & Hudson St,,Not in catalog,,,
+,,,,,,,3238,,,40.7739139,,-73.95439535,,,,,E 80 St & 2 Ave,,Not in catalog,,,
+,,,,,,,3239,,,40.64653837,,-74.01658773,,,,,Bressler,,Not in catalog,,,
+,,,,,,,3240,,,40.75903008,,-73.9938587,,,,,NYCBS Depot BAL - DYR,,Not in catalog,,,
+,,,,,,,3245,,,40.71644423,,-73.98233056,,,,,NYCBS DEPOT - DELANCEY,,Not in catalog,,,
+,,,,,,,3250,,,40.71690978,,-73.98383796,,,,,NYCBS Depot - PIT,,Not in catalog,,,
+,,,,,,,3258,,,40.75018156,,-74.00218427,,,,,W 27 St & 10 Ave,,Not in catalog,,,
+,,,,,,,3316,,,40.7989937,,-73.96621738,,,,,W 104 St & Amsterdam Ave - 1,,Not in catalog,,,
+,,,,,,,3325,,,40.7849032,,-73.950503,,,,,E 95 St & 3 Ave,,Not in catalog,,,
+,,,,,,,3371,,,40.67461342,,-73.98501143,,,,,4 Ave & 2 St,,Not in catalog,,,
+,,,,,,,3401,,,40.6724811,,-73.99331394,,,,,2 Ave & 9 St,,Not in catalog,,,
+,,,,,,,3421,,,40.6843549,,-73.98901629,,,,,Hoyt St & Warren St,,Not in catalog,,,
+,,,,,,,3426,,,40.709651,,-74.068601,,,,,JCBS Depot,,Not in catalog,,,
+,,,,,,,3428,,,40.740983,,-74.001702,,,,,8 Ave & W 16 St,,Not in catalog,,,
+,,,,,,,3431,,,40.746524,,-73.977885,,,,,E 35 St & 3 Ave,,Not in catalog,,,
+,,,,,,,3432,,,40.66906014,,-73.99463654,,,,,NYCBS Depot - GOW,,Not in catalog,,,
+,,,,,,,3438,,,40.77224854,,-73.95842135,,,,,E 76 St & 3 Ave,,Not in catalog,,,
+,,,,,,,3441,,,40.752957,,-74.00264,,,,,10 Hudson Yards,,Not in catalog,,,
+,,,,,,,3447,,,40.76703432,,-73.9562273,,,,,E 71 St & 1 Ave,,Not in catalog,,,
+,,,,,,,3455,,,40.68680821,,-73.98036182,,,,,Schermerhorn St & 3 Ave,,Not in catalog,,,
+,,,,,,,3462,,,40.75118387,,-73.97138715,,,,,E 44 St & 2 Ave,,Not in catalog,,,
+,,,,,,,3466,,,40.75668721,,-73.98257732,,,,,W 45 St & 6 Ave (OLD),,Not in catalog,,,
+,,,,,,,3468,,,40.7303801,,-73.9747502,,,,,NYCBS Depot - STY - Garage 4,,Not in catalog,,,
+,,,,,,,3474,,,40.7252557,,-74.00412083,,,,,6 Ave & Spring St,,Not in catalog,,,
+,,,,,,,3485,,,40.725208,,-73.974724,,,,,NYCBS Depot - RIS,,Not in catalog,,,
+,,,,,,,3487,,,40.65659567,,-74.00849283,,,,,Prototype Lab Motivate Headquarters,,Not in catalog,,,
+,,,,,,,3488,,,45.50636405,,-73.56946349,,,,,8D QC Station 01,,Not in catalog,,,
+,,,,,,,3489,,,40.71069995,,-74.00354147,,,,,Gold St & Frankfort St,,Not in catalog,,,
+,,,,,,,3594,,,40.6661649,,-73.9593484,,,,,Montgomery St & Franklin Ave OLD,,Not in catalog,,,
+,,,,,,,3625,,,40.7525758,,-73.9364281,,,,,28 St & 40 Ave,,Not in catalog,,,
+,,,,,,,3632,,,40.72804857,,-73.9788115,,,,,E 12 St & Avenue B,,Not in catalog,,,
+,,,,,,,3635,,,40.75462324,,-73.99516761,,,,,W 36 St & 9 Ave,,Not in catalog,,,
+,,,,,,,3642,,,40.7872852,,-73.95012259,,,,,E 98 St & Lexington Ave,,Not in catalog,,,
+,,,,,,,3643,,,40.75272201,,-73.98123622,,,,,E 41 St & 5 Ave,,Not in catalog,,,
+,,,,,,,3644,,,40.67581623,,-74.01488185,,,,,Van Dyke St & Van Brunt St,,Not in catalog,,,
+,,,,,,,3645,,,40.67233267,,-73.99706125,,,,,Bike Mechanics at Riis Room B,,Not in catalog,,,
+,,,,,,,3650,,,45.50626419,,-73.56890559,,,,,8D Mobile 01,,Not in catalog,,,
+,,,,,,,3651,,,40.72522577,,-73.97468617,,,,,Bike Mechanics at Riis Room A,,Not in catalog,,,
+,,,,,,,3652,,,40.67013328,,-73.99230838,,,,,NYCBS Depot - 3AV,,Not in catalog,,,
+,,,,,,,3653,,,40.75820465,,-73.9283216,,,,,31 St & 35 Ave,,Not in catalog,,,
+,,,,,,,3658,,,40.74353373,,-74.00367558,,,,,W 18 St & 9 Ave,,Not in catalog,,,
+,,,,,,,3660,,,40.74102151,,-74.00138497,,,,,W 16 St & 8 Ave,,Not in catalog,,,
+,,,,,,,3663,,,40.67716489,,-73.97382796,,,,,Sterling Pl & 7 Ave,,Not in catalog,,,
+,,,,,,,3666,,,40.76642553,,-73.92062902,,,,,32 St & 30 Ave,,Not in catalog,,,
+,,,,,,,3669,,,40.67630358,,-74.00314048,,,,,Henry St & W 9 St,,Not in catalog,,,
+,,,,,,,3672,,,40.66976709,,-73.99474382,,,,,Apache,,Not in catalog,,,
+,,,,,,,3683,,,40.71015471,,-73.98453534,,,,,Smart Cities Conference,,Not in catalog,,,
+,,,,,,,3684,,,40.73756121,,-74.00398269,,,,,W 12 St & W 4 St,,Not in catalog,,,
+,,,,,,,3685,,,40.66065237,,-73.96459043,,,,,Prospect Park - 5 Year Anniversary Celebration,,Not in catalog,,,
+,,,,,,,3688,,,40.75792021,,-73.96638215,,,,,2 Ave & E 55 St,,Not in catalog,,,
+,,,,,,,3695,,,40.72686952,,-73.98919031,,,,,E 5 St & 2 Ave,,Not in catalog,,,
+,,,,,,,3700,,,40.77940609,,-73.95333588,,,,,E 87 St & 3 Ave,,Not in catalog,,,
+,,,,,,,3701,,,40.70831794,,-74.00504082,,,,,Cliff St & Fulton St,,Not in catalog,,,
+,,,,,,,3705,,,40.728401,,-73.999688,,,,,Thompson St & Bleecker St,,Not in catalog,,,
+,,,,,,,3719,,,40.68322254,,-73.97381186,,,,,S Portland Ave & Atlantic Ave,,Not in catalog,,,
+,,,,,,,147,,,40.71542197,,-74.01121978,,,,,Greenwich St & Warren St,,Not in catalog,,,
+,,,,,,,153,,,40.75206231,,-73.9816324,,,,,E 40 St & 5 Ave,,Not in catalog,,,
+,,,,,,,225,,,40.74195138,,-74.00803013,,,,,W 14 St & The High Line,,Not in catalog,,,
+,,,,,,,255,,,40.646768,,-74.01651,,,,,NYCBS Depot - SSP,,Not in catalog,,,
+,,,,,,,348,,,40.72490985,,-74.00154702,,,,,W Broadway & Spring St,,Not in catalog,,,
+,,,,,,,352,,,40.76340613,,-73.97722479,,,,,W 56 St & 6 Ave,,Not in catalog,,,
+,,,,,,,367,,,40.75828065,,-73.97069431,,,,,E 53 St & Lexington Ave,,Not in catalog,,,
+,,,,,,,384,,,40.683048,,-73.964915,,,,,Fulton St & Washington Ave,,Not in catalog,,,
+,,,,,,,395,,,40.68807003,,-73.98410637,,,,,Bond St & Schermerhorn St,,Not in catalog,,,
+,,,,,,,444,,,40.7423543,,-73.98915076,,,,,Broadway & W 24 St,,Not in catalog,,,
+,,,,,,,475,,,40.73524276,,-73.98758561,,,,,E 16 St & Irving Pl,,Not in catalog,,,
+,,,,,,,488,,,40.75645824,,-73.99372222,,,,,W 39 St & 9 Ave,,Not in catalog,,,
+,,,,,,,511,,,40.72938685,,-73.97772429,,,,,E 14 St & Avenue B,,Not in catalog,,,
+,,,,,,,2004,,,40.724399,,-74.004704,,,,,6 Ave & Broome St,,Not in catalog,,,
+,,,,,,,3017,,,40.751483,,-73.996764,,,,,NYCBS Depot - FAR,,Not in catalog,,,
+,,,,,,,3098,,,40.71928,,-73.94861,,,,,Leonard St & Bayard St,,Not in catalog,,,
+,,,,,,,3111,,,40.7258483,,-73.95064893,,,,,Norman Ave & Leonard St,,Not in catalog,,,
+,,,,,,,3114,,,40.73165141,,-73.96161892,,,,,India St & East River,,Not in catalog,,,
+,,,,,,,3188,,,40.710109,,-74.085849,,,,,NJCU,,Not in catalog,,,
+,,,,,,,3197,,,40.752559,,-74.044725,,,,,North St,,Not in catalog,,,
+,,,,,,,3219,,,40.729193,,-73.976655,,,,,NYCBS Depot - STY,,Not in catalog,,,
+,,,,,,,3230,,,40.7512836,,-73.99692446,,,,,Penn Station Valet,,Not in catalog,,,
+,,,,,,,3237,,,40.75383343,,-73.94267678,,,,,21 St & 41 Ave,,Not in catalog,,,
+,,,,,,,3246,,,40.69428114,,-73.99230033,,,,,Montague St & Clinton St,,Not in catalog,,,
+,,,,,,,3247,,,0,,0,,,,,SSP - Basement,,Not in catalog,,,
+,,,,,,,3248,,,0,,0,,,,,LPI Facility,,Not in catalog,,,
+,,,,,,,3253,,,40.67280641,,-73.96886587,,,,,Bike The Branches - Central Branch,,Not in catalog,,,
+,,,,,,,3257,,,40.77376867,,-73.97116989,,,,,Adventures NYC,,Not in catalog,,,
+,,,,,,,3264,,,40.76421007,,-73.96910459,,,,,E 61 St & Park Ave,,Not in catalog,,,
+,,,,,,,3265,,,40.72456343,,-73.98944378,,,,,E 2 St & 2 Ave E,,Not in catalog,,,
+,,,,,,,3353,,,40.6747844,,-74.01612847,,,,,Reed St & Van Brunt St,,Not in catalog,,,
+,,,,,,,3436,,,40.721319,,-74.010065,,,,,Greenwich St & Hubert St,,Not in catalog,,,
+,,,,,,,3445,,,40.79181172,,-73.97860229,,,,,Riverside Dr & W 89 St,,Not in catalog,,,
+,,,,,,,3446,,,0,,0,,,,,NYCBS Depot - STY - Valet Scan,,Not in catalog,,,
+,,,,,,,3450,,,40.7512836,,-73.9969245,,,,,Penn Station Valet - Valet Scan,,Not in catalog,,,
+,,,,,,,3464,,,40.75227094,,-73.98770571,,,,,W 37 St & Broadway,,Not in catalog,,,
+,,,,,,,3470,,,40.669802,,-73.994905,,,,,Gowanus Tech Station,,Not in catalog,,,
+,,,,,,,3471,,,40.668884,,-73.994814,,,,,NYCBS Depot - GOW Annex,,Not in catalog,,,
+,,,,,,,3476,,,40.72576997,,-73.9507395,,,,,Norman Ave & Leonard St,,Not in catalog,,,
+,,,,,,,3480,,,0,,0,,,,,Washington Street (Don't Use),,Not in catalog,,,
+,,,,,,,3548,,,40.6777747,,-73.9529322,,,,,Pacific St & Bedford Ave,,Not in catalog,,,
+,,,,,,,3550,,,40.81413,,-73.953005,,,,,Convent Ave & W 129 St,,Not in catalog,,,
+,,,,,,,3633,,,0,,0,,,,,333 Johnson TEST 1,,Not in catalog,,,
+,,,,,,,3636,,,40.70773148,,-73.93452287,,,,,Expansion Warehouse 333 Johnson Ave,,Not in catalog,,,
+,,,,,,,8000,,,0,,0,,,,,Not specified,,Not in catalog,,,
+,,,,,,,9000,,,0,,0,,,,,Not specified,,Not in catalog,,,
+,,,,,,,3215,,,0,,0,,,,,JSQ Don't Use,,Not in catalog,,,
