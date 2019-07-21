@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Citi Bike NYC</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/lux/bootstrap.min.css" media="screen">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>    
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="wrapper">
+    <div class="header">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">  
+          <a class="navbar-brand" href="index.html"> &nbsp;&nbsp;BKACHAVA&nbsp;&nbsp;</a>  
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item"><a class="nav-link" href="index.html">Home</a</li>
+			  <li class="nav-item"><a class="nav-link" href="compare.html">Comparison</a</li>
+              <li class="nav-item"><a class="nav-link" href="trips.html">Trips</a</li>
+			  <li class="nav-item active"><a class="nav-link" href="stations.html">Stations</a></li>
+              <li class="nav-item"><a class="nav-link" href="seasons.html">Seasons</a></li>
+              <li class="nav-item"><a class="nav-link" href="gender.html">Gender</a></li>
+              <li class="nav-item"><a class="nav-link" href="age.html">Age</a></li>
+              <li class="nav-item"><a class="nav-link" href="mileage.html">Mileage</a></li>
+              <li class="nav-item"><a class="nav-link" href="distance.html">Distance</a></li>			  
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+    <div class="content">
+	<div class="row">  
+	    <div class="col-md-12">
+		<p></p><p></p>
+		</div>
+	</div>
+     <div class="row">  
+        <div class="col-md">
+        </div>
+   	   <div class="col-md-2"><p></p><p></p>
+          <h4 class="text-center">2017</h4>
+          <hr class="my-6">
+            <p class="text-info text-justify font-weight-bold">The top 10 stations for starting
+			a journey were those located near mass transit stops like Grand Central, Penn 
+			Station, and Port Authority Bus Terminal. <br>The sum of trips starting in these stations,
+			represented only 6% of total trips.</p>
+        </div>
+        <div class="col-md-4">
+			<img src="images/2017_top10_start.png" />
+        </div>
+        <div class="col-md-5">
+			<img src="images/2017_top10_end.png" />
+        </div>
+       </div>   
+    </div>
+
+      <div class="row">  
+        <div class="col-md">
+        </div>
+   	   <div class="col-md-2"><p></p><p></p>
+          <p class="text-muted text-justify font-weight-bold">The top 10 stations for ending a journey
+			were almost identical to the top 10 stations for starting a journey, except for the last one.
+			<br>The sum of trips starting in these stations,
+			represented only 7% of total trips.</p>
+         
+           <p class="text-danger text-justify font-weight-bold"><br>Explore the changes over time by selecting
+		   the months located on the right side of the map. If you want to know which stations did not have trips, 
+		   select No Trips instead.</p>
+
+        </div>
+        <div class="col-md-9">
+         <div class='tableauPlaceholder' id='viz1563604179830' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2017_15635661938330&#47;Map&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='citibike2017_15635661938330&#47;Map' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2017_15635661938330&#47;Map&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1563604179830');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+       </div>   
+     </div>
+	<div class="row">  
+	    <div class="col-md-12">
+		<p></p><p></p>
+		</div>
+	</div>
+
+      <div class="row">  
+        <div class="col-md">
+        </div>
+   	   <div class="col-md-2"><p></p><p></p>
+            <p class="text-info text-justify font-weight-bold">The majority of the bottom 10 
+			stations for starting or ending a journey were not registered on the official 
+			catalog, however the reason why they were at the bottom could be inferred by 
+			reading the name of the station (e.g. depot, test, don't use).</p>
+
+        </div>
+        <div class="col-md-4">
+			<img src="images/2017_bot10_start.png" />
+        </div>
+        <div class="col-md-5">
+			<img src="images/2017_bot10_end.png" />
+        </div>
+     </div>
+     <div class="row">  
+        <div class="col-md-12">
+			<hr class="my-6">
+        </div>
+    </div>
+ 	<div class="row">  
+        <div class="col-md">
+        </div>
+   	   <div class="col-md-2"><p></p><p></p>
+          <h4 class="text-center">2018</h4>
+          <hr class="my-6">
+            <p class="text-muted text-justify font-weight-bold">The top 10 stations for starting
+			or ending a journey were also those located near mass transit stops like Grand Central, Penn 
+			Station, and Port Authority Bus Terminal. <br>The sum of trips starting or ending in these stations,
+			represented only 6% of total trips.</p>
+        </div>
+        <div class="col-md-4">
+			<img src="images/2018_top10_start.png" />
+        </div>
+        <div class="col-md-5">
+			<img src="images/2018_top10_end.png" />
+        </div>
+       </div>   
+    </div>
+
+	
+	 <div class="row">  
+        <div class="col-md">
+        </div>
+   	   <div class="col-md-2"><p></p><p></p>
+              <p class="text-danger text-justify font-weight-bold"><br>Explore the changes over time by selecting
+		   the months located on the right side of the map. If you want to know which stations did not have trips, 
+		   select No Trips instead.</p>
+        </div>
+        <div class="col-md-9">
+         <div class='tableauPlaceholder' id='viz1563674578346' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2018_15635704628040&#47;Map&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='citibike2018_15635704628040&#47;Map' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ci&#47;citibike2018_15635704628040&#47;Map&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1563674578346');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+       </div>   
+	      
+    </div>
+      <div class="row">  
+        <div class="col-md">
+        </div>
+   	   <div class="col-md-2"><p></p><p></p>
+            <p class="text-info text-justify font-weight-bold">Also, the majority of the bottom 10 
+			stations for starting or ending a journey were not registered on the official 
+			catalog, however the reason why they were at the bottom could be inferred by 
+			reading the name of the station (e.g. depot, lab, ops).</p>
+        </div>
+        <div class="col-md-4">
+			<img src="images/2018_bot10_start.png" />
+        </div>
+        <div class="col-md-5">
+			<img src="images/2018_bot10_end.png" />
+        </div>
+     </div>
+
+     <div class="row">  
+        <div class="col-md-12">
+			<hr class="my-6">
+             <p class="text-primary text-justify"><strong>White collar workers. Refers to employees whose job 
+			entails, largely or entirely, mental or clerical work, such as in an office. The term white collar 
+			work used to characterize non-manual workers, but now it refers to employees or professionals 
+			whose work is knowledge intensive, non-routine, and unstructured.</strong></p>
+
+        </div>
+    </div>
+	 
+
+	 
+</div>
+</div>		
+</body>
+</html>

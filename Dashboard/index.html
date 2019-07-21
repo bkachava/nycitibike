@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Citi Bike NYC</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/lux/bootstrap.min.css" media="screen">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>    
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+  <div class="wrapper">
+    <div class="header">
+      <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">  
+          <a class="navbar-brand" href="index.html"> &nbsp;&nbsp;BKACHAVA&nbsp;&nbsp;</a>  
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active"><a class="nav-link" href="index.html">Home</a</li>
+			  <li class="nav-item"><a class="nav-link" href="compare.html">Comparison</a</li>
+              <li class="nav-item"><a class="nav-link" href="trips.html">Trips</a</li>
+			  <li class="nav-item"><a class="nav-link" href="stations.html">Stations</a></li>
+              <li class="nav-item"><a class="nav-link" href="seasons.html">Seasons</a></li>
+              <li class="nav-item"><a class="nav-link" href="stations.html">Gender</a></li>
+              <li class="nav-item"><a class="nav-link" href="age.html">Age</a></li>
+              <li class="nav-item"><a class="nav-link" href="mileage.html">Mileage</a></li>
+              <li class="nav-item"><a class="nav-link" href="distance.html">Distance</a></li>			  
+            </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+    <div class="content">
+	<div class="row">  
+	    <div class="col-md-12">
+		<p></p><p></p>
+		</div>
+	</div>
+      <div class="row">  
+        <div class="col-md">
+        </div>
+       <div class="col-md-3"><p></p><p></p>
+		<img src="images/logo.png" width="80%" />
+		<p></p><p></p><p></p>
+	   <img src="images/bike.jpg" width="80%" />  
+       </div>   
+   	   <div class="col-md-7"><p></p><p></p>
+          <h3 class="text-center">New York City - Citi Bike Program</h3>
+            <p class="text-info"><strong>Citi Bike, NYC's official bike share program, was designed to give residents 
+			and visitors a fun, affordable and convenient alternative to walking, taxis, buses and subways. </strong></p>
+			<p class="text-info"><strong>There are 800 Citi Bike stations and 13,000 bikes across Manhattan, 
+			Brooklyn, Queens and Jersey City. </strong></p>
+			<p class="text-info"><strong>You can join as an Annual Member (Suscriber) or buy a Day Pass or 3-Day Pass 
+			(Customer), and you can take as many rides as you want while your membership or pass is active. </strong></p>
+            <p class="text-info"><strong>The first 45 minutes of each ride is included for Suscribers, 
+			and the first 30 minutes of each ride for Customers. If you want to keep a bike out for longer, 
+			there is an extra fee for each additional 15 minutes. </strong></p>
+            <p class="text-info"><strong>Taking this into consideration, feel free to explore some visualizations for 2017 -
+			2018 program's operation by selecting any option from the menu. </strong></p>
+			
+        </div>
+        <div class="col-md">
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>
