@@ -213,7 +213,7 @@ The visualizations for 2018 can be seen in the Tableau file located
 [here](/Tableau/citibike2018.twbx).
 
 The comparing visualizations between the two years can be seen in the 
-Tableau file located [here](citibikecomp.twbx).
+Tableau file located [here](/Tableau/citibikecomp.twbx).
 
 
 ### 8. Drawing conclusions
