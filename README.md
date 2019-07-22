@@ -63,17 +63,10 @@ making process done in the next steps.
 
 The Citi Bike System Data provides csv files that include:
 
-Trip Duration (seconds)
-Start Time and Date
-Stop Time and Date
-Start Station Name
-End Station Name
-Station ID
-Station Lat/Long
-Bike ID
-User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
-Gender (Zero=unknown; 1=male; 2=female)
-Year of Birth
+Trip Duration (seconds) | Start Time and Date | Stop Time and Date |
+Start Station Name | End Station Name | Station ID | Station Lat/Long |
+Bike ID | User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member) |
+Gender (Zero=unknown; 1=male; 2=female) | Year of Birth
 
 During this activity, the period needed to answer the questions 
 was set to 2017 and 2018, and it was necessary to download 24 csv files.
@@ -115,23 +108,15 @@ The Citi Bike System Data establish in its web page that the data
 has been processed to exclude some types of trips, however there 
 were data points like the following:
 
-Year 2018 
-Month January
-Trip duration in seconds 4'421,929 - Approximately 51 days
-From station 270 - Adelphi St & Myrtle Ave	
-To station 3652 - NYCBS Depot - 3AV	
+Year 2018 | Month January | Trip duration in seconds 4'421,929 - Approximately 51 days |
+From station 270 - Adelphi St & Myrtle Ave	 | To station 3652 - NYCBS Depot - 3AV	
 
-Year 2018 
-Month May
-Trip duration in seconds 2'587,767 - Approximately 30 days
-From station 3374 - Central Park North & Adam Clayton Powell Blvd
+Year 2018 | Month May | Trip duration in seconds 2'587,767 - Approximately 30 days |
+From station 3374 - Central Park North & Adam Clayton Powell Blvd | 
 To station 3426 - JCBS Depot
 
-Year 2018 
-Month July
-Trip duration in seconds 301,182 - Approximately 3.5 days
-From station 423 - W 54 St & 9 Ave
-To station 3645 - Bike Mechanics at Riis Room B
+Year 2018 | Month July | Trip duration in seconds 301,182 - Approximately 3.5 days |
+From station 423 - W 54 St & 9 Ave | To station 3645 - Bike Mechanics at Riis Room B
 
 These rows could be considered as trips, because they started at a
 publicly available stations, however the trip duration goes
@@ -222,13 +207,13 @@ with zip code data are showed. Also, through filters the user can see how each
 station's popularity changes over time.
 
 The visualizations for 2017 can be seen in the Tableau file located 
-[here](/Tableau/citibike2017.twbx)
+[here](/Tableau/citibike2017.twbx).
 
 The visualizations for 2018 can be seen in the Tableau file located 
-[here](/Tableau/citibike2018.twbx)
+[here](/Tableau/citibike2018.twbx).
 
 The comparing visualizations between the two years can be seen in the 
-Tableau file located [here](citibikecomp.twbx)
+Tableau file located [here](citibikecomp.twbx).
 
 
 ### 8. Drawing conclusions
@@ -260,7 +245,7 @@ The visualizations are colorful enough to be included in press releases,
 and the analysis is thoughtful enough for dictating programmatic changes.
  
 
-See the [dashboard](https://bkachava.github.io/nycitibike/Dashboard/index.html)
+See the [dashboard](https://bkachava.github.io/nycitibike/Dashboard/index.html).
 
-![dash](images/dashboard.png)
+![dash](/Dashboard/images/dashboard.png)
 
