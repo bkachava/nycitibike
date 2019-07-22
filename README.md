@@ -184,8 +184,9 @@ in the [Jupyter Notebooks](/Notebooks).
 Before trying to load more than 33 million records in Tableau, 
 __aggregates__ using Pandas were created. These aggregates where saved as 
 csv files for later use as data sources in Tableau. The aggregates
-for 2017 can be seen [here](/Notebooks/2017) and the aggregates
-for 2018 can be seen [here](/Notebooks/2018).
+for 2017 can be seen [here](/Notebooks/2017), the aggregates
+for 2018 can be seen [here](/Notebooks/2018), and the comparison 
+can be seen [here](/Notebooks/comparison).
 
 
 ### 6. Creating visualizations
@@ -244,6 +245,8 @@ interactivity that Tableau provides.
 The visualizations are colorful enough to be included in press releases, 
 and the analysis is thoughtful enough for dictating programmatic changes.
  
+
+## Dashboard
 
 See the [dashboard](https://bkachava.github.io/nycitibike/Dashboard/index.html).
 
