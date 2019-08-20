@@ -17,7 +17,7 @@ or pass is active.
 ## Assignment
 
 To implement a dashboard or reporting process for answering City officials 
-questions on the program using the bike data collected, organized, 
+questions on the program taking in consideration the bike data collected, organized, 
 and made public on the [Citi Bike System Data](https://www.citibikenyc.com/system-data),
 using Tableau in some way.
 
